@@ -44,4 +44,4 @@ mengedit PivotTable secara manual — cukup klik kategori yang diinginkan.
 5. Seluruh chart & angka akan otomatis ter-update mengikuti filter yang dipilih
 
 ## 6. Screenshot
-> ![Dashboard Overview](docs/screenshots)
+> ![Dashboard Overview](docs/screenshots/dashboard1.png)
