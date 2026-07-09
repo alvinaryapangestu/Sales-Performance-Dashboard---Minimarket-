@@ -32,7 +32,7 @@ dirancang untuk menjawab kebutuhan tersebut secara real-time dan self-service.
 | Analysis | Data Cleaning, Aggregation, Business Insight |
 
 ## 📂 Struktur Repository
-
+```
 sales-dashboard-minimarket-excel/
 ├── data/
 │   ├── raw/                    -> data_mentah.csv (data transaksi awal)
@@ -45,7 +45,7 @@ sales-dashboard-minimarket-excel/
 │   ├── business_recommendation.md
 │   └── screenshots/
 └── README.md
-
+```
 
 
 ## 🔍 Proses Pengerjaan
