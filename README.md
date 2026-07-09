@@ -81,4 +81,4 @@ Detail lengkap & rekomendasi strategis:
 
 **Alvin Arya Pangestu**
 Fresh Graduate — Informatika, Universitas Darussalam Gontor
-[LinkedIn]([www.linkedin.com/in/alvinaryapangestu](https://www.linkedin.com/in/alvinaryapangestu/)) 
+[LinkedIn](https://www.linkedin.com/in/alvinaryapangestu) 
