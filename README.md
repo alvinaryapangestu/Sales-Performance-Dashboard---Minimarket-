@@ -32,6 +32,7 @@ dirancang untuk menjawab kebutuhan tersebut secara real-time dan self-service.
 | Analysis | Data Cleaning, Aggregation, Business Insight |
 
 ## 📂 Struktur Repository
+
 sales-dashboard-minimarket-excel/
 ├── data/
 │   ├── raw/                    -> data_mentah.csv (data transaksi awal)
@@ -74,7 +75,7 @@ Detail lengkap & rekomendasi strategis:
 
 ## 🖼️ Screenshot Dashboard
 
-> ![Dashboard]([docs/screenshots/dashboard_overview.png](https://github.com/alvinaryapangestu/Sales-Performance-Dashboard---Minimarket-/blob/5f91004547b420837e4e14a624f5348d0426e2ff/docs/screenshots/dashboard1.png))
+> ![Dashboard](https://github.com/alvinaryapangestu/Sales-Performance-Dashboard---Minimarket-/blob/5d60c36b5597e2d0730d96af65686301880ab011/docs/screenshots/dashboard1.png)
 > ![Dashboard](https://github.com/alvinaryapangestu/Sales-Performance-Dashboard---Minimarket-/blob/0503f5ed21d93b118d9bd6c7a47026354b03c905/docs/screenshots/dashboard%202.png)
 
 ## 👤 Author
