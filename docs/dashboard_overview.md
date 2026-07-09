@@ -44,4 +44,4 @@ mengedit PivotTable secara manual — cukup klik kategori yang diinginkan.
 5. Seluruh chart & angka akan otomatis ter-update mengikuti filter yang dipilih
 
 ## 6. Screenshot
-> ![Dashboard Overview]([docs/screenshots/dashboard1.png](https://github.com/alvinaryapangestu/Sales-Performance-Dashboard---Minimarket-/tree/4d815125d4b474ce7054579fb43aa7031cbc4305/docs/screenshots))
+> ![Dashboard Overview](https://github.com/alvinaryapangestu/Sales-Performance-Dashboard---Minimarket-/blob/dabb48308391bfb078de712b44935ff996b3cca7/docs/screenshots/dashboard1.png)
