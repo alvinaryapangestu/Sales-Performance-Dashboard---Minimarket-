@@ -74,7 +74,8 @@ Detail lengkap & rekomendasi strategis:
 
 ## 🖼️ Screenshot Dashboard
 
-> ![Dashboard](docs/screenshots/dashboard_overview.png)
+> ![Dashboard]([docs/screenshots/dashboard_overview.png](https://github.com/alvinaryapangestu/Sales-Performance-Dashboard---Minimarket-/blob/5f91004547b420837e4e14a624f5348d0426e2ff/docs/screenshots/dashboard1.png))
+> ![Dashboard]([docs/screenshots/dashboard_overview.png](https://github.com/alvinaryapangestu/Sales-Performance-Dashboard---Minimarket-/blob/5f91004547b420837e4e14a624f5348d0426e2ff/docs/screenshots/dashboard1.png))
 
 ## 👤 Author
 
