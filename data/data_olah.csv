@@ -1,0 +1,1001 @@
+Segment,Country,Product,Discount Band, Units Sold ,Manufacturing Price,Sale Price,Sales,COGS,Profit,Date,%Profit
+Channel Partners,Singapore,Gula Gulaku,None," 1,216 ","Rp 21,100","Rp 26,375","Rp 32,072,000","Rp 25,657,600","Rp 6,414,400",1 Jan 2025,20%
+Channel Partners,Laos,Ultra Milk,None," 1,734 ","Rp 9,900","Rp 12,375","Rp 21,458,250","Rp 17,166,600","Rp 4,291,650",6 Jan 2025,20%
+Channel Partners,Brunei,Teh Botol,None, 267 ,"Rp 9,800","Rp 12,250","Rp 3,270,750","Rp 2,616,600","Rp 654,150",10 Jan 2025,20%
+Channel Partners,Laos,Biskuat,None," 2,129 ","Rp 23,800","Rp 29,750","Rp 63,337,750","Rp 50,670,200","Rp 12,667,550",12 Jan 2025,20%
+Channel Partners,Indonesia,Indomie,None," 2,701 ","Rp 21,100","Rp 26,375","Rp 71,238,875","Rp 56,991,100","Rp 14,247,775",14 Jan 2025,20%
+Channel Partners,Philippines,Indomie,None," 1,596 ","Rp 22,500","Rp 28,125","Rp 44,887,500","Rp 35,910,000","Rp 8,977,500",14 Jan 2025,20%
+Channel Partners,Brunei,Teh Botol,None, 507 ,"Rp 10,700","Rp 13,375","Rp 6,781,125","Rp 5,424,900","Rp 1,356,225",16 Jan 2025,20%
+Channel Partners,Indonesia,Biskuat,None, 519 ,"Rp 18,200","Rp 22,750","Rp 11,807,250","Rp 9,445,800","Rp 2,361,450",17 Jan 2025,20%
+Channel Partners,Indonesia,Sari Roti,None," 2,745 ","Rp 8,700","Rp 10,875","Rp 29,851,875","Rp 23,881,500","Rp 5,970,375",18 Jan 2025,20%
+Channel Partners,Philippines,Tango,None," 1,331 ","Rp 14,600","Rp 18,250","Rp 24,290,750","Rp 19,432,600","Rp 4,858,150",18 Jan 2025,20%
+Channel Partners,Thailand,Ultra Milk,None, 808 ,"Rp 16,400","Rp 20,500","Rp 16,564,000","Rp 13,251,200","Rp 3,312,800",21 Jan 2025,20%
+Channel Partners,Vietnam,Indomie,None, 470 ,"Rp 6,400","Rp 8,000","Rp 3,760,000","Rp 3,008,000","Rp 752,000",22 Jan 2025,20%
+Channel Partners,Cambodia,Ultra Milk,None, 140 ,"Rp 14,100","Rp 17,625","Rp 2,467,500","Rp 1,974,000","Rp 493,500",22 Jan 2025,20%
+Channel Partners,Vietnam,Gula Gulaku,None," 1,408 ","Rp 13,800","Rp 17,250","Rp 24,288,000","Rp 19,430,400","Rp 4,857,600",23 Jan 2025,20%
+Channel Partners,Philippines,Biskuat,None," 1,865 ","Rp 15,900","Rp 19,875","Rp 37,066,875","Rp 29,653,500","Rp 7,413,375",25 Jan 2025,20%
+Channel Partners,Brunei,Tango,None, 708 ,"Rp 8,400","Rp 10,500","Rp 7,434,000","Rp 5,947,200","Rp 1,486,800",26 Jan 2025,20%
+Channel Partners,Laos,Gula Gulaku,None," 1,636 ","Rp 19,500","Rp 24,375","Rp 39,877,500","Rp 31,902,000","Rp 7,975,500",27 Jan 2025,20%
+Channel Partners,Myanmar,Aqua,None," 2,582 ","Rp 14,100","Rp 17,625","Rp 45,507,750","Rp 36,406,200","Rp 9,101,550",27 Jan 2025,20%
+Channel Partners,Cambodia,Biskuat,None, 930 ,"Rp 24,300","Rp 30,375","Rp 28,248,750","Rp 22,599,000","Rp 5,649,750",29 Jan 2025,20%
+Channel Partners,Brunei,Tango,None," 2,282 ","Rp 3,800","Rp 4,750","Rp 10,839,500","Rp 8,671,600","Rp 2,167,900",31 Jan 2025,20%
+Channel Partners,Philippines,Teh Botol,None," 2,455 ","Rp 17,200","Rp 21,500","Rp 52,782,500","Rp 42,226,000","Rp 10,556,500",31 Jan 2025,20%
+Channel Partners,Brunei,Aqua,None, 257 ,"Rp 17,700","Rp 22,125","Rp 5,686,125","Rp 4,548,900","Rp 1,137,225",5 Feb 2025,20%
+Channel Partners,Vietnam,Aqua,None," 2,753 ","Rp 10,900","Rp 13,625","Rp 37,509,625","Rp 30,007,700","Rp 7,501,925",7 Feb 2025,20%
+Channel Partners,Cambodia,Biskuat,None," 1,604 ","Rp 8,700","Rp 10,875","Rp 17,443,500","Rp 13,954,800","Rp 3,488,700",9 Feb 2025,20%
+Channel Partners,Singapore,Indomie,None," 1,054 ","Rp 2,600","Rp 3,250","Rp 3,425,500","Rp 2,740,400","Rp 685,100",9 Feb 2025,20%
+Channel Partners,Singapore,Nugget Fiesta,None," 1,511 ","Rp 5,800","Rp 7,250","Rp 10,954,750","Rp 8,763,800","Rp 2,190,950",12 Feb 2025,20%
+Channel Partners,Philippines,Tango,None," 2,175 ","Rp 2,200","Rp 2,750","Rp 5,981,250","Rp 4,785,000","Rp 1,196,250",14 Feb 2025,20%
+Channel Partners,Vietnam,Gula Gulaku,None," 1,952 ","Rp 21,000","Rp 26,250","Rp 51,240,000","Rp 40,992,000","Rp 10,248,000",15 Feb 2025,20%
+Channel Partners,Brunei,Tango,None, 786 ,"Rp 6,000","Rp 7,500","Rp 5,895,000","Rp 4,716,000","Rp 1,179,000",16 Feb 2025,20%
+Channel Partners,Vietnam,Teh Botol,None, 997 ,"Rp 7,000","Rp 8,750","Rp 8,723,750","Rp 6,979,000","Rp 1,744,750",18 Feb 2025,20%
+Channel Partners,Cambodia,Gula Gulaku,None," 1,029 ","Rp 17,500","Rp 21,875","Rp 22,509,375","Rp 18,007,500","Rp 4,501,875",18 Feb 2025,20%
+Channel Partners,Vietnam,Biskuat,None, 675 ,"Rp 4,400","Rp 5,500","Rp 3,712,500","Rp 2,970,000","Rp 742,500",19 Feb 2025,20%
+Channel Partners,Malaysia,Tango,None, 289 ,"Rp 8,400","Rp 10,500","Rp 3,034,500","Rp 2,427,600","Rp 606,900",19 Feb 2025,20%
+Channel Partners,Cambodia,Sari Roti,None, 716 ,"Rp 2,000","Rp 2,500","Rp 1,790,000","Rp 1,432,000","Rp 358,000",20 Feb 2025,20%
+Channel Partners,Malaysia,Nugget Fiesta,None," 2,838 ","Rp 19,900","Rp 24,875","Rp 70,595,250","Rp 56,476,200","Rp 14,119,050",21 Feb 2025,20%
+Channel Partners,Philippines,Teh Botol,None," 1,531 ","Rp 6,700","Rp 8,375","Rp 12,822,125","Rp 10,257,700","Rp 2,564,425",24 Feb 2025,20%
+Channel Partners,Philippines,Nugget Fiesta,None, 124 ,"Rp 4,100","Rp 5,125","Rp 635,500","Rp 508,400","Rp 127,100",1 Mar 2025,20%
+Channel Partners,Myanmar,Chitato,None," 1,610 ","Rp 13,300","Rp 16,625","Rp 26,766,250","Rp 21,413,000","Rp 5,353,250",2 Mar 2025,20%
+Channel Partners,Philippines,Indomie,None, 127 ,"Rp 8,600","Rp 10,750","Rp 1,365,250","Rp 1,092,200","Rp 273,050",2 Mar 2025,20%
+Channel Partners,Malaysia,Tango,None," 2,571 ","Rp 23,200","Rp 29,000","Rp 74,559,000","Rp 59,647,200","Rp 14,911,800",7 Mar 2025,20%
+Channel Partners,Singapore,Biskuat,None," 2,839 ","Rp 12,700","Rp 15,875","Rp 45,069,125","Rp 36,055,300","Rp 9,013,825",7 Mar 2025,20%
+Channel Partners,Thailand,Nugget Fiesta,None," 2,073 ","Rp 15,100","Rp 18,875","Rp 39,127,875","Rp 31,302,300","Rp 7,825,575",10 Mar 2025,20%
+Channel Partners,Philippines,Indomie,None," 1,673 ","Rp 12,100","Rp 15,125","Rp 25,304,125","Rp 20,243,300","Rp 5,060,825",12 Mar 2025,20%
+Channel Partners,Malaysia,Gula Gulaku,None," 1,227 ","Rp 4,100","Rp 5,125","Rp 6,288,375","Rp 5,030,700","Rp 1,257,675",13 Mar 2025,20%
+Channel Partners,Myanmar,Indomie,None," 2,765 ","Rp 4,600","Rp 5,750","Rp 15,898,750","Rp 12,719,000","Rp 3,179,750",13 Mar 2025,20%
+Channel Partners,Brunei,Indomie,None," 2,109 ","Rp 21,700","Rp 27,125","Rp 57,206,625","Rp 45,765,300","Rp 11,441,325",14 Mar 2025,20%
+Channel Partners,Thailand,Chitato,None," 2,073 ","Rp 1,700","Rp 2,125","Rp 4,405,125","Rp 3,524,100","Rp 881,025",15 Mar 2025,20%
+Channel Partners,Laos,Indomie,None, 753 ,"Rp 2,300","Rp 2,875","Rp 2,164,875","Rp 1,731,900","Rp 432,975",17 Mar 2025,20%
+Channel Partners,Singapore,Aqua,None," 2,400 ","Rp 12,300","Rp 15,375","Rp 36,900,000","Rp 29,520,000","Rp 7,380,000",18 Mar 2025,20%
+Channel Partners,Cambodia,Teh Botol,None, 803 ,"Rp 18,000","Rp 22,500","Rp 18,067,500","Rp 14,454,000","Rp 3,613,500",20 Mar 2025,20%
+Channel Partners,Brunei,Aqua,None," 1,383 ","Rp 22,800","Rp 28,500","Rp 39,415,500","Rp 31,532,400","Rp 7,883,100",21 Mar 2025,20%
+Channel Partners,Malaysia,Nugget Fiesta,None, 283 ,"Rp 21,100","Rp 26,375","Rp 7,464,125","Rp 5,971,300","Rp 1,492,825",22 Mar 2025,20%
+Channel Partners,Cambodia,Sari Roti,None," 2,240 ","Rp 21,100","Rp 26,375","Rp 59,080,000","Rp 47,264,000","Rp 11,816,000",23 Mar 2025,20%
+Channel Partners,Myanmar,Gula Gulaku,None," 2,457 ","Rp 22,700","Rp 28,375","Rp 69,717,375","Rp 55,773,900","Rp 13,943,475",23 Mar 2025,20%
+Channel Partners,Cambodia,Nugget Fiesta,None," 1,281 ","Rp 13,400","Rp 16,750","Rp 21,456,750","Rp 17,165,400","Rp 4,291,350",29 Mar 2025,20%
+Channel Partners,Laos,Indomie,None, 208 ,"Rp 6,400","Rp 8,000","Rp 1,664,000","Rp 1,331,200","Rp 332,800",29 Mar 2025,20%
+Channel Partners,Cambodia,Indomie,None," 2,471 ","Rp 3,900","Rp 4,875","Rp 12,046,125","Rp 9,636,900","Rp 2,409,225",30 Mar 2025,20%
+Channel Partners,Thailand,Biskuat,None," 2,753 ","Rp 11,500","Rp 14,375","Rp 39,574,375","Rp 31,659,500","Rp 7,914,875",31 Mar 2025,20%
+Channel Partners,Laos,Chitato,None, 814 ,"Rp 9,000","Rp 11,250","Rp 9,157,500","Rp 7,326,000","Rp 1,831,500",4 Apr 2025,20%
+Channel Partners,Laos,Aqua,None, 548 ,"Rp 18,300","Rp 22,875","Rp 12,535,500","Rp 10,028,400","Rp 2,507,100",6 Apr 2025,20%
+Channel Partners,Malaysia,Gula Gulaku,None," 2,348 ","Rp 8,700","Rp 10,875","Rp 25,534,500","Rp 20,427,600","Rp 5,106,900",8 Apr 2025,20%
+Channel Partners,Vietnam,Tango,None," 1,099 ","Rp 8,600","Rp 10,750","Rp 11,814,250","Rp 9,451,400","Rp 2,362,850",8 Apr 2025,20%
+Channel Partners,Myanmar,Aqua,None," 2,195 ","Rp 14,605","Rp 18,250","Rp 40,058,750","Rp 32,057,975","Rp 8,000,775",10 Apr 2025,20%
+Channel Partners,Myanmar,Aqua,None, 489 ,"Rp 7,400","Rp 9,250","Rp 4,523,250","Rp 3,618,600","Rp 904,650",13 Apr 2025,20%
+Channel Partners,Philippines,Chitato,None, 863 ,"Rp 16,000","Rp 20,000","Rp 17,260,000","Rp 13,808,000","Rp 3,452,000",13 Apr 2025,20%
+Channel Partners,Philippines,Ultra Milk,None, 202 ,"Rp 3,300","Rp 4,125","Rp 833,250","Rp 666,600","Rp 166,650",15 Apr 2025,20%
+Channel Partners,Cambodia,Biskuat,None," 2,500 ","Rp 6,300","Rp 7,875","Rp 19,687,500","Rp 15,750,000","Rp 3,937,500",17 Apr 2025,20%
+Channel Partners,Singapore,Aqua,None," 2,290 ","Rp 2,400","Rp 3,000","Rp 6,870,000","Rp 5,496,000","Rp 1,374,000",18 Apr 2025,20%
+Channel Partners,Laos,Nugget Fiesta,None," 2,999 ","Rp 11,800","Rp 14,750","Rp 44,235,250","Rp 35,388,200","Rp 8,847,050",19 Apr 2025,20%
+Channel Partners,Brunei,Gula Gulaku,None," 1,495 ","Rp 12,800","Rp 16,000","Rp 23,920,000","Rp 19,136,000","Rp 4,784,000",19 Apr 2025,20%
+Channel Partners,Vietnam,Sari Roti,None, 879 ,"Rp 15,000","Rp 18,750","Rp 16,481,250","Rp 13,185,000","Rp 3,296,250",22 Apr 2025,20%
+Channel Partners,Thailand,Aqua,None, 514 ,"Rp 16,675","Rp 20,750","Rp 10,665,500","Rp 8,570,950","Rp 2,094,550",25 Apr 2025,20%
+Channel Partners,Cambodia,Chitato,None," 1,927 ","Rp 20,500","Rp 25,625","Rp 49,379,375","Rp 39,503,500","Rp 9,875,875",27 Apr 2025,20%
+Channel Partners,Philippines,Nugget Fiesta,None," 1,010 ","Rp 11,684","Rp 14,500","Rp 14,645,000","Rp 11,800,840","Rp 2,844,160",29 Apr 2025,19%
+Channel Partners,Myanmar,Sari Roti,None," 1,276 ","Rp 18,900","Rp 23,625","Rp 30,145,500","Rp 24,116,400","Rp 6,029,100",1 May 2025,20%
+Channel Partners,Malaysia,Nugget Fiesta,None, 477 ,"Rp 9,600","Rp 12,000","Rp 5,724,000","Rp 4,579,200","Rp 1,144,800",2 May 2025,20%
+Channel Partners,Thailand,Nugget Fiesta,None," 2,223 ","Rp 8,400","Rp 10,500","Rp 23,341,500","Rp 18,673,200","Rp 4,668,300",3 May 2025,20%
+Channel Partners,Indonesia,Biskuat,None," 2,506 ","Rp 24,700","Rp 30,875","Rp 77,372,750","Rp 61,898,200","Rp 15,474,550",5 May 2025,20%
+Channel Partners,Myanmar,Sari Roti,None, 131 ,"Rp 6,100","Rp 7,625","Rp 998,875","Rp 799,100","Rp 199,775",9 May 2025,20%
+Channel Partners,Philippines,Teh Botol,None," 2,675 ","Rp 11,700","Rp 14,625","Rp 39,121,875","Rp 31,297,500","Rp 7,824,375",9 May 2025,20%
+Channel Partners,Philippines,Ultra Milk,None," 2,031 ","Rp 19,100","Rp 23,875","Rp 48,490,125","Rp 38,792,100","Rp 9,698,025",10 May 2025,20%
+Channel Partners,Vietnam,Aqua,None, 629 ,"Rp 23,500","Rp 29,375","Rp 18,476,875","Rp 14,781,500","Rp 3,695,375",11 May 2025,20%
+Channel Partners,Vietnam,Indomie,None," 2,751 ","Rp 13,500","Rp 16,875","Rp 46,423,125","Rp 37,138,500","Rp 9,284,625",11 May 2025,20%
+Channel Partners,Brunei,Chitato,None," 1,102 ","Rp 23,100","Rp 28,875","Rp 31,820,250","Rp 25,456,200","Rp 6,364,050",12 May 2025,20%
+Channel Partners,Singapore,Tango,None," 2,669 ","Rp 22,800","Rp 28,500","Rp 76,066,500","Rp 60,853,200","Rp 15,213,300",14 May 2025,20%
+Channel Partners,Malaysia,Nugget Fiesta,None," 1,051 ","Rp 22,500","Rp 28,125","Rp 29,559,375","Rp 23,647,500","Rp 5,911,875",15 May 2025,20%
+Channel Partners,Indonesia,Indomie,None," 1,954 ","Rp 18,800","Rp 23,500","Rp 45,919,000","Rp 36,735,200","Rp 9,183,800",16 May 2025,20%
+Channel Partners,Myanmar,Teh Botol,None, 642 ,"Rp 4,300","Rp 5,375","Rp 3,450,750","Rp 2,760,600","Rp 690,150",19 May 2025,20%
+Channel Partners,Laos,Tango,None," 2,124 ","Rp 9,900","Rp 12,375","Rp 26,284,500","Rp 21,027,600","Rp 5,256,900",21 May 2025,20%
+Channel Partners,Vietnam,Chitato,None," 2,904 ","Rp 3,800","Rp 4,750","Rp 13,794,000","Rp 11,035,200","Rp 2,758,800",24 May 2025,20%
+Channel Partners,Indonesia,Gula Gulaku,None," 2,847 ","Rp 12,800","Rp 16,000","Rp 45,552,000","Rp 36,441,600","Rp 9,110,400",24 May 2025,20%
+Channel Partners,Brunei,Nugget Fiesta,None," 2,049 ","Rp 13,100","Rp 16,375","Rp 33,552,375","Rp 26,841,900","Rp 6,710,475",27 May 2025,20%
+Channel Partners,Cambodia,Sari Roti,None," 1,237 ","Rp 5,400","Rp 6,750","Rp 8,349,750","Rp 6,679,800","Rp 1,669,950",29 May 2025,20%
+Channel Partners,Vietnam,Chitato,None," 1,013 ","Rp 1,500","Rp 1,875","Rp 1,899,375","Rp 1,519,500","Rp 379,875",30 May 2025,20%
+Channel Partners,Brunei,Aqua,None," 1,578 ","Rp 3,600","Rp 4,500","Rp 7,101,000","Rp 5,680,800","Rp 1,420,200",30 May 2025,20%
+Channel Partners,Laos,Sari Roti,None, 490 ,"Rp 24,900","Rp 31,125","Rp 15,251,250","Rp 12,201,000","Rp 3,050,250",31 May 2025,20%
+Channel Partners,Laos,Tango,None," 1,238 ","Rp 11,900","Rp 14,875","Rp 18,415,250","Rp 14,732,200","Rp 3,683,050",4 Jun 2025,20%
+Channel Partners,Vietnam,Gula Gulaku,None, 698 ,"Rp 11,500","Rp 14,375","Rp 10,033,750","Rp 8,027,000","Rp 2,006,750",5 Jun 2025,20%
+Channel Partners,Cambodia,Tango,None," 1,988 ","Rp 20,700","Rp 25,875","Rp 51,439,500","Rp 41,151,600","Rp 10,287,900",5 Jun 2025,20%
+Channel Partners,Thailand,Nugget Fiesta,None," 1,969 ","Rp 19,800","Rp 24,750","Rp 48,732,750","Rp 38,986,200","Rp 9,746,550",5 Jun 2025,20%
+Channel Partners,Thailand,Nugget Fiesta,None, 414 ,"Rp 4,200","Rp 5,250","Rp 2,173,500","Rp 1,738,800","Rp 434,700",8 Jun 2025,20%
+Channel Partners,Malaysia,Nugget Fiesta,None, 508 ,"Rp 9,600","Rp 12,000","Rp 6,096,000","Rp 4,876,800","Rp 1,219,200",8 Jun 2025,20%
+Channel Partners,Indonesia,Aqua,None," 2,167 ","Rp 15,500","Rp 19,375","Rp 41,985,625","Rp 33,588,500","Rp 8,397,125",9 Jun 2025,20%
+Channel Partners,Brunei,Nugget Fiesta,None, 727 ,"Rp 15,200","Rp 19,000","Rp 13,813,000","Rp 11,050,400","Rp 2,762,600",9 Jun 2025,20%
+Channel Partners,Singapore,Aqua,None," 1,649 ","Rp 21,800","Rp 27,250","Rp 44,935,250","Rp 35,948,200","Rp 8,987,050",9 Jun 2025,20%
+Channel Partners,Laos,Tango,None," 1,362 ","Rp 7,400","Rp 9,250","Rp 12,598,500","Rp 10,078,800","Rp 2,519,700",13 Jun 2025,20%
+Channel Partners,Brunei,Tango,None," 2,128 ","Rp 5,100","Rp 6,375","Rp 13,566,000","Rp 10,852,800","Rp 2,713,200",14 Jun 2025,20%
+Channel Partners,Philippines,Biskuat,None, 131 ,"Rp 20,300","Rp 25,375","Rp 3,324,125","Rp 2,659,300","Rp 664,825",17 Jun 2025,20%
+Channel Partners,Vietnam,Teh Botol,None," 1,807 ","Rp 2,800","Rp 3,500","Rp 6,324,500","Rp 5,059,600","Rp 1,264,900",22 Jun 2025,20%
+Channel Partners,Singapore,Aqua,None, 431 ,"Rp 9,400","Rp 11,750","Rp 5,064,250","Rp 4,051,400","Rp 1,012,850",22 Jun 2025,20%
+Channel Partners,Thailand,Nugget Fiesta,None, 336 ,"Rp 8,600","Rp 10,750","Rp 3,612,000","Rp 2,889,600","Rp 722,400",26 Jun 2025,20%
+Channel Partners,Myanmar,Nugget Fiesta,None, 227 ,"Rp 2,300","Rp 2,875","Rp 652,625","Rp 522,100","Rp 130,525",27 Jun 2025,20%
+Channel Partners,Myanmar,Nugget Fiesta,None, 782 ,"Rp 3,800","Rp 4,750","Rp 3,714,500","Rp 2,971,600","Rp 742,900",30 Jun 2025,20%
+Channel Partners,Indonesia,Sari Roti,None," 2,863 ","Rp 15,200","Rp 19,000","Rp 54,397,000","Rp 43,517,600","Rp 10,879,400",1 Jul 2025,20%
+Channel Partners,Singapore,Indomie,None," 1,530 ","Rp 17,600","Rp 22,000","Rp 33,660,000","Rp 26,928,000","Rp 6,732,000",6 Jul 2025,20%
+Channel Partners,Indonesia,Aqua,None," 2,507 ","Rp 9,800","Rp 12,250","Rp 30,710,750","Rp 24,568,600","Rp 6,142,150",7 Jul 2025,20%
+Channel Partners,Brunei,Ultra Milk,None," 2,271 ","Rp 16,200","Rp 20,250","Rp 45,987,750","Rp 36,790,200","Rp 9,197,550",7 Jul 2025,20%
+Channel Partners,Philippines,Aqua,None, 762 ,"Rp 13,100","Rp 16,375","Rp 12,477,750","Rp 9,982,200","Rp 2,495,550",10 Jul 2025,20%
+Channel Partners,Singapore,Tango,None," 2,055 ","Rp 4,500","Rp 5,625","Rp 11,559,375","Rp 9,247,500","Rp 2,311,875",10 Jul 2025,20%
+Channel Partners,Brunei,Chitato,None, 762 ,"Rp 22,600","Rp 28,250","Rp 21,526,500","Rp 17,221,200","Rp 4,305,300",12 Jul 2025,20%
+Channel Partners,Vietnam,Nugget Fiesta,None," 2,564 ","Rp 5,100","Rp 6,375","Rp 16,345,500","Rp 13,076,400","Rp 3,269,100",13 Jul 2025,20%
+Channel Partners,Brunei,Biskuat,None, 827 ,"Rp 17,700","Rp 22,125","Rp 18,297,375","Rp 14,637,900","Rp 3,659,475",17 Jul 2025,20%
+Channel Partners,Indonesia,Nugget Fiesta,None, 175 ,"Rp 19,300","Rp 24,125","Rp 4,221,875","Rp 3,377,500","Rp 844,375",17 Jul 2025,20%
+Channel Partners,Cambodia,Sari Roti,None," 1,837 ","Rp 13,200","Rp 16,500","Rp 30,310,500","Rp 24,248,400","Rp 6,062,100",20 Jul 2025,20%
+Channel Partners,Philippines,Biskuat,None," 1,609 ","Rp 12,000","Rp 15,000","Rp 24,135,000","Rp 19,308,000","Rp 4,827,000",20 Jul 2025,20%
+Channel Partners,Malaysia,Aqua,None," 2,276 ","Rp 4,100","Rp 5,125","Rp 11,664,500","Rp 9,331,600","Rp 2,332,900",22 Jul 2025,20%
+Channel Partners,Vietnam,Nugget Fiesta,None," 1,553 ","Rp 18,700","Rp 23,375","Rp 36,301,375","Rp 29,041,100","Rp 7,260,275",22 Jul 2025,20%
+Channel Partners,Thailand,Tango,None," 2,606 ","Rp 17,800","Rp 22,250","Rp 57,983,500","Rp 46,386,800","Rp 11,596,700",22 Jul 2025,20%
+Channel Partners,Brunei,Gula Gulaku,None," 1,276 ","Rp 21,500","Rp 26,875","Rp 34,292,500","Rp 27,434,000","Rp 6,858,500",23 Jul 2025,20%
+Channel Partners,Singapore,Ultra Milk,None," 2,410 ","Rp 12,200","Rp 15,250","Rp 36,752,500","Rp 29,402,000","Rp 7,350,500",24 Jul 2025,20%
+Channel Partners,Brunei,Tango,None," 2,415 ","Rp 22,400","Rp 28,000","Rp 67,620,000","Rp 54,096,000","Rp 13,524,000",24 Jul 2025,20%
+Channel Partners,Myanmar,Biskuat,None, 699 ,"Rp 18,900","Rp 23,625","Rp 16,513,875","Rp 13,211,100","Rp 3,302,775",24 Jul 2025,20%
+Channel Partners,Singapore,Sari Roti,None," 1,150 ","Rp 24,000","Rp 30,000","Rp 34,500,000","Rp 27,600,000","Rp 6,900,000",26 Jul 2025,20%
+Channel Partners,Myanmar,Sari Roti,None," 2,393 ","Rp 14,800","Rp 18,500","Rp 44,270,500","Rp 35,416,400","Rp 8,854,100",27 Jul 2025,20%
+Channel Partners,Philippines,Biskuat,None," 1,880 ","Rp 13,600","Rp 17,000","Rp 31,960,000","Rp 25,568,000","Rp 6,392,000",30 Jul 2025,20%
+Channel Partners,Myanmar,Aqua,None," 2,861 ","Rp 15,200","Rp 19,000","Rp 54,359,000","Rp 43,487,200","Rp 10,871,800",30 Jul 2025,20%
+Channel Partners,Cambodia,Nugget Fiesta,None," 1,786 ","Rp 16,600","Rp 20,750","Rp 37,059,500","Rp 29,647,600","Rp 7,411,900",30 Jul 2025,20%
+Channel Partners,Indonesia,Tango,None, 262 ,"Rp 9,800","Rp 12,250","Rp 3,209,500","Rp 2,567,600","Rp 641,900",31 Jul 2025,20%
+Channel Partners,Singapore,Teh Botol,None," 1,669 ","Rp 6,300","Rp 7,875","Rp 13,143,375","Rp 10,514,700","Rp 2,628,675",31 Jul 2025,20%
+Channel Partners,Thailand,Nugget Fiesta,None, 928 ,"Rp 17,800","Rp 22,250","Rp 20,648,000","Rp 16,518,400","Rp 4,129,600",1 Aug 2025,20%
+Channel Partners,Myanmar,Indomie,None, 113 ,"Rp 3,000","Rp 3,750","Rp 423,750","Rp 339,000","Rp 84,750",1 Aug 2025,20%
+Channel Partners,Malaysia,Chitato,None, 269 ,"Rp 10,700","Rp 13,375","Rp 3,597,875","Rp 2,878,300","Rp 719,575",2 Aug 2025,20%
+Channel Partners,Thailand,Sari Roti,None," 1,950 ","Rp 11,300","Rp 14,125","Rp 27,543,750","Rp 22,035,000","Rp 5,508,750",7 Aug 2025,20%
+Channel Partners,Brunei,Biskuat,None, 383 ,"Rp 22,400","Rp 28,000","Rp 10,724,000","Rp 8,579,200","Rp 2,144,800",11 Aug 2025,20%
+Channel Partners,Vietnam,Chitato,None," 1,060 ","Rp 22,800","Rp 28,500","Rp 30,210,000","Rp 24,168,000","Rp 6,042,000",11 Aug 2025,20%
+Channel Partners,Thailand,Sari Roti,None," 2,202 ","Rp 4,500","Rp 5,625","Rp 12,386,250","Rp 9,909,000","Rp 2,477,250",12 Aug 2025,20%
+Channel Partners,Brunei,Teh Botol,None," 2,287 ","Rp 4,700","Rp 5,875","Rp 13,436,125","Rp 10,748,900","Rp 2,687,225",13 Aug 2025,20%
+Channel Partners,Vietnam,Teh Botol,None," 2,162 ","Rp 14,400","Rp 18,000","Rp 38,916,000","Rp 31,132,800","Rp 7,783,200",14 Aug 2025,20%
+Channel Partners,Philippines,Nugget Fiesta,None, 949 ,"Rp 20,500","Rp 25,625","Rp 24,318,125","Rp 19,454,500","Rp 4,863,625",14 Aug 2025,20%
+Channel Partners,Thailand,Teh Botol,None, 216 ,"Rp 11,000","Rp 13,750","Rp 2,970,000","Rp 2,376,000","Rp 594,000",17 Aug 2025,20%
+Channel Partners,Vietnam,Ultra Milk,None," 2,752 ","Rp 1,500","Rp 1,875","Rp 5,160,000","Rp 4,128,000","Rp 1,032,000",20 Aug 2025,20%
+Channel Partners,Brunei,Gula Gulaku,None," 2,669 ","Rp 9,200","Rp 11,500","Rp 30,693,500","Rp 24,554,800","Rp 6,138,700",20 Aug 2025,20%
+Channel Partners,Myanmar,Chitato,None, 541 ,"Rp 13,400","Rp 16,750","Rp 9,061,750","Rp 7,249,400","Rp 1,812,350",20 Aug 2025,20%
+Channel Partners,Indonesia,Gula Gulaku,None," 2,205 ","Rp 23,400","Rp 29,250","Rp 64,496,250","Rp 51,597,000","Rp 12,899,250",20 Aug 2025,20%
+Channel Partners,Thailand,Nugget Fiesta,None," 1,276 ","Rp 3,200","Rp 4,000","Rp 5,104,000","Rp 4,083,200","Rp 1,020,800",21 Aug 2025,20%
+Channel Partners,Indonesia,Indomie,None," 2,910 ","Rp 17,800","Rp 22,250","Rp 64,747,500","Rp 51,798,000","Rp 12,949,500",24 Aug 2025,20%
+Channel Partners,Laos,Tango,None," 2,048 ","Rp 15,000","Rp 18,750","Rp 38,400,000","Rp 30,720,000","Rp 7,680,000",24 Aug 2025,20%
+Channel Partners,Singapore,Teh Botol,None," 1,115 ","Rp 8,200","Rp 10,250","Rp 11,428,750","Rp 9,143,000","Rp 2,285,750",25 Aug 2025,20%
+Channel Partners,Myanmar,Chitato,None, 248 ,"Rp 20,900","Rp 26,125","Rp 6,479,000","Rp 5,183,200","Rp 1,295,800",25 Aug 2025,20%
+Channel Partners,Malaysia,Chitato,None," 1,157 ","Rp 20,600","Rp 25,750","Rp 29,792,750","Rp 23,834,200","Rp 5,958,550",26 Aug 2025,20%
+Channel Partners,Thailand,Tango,None," 2,224 ","Rp 22,300","Rp 27,875","Rp 61,994,000","Rp 49,595,200","Rp 12,398,800",26 Aug 2025,20%
+Channel Partners,Myanmar,Indomie,None, 750 ,"Rp 2,900","Rp 3,625","Rp 2,718,750","Rp 2,175,000","Rp 543,750",26 Aug 2025,20%
+Channel Partners,Laos,Indomie,None," 2,635 ","Rp 9,000","Rp 11,250","Rp 29,643,750","Rp 23,715,000","Rp 5,928,750",28 Aug 2025,20%
+Channel Partners,Thailand,Tango,None," 1,904 ","Rp 8,700","Rp 10,875","Rp 20,706,000","Rp 16,564,800","Rp 4,141,200",29 Aug 2025,20%
+Channel Partners,Malaysia,Ultra Milk,None," 1,623 ","Rp 14,300","Rp 17,875","Rp 29,011,125","Rp 23,208,900","Rp 5,802,225",30 Aug 2025,20%
+Channel Partners,Myanmar,Ultra Milk,None," 1,603 ","Rp 4,000","Rp 5,000","Rp 8,015,000","Rp 6,412,000","Rp 1,603,000",31 Aug 2025,20%
+Channel Partners,Cambodia,Indomie,None, 526 ,"Rp 3,200","Rp 4,000","Rp 2,104,000","Rp 1,683,200","Rp 420,800",31 Aug 2025,20%
+Channel Partners,Brunei,Indomie,None," 2,328 ","Rp 3,900","Rp 4,875","Rp 11,349,000","Rp 9,079,200","Rp 2,269,800",4 Sep 2025,20%
+Channel Partners,Laos,Biskuat,None," 1,025 ","Rp 20,700","Rp 25,875","Rp 26,521,875","Rp 21,217,500","Rp 5,304,375",6 Sep 2025,20%
+Channel Partners,Malaysia,Sari Roti,None," 1,157 ","Rp 22,400","Rp 28,000","Rp 32,396,000","Rp 25,916,800","Rp 6,479,200",9 Sep 2025,20%
+Channel Partners,Singapore,Chitato,None," 1,484 ","Rp 1,800","Rp 2,250","Rp 3,339,000","Rp 2,671,200","Rp 667,800",11 Sep 2025,20%
+Channel Partners,Laos,Aqua,None," 2,122 ","Rp 13,000","Rp 16,250","Rp 34,482,500","Rp 27,586,000","Rp 6,896,500",13 Sep 2025,20%
+Channel Partners,Myanmar,Gula Gulaku,None," 1,307 ","Rp 16,400","Rp 20,500","Rp 26,793,500","Rp 21,434,800","Rp 5,358,700",13 Sep 2025,20%
+Channel Partners,Singapore,Aqua,None," 1,594 ","Rp 16,600","Rp 20,750","Rp 33,075,500","Rp 26,460,400","Rp 6,615,100",14 Sep 2025,20%
+Channel Partners,Vietnam,Biskuat,None, 648 ,"Rp 18,200","Rp 22,750","Rp 14,742,000","Rp 11,793,600","Rp 2,948,400",15 Sep 2025,20%
+Channel Partners,Indonesia,Ultra Milk,None, 524 ,"Rp 17,400","Rp 21,750","Rp 11,397,000","Rp 9,117,600","Rp 2,279,400",16 Sep 2025,20%
+Channel Partners,Cambodia,Gula Gulaku,None," 2,354 ","Rp 10,200","Rp 12,750","Rp 30,013,500","Rp 24,010,800","Rp 6,002,700",16 Sep 2025,20%
+Channel Partners,Singapore,Gula Gulaku,None," 1,864 ","Rp 3,300","Rp 4,125","Rp 7,689,000","Rp 6,151,200","Rp 1,537,800",17 Sep 2025,20%
+Channel Partners,Malaysia,Nugget Fiesta,None, 765 ,"Rp 9,400","Rp 11,750","Rp 8,988,750","Rp 7,191,000","Rp 1,797,750",17 Sep 2025,20%
+Channel Partners,Malaysia,Indomie,None," 1,724 ","Rp 20,200","Rp 25,250","Rp 43,531,000","Rp 34,824,800","Rp 8,706,200",21 Sep 2025,20%
+Channel Partners,Philippines,Biskuat,None, 475 ,"Rp 17,900","Rp 22,375","Rp 10,628,125","Rp 8,502,500","Rp 2,125,625",25 Sep 2025,20%
+Channel Partners,Malaysia,Gula Gulaku,None, 371 ,"Rp 18,000","Rp 22,500","Rp 8,347,500","Rp 6,678,000","Rp 1,669,500",28 Sep 2025,20%
+Channel Partners,Indonesia,Aqua,None, 914 ,"Rp 23,700","Rp 29,625","Rp 27,077,250","Rp 21,661,800","Rp 5,415,450",2 Oct 2025,20%
+Channel Partners,Singapore,Nugget Fiesta,None," 1,346 ","Rp 2,300","Rp 2,875","Rp 3,869,750","Rp 3,095,800","Rp 773,950",5 Oct 2025,20%
+Channel Partners,Laos,Gula Gulaku,None," 2,140 ","Rp 21,800","Rp 27,250","Rp 58,315,000","Rp 46,652,000","Rp 11,663,000",5 Oct 2025,20%
+Channel Partners,Vietnam,Tango,None, 495 ,"Rp 19,400","Rp 24,250","Rp 12,003,750","Rp 9,603,000","Rp 2,400,750",6 Oct 2025,20%
+Channel Partners,Indonesia,Tango,None," 1,234 ","Rp 8,700","Rp 10,875","Rp 13,419,750","Rp 10,735,800","Rp 2,683,950",7 Oct 2025,20%
+Channel Partners,Laos,Ultra Milk,None, 340 ,"Rp 17,800","Rp 22,250","Rp 7,565,000","Rp 6,052,000","Rp 1,513,000",7 Oct 2025,20%
+Channel Partners,Myanmar,Chitato,None, 811 ,"Rp 18,200","Rp 22,750","Rp 18,450,250","Rp 14,760,200","Rp 3,690,050",10 Oct 2025,20%
+Channel Partners,Brunei,Tango,None," 1,390 ","Rp 9,100","Rp 11,375","Rp 15,811,250","Rp 12,649,000","Rp 3,162,250",11 Oct 2025,20%
+Channel Partners,Brunei,Teh Botol,None," 2,618 ","Rp 4,000","Rp 5,000","Rp 13,090,000","Rp 10,472,000","Rp 2,618,000",11 Oct 2025,20%
+Channel Partners,Laos,Tango,None, 782 ,"Rp 6,400","Rp 8,000","Rp 6,256,000","Rp 5,004,800","Rp 1,251,200",12 Oct 2025,20%
+Channel Partners,Philippines,Aqua,None," 2,590 ","Rp 3,400","Rp 4,250","Rp 11,007,500","Rp 8,806,000","Rp 2,201,500",14 Oct 2025,20%
+Channel Partners,Vietnam,Biskuat,None," 2,774 ","Rp 10,000","Rp 12,500","Rp 34,675,000","Rp 27,740,000","Rp 6,935,000",19 Oct 2025,20%
+Channel Partners,Thailand,Indomie,None," 1,235 ","Rp 3,300","Rp 4,125","Rp 5,094,375","Rp 4,075,500","Rp 1,018,875",20 Oct 2025,20%
+Channel Partners,Malaysia,Gula Gulaku,None," 1,796 ","Rp 14,800","Rp 18,500","Rp 33,226,000","Rp 26,580,800","Rp 6,645,200",24 Oct 2025,20%
+Channel Partners,Myanmar,Biskuat,None, 184 ,"Rp 4,900","Rp 6,125","Rp 1,127,000","Rp 901,600","Rp 225,400",27 Oct 2025,20%
+Channel Partners,Vietnam,Nugget Fiesta,None, 271 ,"Rp 2,600","Rp 3,250","Rp 880,750","Rp 704,600","Rp 176,150",27 Oct 2025,20%
+Channel Partners,Myanmar,Aqua,None," 1,923 ","Rp 10,700","Rp 13,375","Rp 25,720,125","Rp 20,576,100","Rp 5,144,025",27 Oct 2025,20%
+Channel Partners,Vietnam,Teh Botol,None," 1,752 ","Rp 22,600","Rp 28,250","Rp 49,494,000","Rp 39,595,200","Rp 9,898,800",30 Oct 2025,20%
+Channel Partners,Philippines,Chitato,None," 2,000 ","Rp 22,300","Rp 27,875","Rp 55,750,000","Rp 44,600,000","Rp 11,150,000",31 Oct 2025,20%
+Channel Partners,Myanmar,Tango,None, 205 ,"Rp 15,500","Rp 19,375","Rp 3,971,875","Rp 3,177,500","Rp 794,375",1 Nov 2025,20%
+Channel Partners,Cambodia,Teh Botol,None," 1,346 ","Rp 20,200","Rp 25,250","Rp 33,986,500","Rp 27,189,200","Rp 6,797,300",1 Nov 2025,20%
+Channel Partners,Myanmar,Ultra Milk,None," 1,548 ","Rp 2,400","Rp 3,000","Rp 4,644,000","Rp 3,715,200","Rp 928,800",10 Nov 2025,20%
+Channel Partners,Singapore,Sari Roti,None, 911 ,"Rp 7,400","Rp 9,250","Rp 8,426,750","Rp 6,741,400","Rp 1,685,350",10 Nov 2025,20%
+Channel Partners,Thailand,Teh Botol,None," 2,957 ","Rp 7,500","Rp 9,375","Rp 27,721,875","Rp 22,177,500","Rp 5,544,375",13 Nov 2025,20%
+Channel Partners,Brunei,Indomie,None, 318 ,"Rp 17,500","Rp 21,875","Rp 6,956,250","Rp 5,565,000","Rp 1,391,250",15 Nov 2025,20%
+Channel Partners,Singapore,Ultra Milk,None," 1,363 ","Rp 17,700","Rp 22,125","Rp 30,156,375","Rp 24,125,100","Rp 6,031,275",15 Nov 2025,20%
+Channel Partners,Indonesia,Indomie,None, 838 ,"Rp 12,000","Rp 15,000","Rp 12,570,000","Rp 10,056,000","Rp 2,514,000",15 Nov 2025,20%
+Channel Partners,Singapore,Ultra Milk,None," 2,378 ","Rp 10,600","Rp 13,250","Rp 31,508,500","Rp 25,206,800","Rp 6,301,700",16 Nov 2025,20%
+Channel Partners,Cambodia,Chitato,None, 631 ,"Rp 17,300","Rp 21,625","Rp 13,645,375","Rp 10,916,300","Rp 2,729,075",17 Nov 2025,20%
+Channel Partners,Malaysia,Sari Roti,None," 1,356 ","Rp 5,400","Rp 6,750","Rp 9,153,000","Rp 7,322,400","Rp 1,830,600",17 Nov 2025,20%
+Channel Partners,Malaysia,Chitato,None," 2,991 ","Rp 11,800","Rp 14,750","Rp 44,117,250","Rp 35,293,800","Rp 8,823,450",17 Nov 2025,20%
+Channel Partners,Indonesia,Biskuat,None, 914 ,"Rp 17,600","Rp 22,000","Rp 20,108,000","Rp 16,086,400","Rp 4,021,600",18 Nov 2025,20%
+Channel Partners,Cambodia,Sari Roti,None," 1,367 ","Rp 8,000","Rp 10,000","Rp 13,670,000","Rp 10,936,000","Rp 2,734,000",20 Nov 2025,20%
+Channel Partners,Singapore,Tango,None," 2,308 ","Rp 12,000","Rp 15,000","Rp 34,620,000","Rp 27,696,000","Rp 6,924,000",21 Nov 2025,20%
+Channel Partners,Singapore,Aqua,None," 2,954 ","Rp 19,700","Rp 24,625","Rp 72,742,250","Rp 58,193,800","Rp 14,548,450",21 Nov 2025,20%
+Channel Partners,Indonesia,Ultra Milk,None, 533 ,"Rp 15,900","Rp 19,875","Rp 10,593,375","Rp 8,474,700","Rp 2,118,675",21 Nov 2025,20%
+Channel Partners,Laos,Aqua,None," 2,893 ","Rp 9,300","Rp 11,625","Rp 33,631,125","Rp 26,904,900","Rp 6,726,225",21 Nov 2025,20%
+Channel Partners,Cambodia,Ultra Milk,None," 1,359 ","Rp 18,600","Rp 23,250","Rp 31,596,750","Rp 25,277,400","Rp 6,319,350",22 Nov 2025,20%
+Channel Partners,Cambodia,Teh Botol,None," 2,136 ","Rp 20,800","Rp 26,000","Rp 55,536,000","Rp 44,428,800","Rp 11,107,200",23 Nov 2025,20%
+Channel Partners,Vietnam,Nugget Fiesta,None, 531 ,"Rp 9,600","Rp 12,000","Rp 6,372,000","Rp 5,097,600","Rp 1,274,400",25 Nov 2025,20%
+Channel Partners,Cambodia,Indomie,None, 335 ,"Rp 20,900","Rp 26,125","Rp 8,751,875","Rp 7,001,500","Rp 1,750,375",25 Nov 2025,20%
+Channel Partners,Philippines,Aqua,None, 221 ,"Rp 4,400","Rp 5,500","Rp 1,215,500","Rp 972,400","Rp 243,100",25 Nov 2025,20%
+Channel Partners,Thailand,Gula Gulaku,None," 1,984 ","Rp 16,100","Rp 20,125","Rp 39,928,000","Rp 31,942,400","Rp 7,985,600",26 Nov 2025,20%
+Channel Partners,Brunei,Nugget Fiesta,None," 2,607 ","Rp 18,500","Rp 23,125","Rp 60,286,875","Rp 48,229,500","Rp 12,057,375",26 Nov 2025,20%
+Channel Partners,Vietnam,Aqua,None," 1,007 ","Rp 19,100","Rp 23,875","Rp 24,042,125","Rp 19,233,700","Rp 4,808,425",27 Nov 2025,20%
+Channel Partners,Philippines,Ultra Milk,None," 1,865 ","Rp 22,600","Rp 28,250","Rp 52,686,250","Rp 42,149,000","Rp 10,537,250",28 Nov 2025,20%
+Channel Partners,Cambodia,Nugget Fiesta,None," 1,010 ","Rp 17,000","Rp 21,250","Rp 21,462,500","Rp 17,170,000","Rp 4,292,500",28 Nov 2025,20%
+Channel Partners,Laos,Biskuat,None, 488 ,"Rp 5,300","Rp 6,625","Rp 3,233,000","Rp 2,586,400","Rp 646,600",1 Dec 2025,20%
+Channel Partners,Laos,Gula Gulaku,None," 1,171 ","Rp 15,800","Rp 19,750","Rp 23,127,250","Rp 18,501,800","Rp 4,625,450",3 Dec 2025,20%
+Channel Partners,Indonesia,Chitato,None, 278 ,"Rp 24,100","Rp 30,125","Rp 8,374,750","Rp 6,699,800","Rp 1,674,950",5 Dec 2025,20%
+Channel Partners,Myanmar,Sari Roti,None, 579 ,"Rp 11,900","Rp 14,875","Rp 8,612,625","Rp 6,890,100","Rp 1,722,525",8 Dec 2025,20%
+Channel Partners,Singapore,Sari Roti,None," 2,263 ","Rp 17,900","Rp 22,375","Rp 50,634,625","Rp 40,507,700","Rp 10,126,925",8 Dec 2025,20%
+Channel Partners,Malaysia,Indomie,None," 1,191 ","Rp 23,300","Rp 29,125","Rp 34,687,875","Rp 27,750,300","Rp 6,937,575",10 Dec 2025,20%
+Channel Partners,Laos,Tango,None," 2,571 ","Rp 14,600","Rp 18,250","Rp 46,920,750","Rp 37,536,600","Rp 9,384,150",10 Dec 2025,20%
+Channel Partners,Brunei,Biskuat,None, 656 ,"Rp 13,600","Rp 17,000","Rp 11,152,000","Rp 8,921,600","Rp 2,230,400",13 Dec 2025,20%
+Channel Partners,Malaysia,Gula Gulaku,None, 361 ,"Rp 3,700","Rp 4,625","Rp 1,669,625","Rp 1,335,700","Rp 333,925",14 Dec 2025,20%
+Channel Partners,Thailand,Sari Roti,None," 2,010 ","Rp 18,900","Rp 23,625","Rp 47,486,250","Rp 37,989,000","Rp 9,497,250",16 Dec 2025,20%
+Channel Partners,Myanmar,Sari Roti,None," 2,431 ","Rp 8,600","Rp 10,750","Rp 26,133,250","Rp 20,906,600","Rp 5,226,650",18 Dec 2025,20%
+Channel Partners,Laos,Tango,None, 906 ,"Rp 1,800","Rp 2,250","Rp 2,038,500","Rp 1,630,800","Rp 407,700",19 Dec 2025,20%
+Channel Partners,Singapore,Biskuat,None," 2,410 ","Rp 7,100","Rp 8,875","Rp 21,388,750","Rp 17,111,000","Rp 4,277,750",20 Dec 2025,20%
+Channel Partners,Singapore,Teh Botol,None," 2,685 ","Rp 20,300","Rp 25,375","Rp 68,131,875","Rp 54,505,500","Rp 13,626,375",22 Dec 2025,20%
+Channel Partners,Thailand,Teh Botol,None," 2,879 ","Rp 2,100","Rp 2,625","Rp 7,557,375","Rp 6,045,900","Rp 1,511,475",22 Dec 2025,20%
+Channel Partners,Malaysia,Teh Botol,None, 137 ,"Rp 3,300","Rp 4,125","Rp 565,125","Rp 452,100","Rp 113,025",23 Dec 2025,20%
+Channel Partners,Cambodia,Biskuat,None," 1,801 ","Rp 9,300","Rp 11,625","Rp 20,936,625","Rp 16,749,300","Rp 4,187,325",24 Dec 2025,20%
+Channel Partners,Philippines,Chitato,None," 1,384 ","Rp 7,100","Rp 8,875","Rp 12,283,000","Rp 9,826,400","Rp 2,456,600",24 Dec 2025,20%
+Channel Partners,Malaysia,Ultra Milk,None," 1,515 ","Rp 22,600","Rp 28,250","Rp 42,798,750","Rp 34,239,000","Rp 8,559,750",26 Dec 2025,20%
+Channel Partners,Brunei,Chitato,None," 2,272 ","Rp 14,400","Rp 18,000","Rp 40,896,000","Rp 32,716,800","Rp 8,179,200",27 Dec 2025,20%
+Channel Partners,Brunei,Teh Botol,None," 1,783 ","Rp 24,200","Rp 30,250","Rp 53,935,750","Rp 43,148,600","Rp 10,787,150",29 Dec 2025,20%
+Channel Partners,Indonesia,Gula Gulaku,None," 1,235 ","Rp 19,500","Rp 24,375","Rp 30,103,125","Rp 24,082,500","Rp 6,020,625",30 Dec 2025,20%
+Channel Partners,Singapore,Sari Roti,None, 158 ,"Rp 6,200","Rp 7,750","Rp 1,224,500","Rp 979,600","Rp 244,900",31 Dec 2025,20%
+Enterprise,Myanmar,Aqua,None, 364 ,"Rp 7,500","Rp 9,375","Rp 3,412,500","Rp 2,730,000","Rp 682,500",1 Jan 2025,20%
+Enterprise,Laos,Teh Botol,None, 280 ,"Rp 17,600","Rp 22,000","Rp 6,160,000","Rp 4,928,000","Rp 1,232,000",1 Jan 2025,20%
+Enterprise,Indonesia,Ultra Milk,None," 1,715 ","Rp 9,200","Rp 11,500","Rp 19,722,500","Rp 15,778,000","Rp 3,944,500",3 Jan 2025,20%
+Enterprise,Myanmar,Indomie,None," 1,771 ","Rp 5,100","Rp 6,375","Rp 11,290,125","Rp 9,032,100","Rp 2,258,025",3 Jan 2025,20%
+Enterprise,Singapore,Gula Gulaku,None," 1,431 ","Rp 11,500","Rp 14,375","Rp 20,570,625","Rp 16,456,500","Rp 4,114,125",4 Jan 2025,20%
+Enterprise,Indonesia,Gula Gulaku,None, 270 ,"Rp 12,200","Rp 15,250","Rp 4,117,500","Rp 3,294,000","Rp 823,500",6 Jan 2025,20%
+Enterprise,Brunei,Tango,None," 2,045 ","Rp 20,700","Rp 25,875","Rp 52,914,375","Rp 42,331,500","Rp 10,582,875",6 Jan 2025,20%
+Enterprise,Thailand,Sari Roti,None, 327 ,"Rp 6,600","Rp 8,250","Rp 2,697,750","Rp 2,158,200","Rp 539,550",11 Jan 2025,20%
+Enterprise,Cambodia,Nugget Fiesta,None," 1,880 ","Rp 22,700","Rp 28,375","Rp 53,345,000","Rp 42,676,000","Rp 10,669,000",12 Jan 2025,20%
+Enterprise,Singapore,Tango,None," 2,435 ","Rp 23,400","Rp 29,250","Rp 71,223,750","Rp 56,979,000","Rp 14,244,750",13 Jan 2025,20%
+Enterprise,Laos,Indomie,None, 927 ,"Rp 11,200","Rp 14,000","Rp 12,978,000","Rp 10,382,400","Rp 2,595,600",14 Jan 2025,20%
+Enterprise,Myanmar,Nugget Fiesta,None," 2,765 ","Rp 11,000","Rp 13,750","Rp 38,018,750","Rp 30,415,000","Rp 7,603,750",14 Jan 2025,20%
+Enterprise,Indonesia,Chitato,None," 1,702 ","Rp 18,100","Rp 22,625","Rp 38,507,750","Rp 30,806,200","Rp 7,701,550",15 Jan 2025,20%
+Enterprise,Thailand,Sari Roti,None, 883 ,"Rp 20,100","Rp 25,125","Rp 22,185,375","Rp 17,748,300","Rp 4,437,075",16 Jan 2025,20%
+Enterprise,Myanmar,Nugget Fiesta,None, 898 ,"Rp 18,600","Rp 23,250","Rp 20,878,500","Rp 16,702,800","Rp 4,175,700",17 Jan 2025,20%
+Enterprise,Thailand,Chitato,None," 1,899 ","Rp 8,100","Rp 10,125","Rp 19,227,375","Rp 15,381,900","Rp 3,845,475",17 Jan 2025,20%
+Enterprise,Singapore,Nugget Fiesta,None," 1,462 ","Rp 22,600","Rp 28,250","Rp 41,301,500","Rp 33,041,200","Rp 8,260,300",20 Jan 2025,20%
+Enterprise,Laos,Sari Roti,None," 2,831 ","Rp 20,800","Rp 26,000","Rp 73,606,000","Rp 58,884,800","Rp 14,721,200",20 Jan 2025,20%
+Enterprise,Indonesia,Nugget Fiesta,None," 1,125 ","Rp 20,100","Rp 25,125","Rp 28,265,625","Rp 22,612,500","Rp 5,653,125",20 Jan 2025,20%
+Enterprise,Singapore,Ultra Milk,None," 1,730 ","Rp 4,000","Rp 5,000","Rp 8,650,000","Rp 6,920,000","Rp 1,730,000",21 Jan 2025,20%
+Enterprise,Laos,Indomie,None," 2,693 ","Rp 6,700","Rp 8,375","Rp 22,553,875","Rp 18,043,100","Rp 4,510,775",22 Jan 2025,20%
+Enterprise,Myanmar,Aqua,None," 2,927 ","Rp 15,400","Rp 19,250","Rp 56,344,750","Rp 45,075,800","Rp 11,268,950",22 Jan 2025,20%
+Enterprise,Malaysia,Ultra Milk,None," 1,136 ","Rp 16,600","Rp 20,750","Rp 23,572,000","Rp 18,857,600","Rp 4,714,400",23 Jan 2025,20%
+Enterprise,Vietnam,Gula Gulaku,None," 1,896 ","Rp 11,000","Rp 13,750","Rp 26,070,000","Rp 20,856,000","Rp 5,214,000",24 Jan 2025,20%
+Enterprise,Vietnam,Ultra Milk,None," 2,504 ","Rp 18,300","Rp 22,875","Rp 57,279,000","Rp 45,823,200","Rp 11,455,800",25 Jan 2025,20%
+Enterprise,Brunei,Ultra Milk,None, 152 ,"Rp 16,500","Rp 20,625","Rp 3,135,000","Rp 2,508,000","Rp 627,000",27 Jan 2025,20%
+Enterprise,Laos,Chitato,None," 2,806 ","Rp 19,600","Rp 24,500","Rp 68,747,000","Rp 54,997,600","Rp 13,749,400",27 Jan 2025,20%
+Enterprise,Thailand,Indomie,None," 2,045 ","Rp 16,100","Rp 20,125","Rp 41,155,625","Rp 32,924,500","Rp 8,231,125",30 Jan 2025,20%
+Enterprise,Cambodia,Teh Botol,None," 2,077 ","Rp 6,800","Rp 8,500","Rp 17,654,500","Rp 14,123,600","Rp 3,530,900",30 Jan 2025,20%
+Enterprise,Thailand,Gula Gulaku,None, 914 ,"Rp 6,500","Rp 8,125","Rp 7,426,250","Rp 5,941,000","Rp 1,485,250",31 Jan 2025,20%
+Enterprise,Brunei,Teh Botol,None," 1,576 ","Rp 21,500","Rp 26,875","Rp 42,355,000","Rp 33,884,000","Rp 8,471,000",1 Feb 2025,20%
+Enterprise,Brunei,Ultra Milk,None," 1,040 ","Rp 21,600","Rp 27,000","Rp 28,080,000","Rp 22,464,000","Rp 5,616,000",1 Feb 2025,20%
+Enterprise,Cambodia,Ultra Milk,None, 210 ,"Rp 24,400","Rp 30,500","Rp 6,405,000","Rp 5,124,000","Rp 1,281,000",5 Feb 2025,20%
+Enterprise,Cambodia,Chitato,None, 106 ,"Rp 23,200","Rp 29,000","Rp 3,074,000","Rp 2,459,200","Rp 614,800",9 Feb 2025,20%
+Enterprise,Singapore,Ultra Milk,None," 1,436 ","Rp 12,200","Rp 15,250","Rp 21,899,000","Rp 17,519,200","Rp 4,379,800",9 Feb 2025,20%
+Enterprise,Indonesia,Sari Roti,None," 1,689 ","Rp 17,600","Rp 22,000","Rp 37,158,000","Rp 29,726,400","Rp 7,431,600",10 Feb 2025,20%
+Enterprise,Laos,Sari Roti,None, 738 ,"Rp 4,800","Rp 6,000","Rp 4,428,000","Rp 3,542,400","Rp 885,600",11 Feb 2025,20%
+Enterprise,Singapore,Aqua,None," 2,618 ","Rp 10,400","Rp 13,000","Rp 34,034,000","Rp 27,227,200","Rp 6,806,800",11 Feb 2025,20%
+Enterprise,Laos,Nugget Fiesta,None," 1,400 ","Rp 12,000","Rp 15,000","Rp 21,000,000","Rp 16,800,000","Rp 4,200,000",12 Feb 2025,20%
+Enterprise,Philippines,Chitato,None," 1,081 ","Rp 20,400","Rp 25,500","Rp 27,565,500","Rp 22,052,400","Rp 5,513,100",13 Feb 2025,20%
+Enterprise,Philippines,Biskuat,None," 1,201 ","Rp 21,700","Rp 27,125","Rp 32,577,125","Rp 26,061,700","Rp 6,515,425",16 Feb 2025,20%
+Enterprise,Vietnam,Nugget Fiesta,None," 2,409 ","Rp 20,900","Rp 26,125","Rp 62,935,125","Rp 50,348,100","Rp 12,587,025",18 Feb 2025,20%
+Enterprise,Thailand,Chitato,None, 161 ,"Rp 5,700","Rp 7,125","Rp 1,147,125","Rp 917,700","Rp 229,425",18 Feb 2025,20%
+Enterprise,Singapore,Biskuat,None," 2,412 ","Rp 17,300","Rp 21,625","Rp 52,159,500","Rp 41,727,600","Rp 10,431,900",19 Feb 2025,20%
+Enterprise,Philippines,Teh Botol,None, 521 ,"Rp 11,800","Rp 14,750","Rp 7,684,750","Rp 6,147,800","Rp 1,536,950",20 Feb 2025,20%
+Enterprise,Vietnam,Gula Gulaku,None," 2,513 ","Rp 19,900","Rp 24,875","Rp 62,510,875","Rp 50,008,700","Rp 12,502,175",21 Feb 2025,20%
+Enterprise,Thailand,Aqua,None," 1,518 ","Rp 3,500","Rp 4,375","Rp 6,641,250","Rp 5,313,000","Rp 1,328,250",23 Feb 2025,20%
+Enterprise,Myanmar,Nugget Fiesta,None," 2,101 ","Rp 10,100","Rp 12,625","Rp 26,525,125","Rp 21,220,100","Rp 5,305,025",23 Feb 2025,20%
+Enterprise,Myanmar,Sari Roti,None," 2,756 ","Rp 24,900","Rp 31,125","Rp 85,780,500","Rp 68,624,400","Rp 17,156,100",24 Feb 2025,20%
+Enterprise,Laos,Aqua,None," 2,820 ","Rp 6,700","Rp 8,375","Rp 23,617,500","Rp 18,894,000","Rp 4,723,500",27 Feb 2025,20%
+Enterprise,Vietnam,Sari Roti,None, 965 ,"Rp 20,400","Rp 25,500","Rp 24,607,500","Rp 19,686,000","Rp 4,921,500",28 Feb 2025,20%
+Enterprise,Myanmar,Biskuat,None, 800 ,"Rp 18,786","Rp 23,375","Rp 18,700,000","Rp 15,028,800","Rp 3,671,200",3 Mar 2025,20%
+Enterprise,Laos,Gula Gulaku,None," 1,344 ","Rp 2,800","Rp 3,500","Rp 4,704,000","Rp 3,763,200","Rp 940,800",5 Mar 2025,20%
+Enterprise,Vietnam,Biskuat,None," 2,291 ","Rp 8,200","Rp 10,250","Rp 23,482,750","Rp 18,786,200","Rp 4,696,550",5 Mar 2025,20%
+Enterprise,Thailand,Tango,None, 652 ,"Rp 11,300","Rp 14,125","Rp 9,209,500","Rp 7,367,600","Rp 1,841,900",7 Mar 2025,20%
+Enterprise,Indonesia,Gula Gulaku,None, 812 ,"Rp 15,900","Rp 19,875","Rp 16,138,500","Rp 12,910,800","Rp 3,227,700",9 Mar 2025,20%
+Enterprise,Myanmar,Aqua,None," 2,138 ","Rp 8,500","Rp 10,625","Rp 22,716,250","Rp 18,173,000","Rp 4,543,250",11 Mar 2025,20%
+Enterprise,Thailand,Indomie,None," 2,519 ","Rp 11,800","Rp 14,750","Rp 37,155,250","Rp 29,724,200","Rp 7,431,050",11 Mar 2025,20%
+Enterprise,Malaysia,Biskuat,None," 2,867 ","Rp 8,500","Rp 10,625","Rp 30,461,875","Rp 24,369,500","Rp 6,092,375",11 Mar 2025,20%
+Enterprise,Brunei,Ultra Milk,None," 2,362 ","Rp 21,300","Rp 26,625","Rp 62,888,250","Rp 50,310,600","Rp 12,577,650",13 Mar 2025,20%
+Enterprise,Singapore,Teh Botol,None," 2,325 ","Rp 17,800","Rp 22,250","Rp 51,731,250","Rp 41,385,000","Rp 10,346,250",15 Mar 2025,20%
+Enterprise,Philippines,Tango,None," 2,669 ","Rp 5,400","Rp 6,750","Rp 18,015,750","Rp 14,412,600","Rp 3,603,150",15 Mar 2025,20%
+Enterprise,Singapore,Indomie,None," 1,902 ","Rp 9,300","Rp 11,625","Rp 22,110,750","Rp 17,688,600","Rp 4,422,150",15 Mar 2025,20%
+Enterprise,Cambodia,Indomie,None, 993 ,"Rp 23,700","Rp 29,625","Rp 29,417,625","Rp 23,534,100","Rp 5,883,525",19 Mar 2025,20%
+Enterprise,Brunei,Teh Botol,None," 2,839 ","Rp 19,100","Rp 23,875","Rp 67,781,125","Rp 54,224,900","Rp 13,556,225",20 Mar 2025,20%
+Enterprise,Myanmar,Sari Roti,None," 2,765 ","Rp 7,900","Rp 9,875","Rp 27,304,375","Rp 21,843,500","Rp 5,460,875",20 Mar 2025,20%
+Enterprise,Malaysia,Teh Botol,None," 1,827 ","Rp 6,500","Rp 8,125","Rp 14,844,375","Rp 11,875,500","Rp 2,968,875",23 Mar 2025,20%
+Enterprise,Brunei,Sari Roti,None," 1,104 ","Rp 3,200","Rp 4,000","Rp 4,416,000","Rp 3,532,800","Rp 883,200",26 Mar 2025,20%
+Enterprise,Laos,Gula Gulaku,None," 1,945 ","Rp 10,700","Rp 13,375","Rp 26,014,375","Rp 20,811,500","Rp 5,202,875",26 Mar 2025,20%
+Enterprise,Brunei,Chitato,None," 1,330 ","Rp 1,800","Rp 2,250","Rp 2,992,500","Rp 2,394,000","Rp 598,500",28 Mar 2025,20%
+Enterprise,Brunei,Nugget Fiesta,None," 1,143 ","Rp 11,200","Rp 14,000","Rp 16,002,000","Rp 12,801,600","Rp 3,200,400",29 Mar 2025,20%
+Enterprise,Singapore,Teh Botol,None," 2,272 ","Rp 20,400","Rp 25,500","Rp 57,936,000","Rp 46,348,800","Rp 11,587,200",4 Apr 2025,20%
+Enterprise,Vietnam,Aqua,None," 2,019 ","Rp 12,900","Rp 16,125","Rp 32,556,375","Rp 26,045,100","Rp 6,511,275",6 Apr 2025,20%
+Enterprise,Brunei,Nugget Fiesta,None, 751 ,"Rp 16,000","Rp 20,000","Rp 15,020,000","Rp 12,016,000","Rp 3,004,000",9 Apr 2025,20%
+Enterprise,Vietnam,Indomie,None," 2,817 ","Rp 13,000","Rp 16,250","Rp 45,776,250","Rp 36,621,000","Rp 9,155,250",11 Apr 2025,20%
+Enterprise,Malaysia,Sari Roti,None," 2,012 ","Rp 16,600","Rp 20,750","Rp 41,749,000","Rp 33,399,200","Rp 8,349,800",16 Apr 2025,20%
+Enterprise,Brunei,Indomie,None," 1,792 ","Rp 11,500","Rp 14,375","Rp 25,760,000","Rp 20,608,000","Rp 5,152,000",16 Apr 2025,20%
+Enterprise,Malaysia,Aqua,None," 2,741 ","Rp 18,600","Rp 23,250","Rp 63,728,250","Rp 50,982,600","Rp 12,745,650",17 Apr 2025,20%
+Enterprise,Vietnam,Biskuat,None, 318 ,"Rp 3,900","Rp 4,875","Rp 1,550,250","Rp 1,240,200","Rp 310,050",19 Apr 2025,20%
+Enterprise,Brunei,Ultra Milk,None, 158 ,"Rp 9,000","Rp 11,250","Rp 1,777,500","Rp 1,422,000","Rp 355,500",20 Apr 2025,20%
+Enterprise,Thailand,Tango,None," 2,810 ","Rp 12,900","Rp 16,125","Rp 45,311,250","Rp 36,249,000","Rp 9,062,250",25 Apr 2025,20%
+Enterprise,Cambodia,Indomie,None," 2,772 ","Rp 8,600","Rp 10,750","Rp 29,799,000","Rp 23,839,200","Rp 5,959,800",26 Apr 2025,20%
+Enterprise,Myanmar,Indomie,None," 2,151 ","Rp 20,300","Rp 25,375","Rp 54,581,625","Rp 43,665,300","Rp 10,916,325",29 Apr 2025,20%
+Enterprise,Philippines,Sari Roti,None," 1,776 ","Rp 19,300","Rp 24,125","Rp 42,846,000","Rp 34,276,800","Rp 8,569,200",30 Apr 2025,20%
+Enterprise,Vietnam,Biskuat,None," 2,687 ","Rp 7,400","Rp 9,250","Rp 24,854,750","Rp 19,883,800","Rp 4,970,950",1 May 2025,20%
+Enterprise,Malaysia,Ultra Milk,None," 1,092 ","Rp 22,800","Rp 28,500","Rp 31,122,000","Rp 24,897,600","Rp 6,224,400",1 May 2025,20%
+Enterprise,Myanmar,Aqua,None," 1,298 ","Rp 3,000","Rp 3,750","Rp 4,867,500","Rp 3,894,000","Rp 973,500",5 May 2025,20%
+Enterprise,Indonesia,Aqua,None," 1,910 ","Rp 23,100","Rp 28,875","Rp 55,151,250","Rp 44,121,000","Rp 11,030,250",6 May 2025,20%
+Enterprise,Indonesia,Chitato,None," 2,916 ","Rp 6,100","Rp 7,625","Rp 22,234,500","Rp 17,787,600","Rp 4,446,900",8 May 2025,20%
+Enterprise,Singapore,Teh Botol,None," 1,140 ","Rp 19,700","Rp 24,625","Rp 28,072,500","Rp 22,458,000","Rp 5,614,500",9 May 2025,20%
+Enterprise,Cambodia,Chitato,None," 2,330 ","Rp 20,700","Rp 25,875","Rp 60,288,750","Rp 48,231,000","Rp 12,057,750",9 May 2025,20%
+Enterprise,Indonesia,Nugget Fiesta,None," 1,752 ","Rp 18,200","Rp 22,750","Rp 39,858,000","Rp 31,886,400","Rp 7,971,600",11 May 2025,20%
+Enterprise,Laos,Tango,None," 1,835 ","Rp 9,000","Rp 11,250","Rp 20,643,750","Rp 16,515,000","Rp 4,128,750",14 May 2025,20%
+Enterprise,Myanmar,Sari Roti,None," 1,182 ","Rp 12,200","Rp 15,250","Rp 18,025,500","Rp 14,420,400","Rp 3,605,100",14 May 2025,20%
+Enterprise,Myanmar,Indomie,None, 212 ,"Rp 15,900","Rp 19,875","Rp 4,213,500","Rp 3,370,800","Rp 842,700",17 May 2025,20%
+Enterprise,Myanmar,Sari Roti,None, 380 ,"Rp 1,600","Rp 2,000","Rp 760,000","Rp 608,000","Rp 152,000",18 May 2025,20%
+Enterprise,Laos,Biskuat,None," 2,850 ","Rp 21,400","Rp 26,750","Rp 76,237,500","Rp 60,990,000","Rp 15,247,500",20 May 2025,20%
+Enterprise,Cambodia,Sari Roti,None," 2,009 ","Rp 7,800","Rp 9,750","Rp 19,587,750","Rp 15,670,200","Rp 3,917,550",20 May 2025,20%
+Enterprise,Cambodia,Tango,None, 489 ,"Rp 14,400","Rp 18,000","Rp 8,802,000","Rp 7,041,600","Rp 1,760,400",24 May 2025,20%
+Enterprise,Vietnam,Sari Roti,None," 1,979 ","Rp 11,700","Rp 14,625","Rp 28,942,875","Rp 23,154,300","Rp 5,788,575",26 May 2025,20%
+Enterprise,Singapore,Indomie,None, 241 ,"Rp 21,200","Rp 26,500","Rp 6,386,500","Rp 5,109,200","Rp 1,277,300",27 May 2025,20%
+Enterprise,Indonesia,Gula Gulaku,None," 1,405 ","Rp 6,100","Rp 7,625","Rp 10,713,125","Rp 8,570,500","Rp 2,142,625",30 May 2025,20%
+Enterprise,Malaysia,Gula Gulaku,None," 1,260 ","Rp 18,100","Rp 22,625","Rp 28,507,500","Rp 22,806,000","Rp 5,701,500",30 May 2025,20%
+Enterprise,Malaysia,Chitato,None," 1,065 ","Rp 12,500","Rp 15,625","Rp 16,640,625","Rp 13,312,500","Rp 3,328,125",2 Jun 2025,20%
+Enterprise,Brunei,Ultra Milk,None," 1,123 ","Rp 23,900","Rp 29,875","Rp 33,549,625","Rp 26,839,700","Rp 6,709,925",3 Jun 2025,20%
+Enterprise,Philippines,Teh Botol,None," 2,465 ","Rp 3,400","Rp 4,250","Rp 10,476,250","Rp 8,381,000","Rp 2,095,250",4 Jun 2025,20%
+Enterprise,Philippines,Ultra Milk,None," 2,825 ","Rp 21,500","Rp 26,875","Rp 75,921,875","Rp 60,737,500","Rp 15,184,375",5 Jun 2025,20%
+Enterprise,Vietnam,Indomie,None," 2,709 ","Rp 16,500","Rp 20,625","Rp 55,873,125","Rp 44,698,500","Rp 11,174,625",6 Jun 2025,20%
+Enterprise,Myanmar,Ultra Milk,None," 1,631 ","Rp 4,800","Rp 6,000","Rp 9,786,000","Rp 7,828,800","Rp 1,957,200",7 Jun 2025,20%
+Enterprise,Malaysia,Tango,None," 1,704 ","Rp 8,600","Rp 10,750","Rp 18,318,000","Rp 14,654,400","Rp 3,663,600",7 Jun 2025,20%
+Enterprise,Myanmar,Chitato,None," 1,410 ","Rp 21,300","Rp 26,625","Rp 37,541,250","Rp 30,033,000","Rp 7,508,250",9 Jun 2025,20%
+Enterprise,Philippines,Nugget Fiesta,None, 638 ,"Rp 15,500","Rp 19,375","Rp 12,361,250","Rp 9,889,000","Rp 2,472,250",11 Jun 2025,20%
+Enterprise,Brunei,Gula Gulaku,None," 2,481 ","Rp 1,700","Rp 2,125","Rp 5,272,125","Rp 4,217,700","Rp 1,054,425",11 Jun 2025,20%
+Enterprise,Singapore,Indomie,None," 1,715 ","Rp 21,100","Rp 26,375","Rp 45,233,125","Rp 36,186,500","Rp 9,046,625",11 Jun 2025,20%
+Enterprise,Myanmar,Ultra Milk,None," 2,915 ","Rp 24,000","Rp 30,000","Rp 87,450,000","Rp 69,960,000","Rp 17,490,000",14 Jun 2025,20%
+Enterprise,Cambodia,Gula Gulaku,None," 1,701 ","Rp 2,800","Rp 3,500","Rp 5,953,500","Rp 4,762,800","Rp 1,190,700",16 Jun 2025,20%
+Enterprise,Malaysia,Tango,None," 1,492 ","Rp 9,100","Rp 11,375","Rp 16,971,500","Rp 13,577,200","Rp 3,394,300",16 Jun 2025,20%
+Enterprise,Malaysia,Indomie,None," 2,163 ","Rp 10,400","Rp 13,000","Rp 28,119,000","Rp 22,495,200","Rp 5,623,800",18 Jun 2025,20%
+Enterprise,Brunei,Indomie,None," 1,727 ","Rp 6,000","Rp 7,500","Rp 12,952,500","Rp 10,362,000","Rp 2,590,500",22 Jun 2025,20%
+Enterprise,Singapore,Teh Botol,None, 287 ,"Rp 24,000","Rp 30,000","Rp 8,610,000","Rp 6,888,000","Rp 1,722,000",23 Jun 2025,20%
+Enterprise,Brunei,Ultra Milk,None," 1,941 ","Rp 18,300","Rp 22,875","Rp 44,400,375","Rp 35,520,300","Rp 8,880,075",27 Jun 2025,20%
+Enterprise,Laos,Aqua,None, 232 ,"Rp 11,800","Rp 14,750","Rp 3,422,000","Rp 2,737,600","Rp 684,400",27 Jun 2025,20%
+Enterprise,Malaysia,Teh Botol,None," 2,405 ","Rp 19,100","Rp 23,875","Rp 57,419,375","Rp 45,935,500","Rp 11,483,875",28 Jun 2025,20%
+Enterprise,Vietnam,Teh Botol,None," 1,226 ","Rp 22,000","Rp 27,500","Rp 33,715,000","Rp 26,972,000","Rp 6,743,000",30 Jun 2025,20%
+Enterprise,Vietnam,Tango,None," 2,104 ","Rp 8,200","Rp 10,250","Rp 21,566,000","Rp 17,252,800","Rp 4,313,200",1 Jul 2025,20%
+Enterprise,Cambodia,Nugget Fiesta,None," 1,640 ","Rp 15,000","Rp 18,750","Rp 30,750,000","Rp 24,600,000","Rp 6,150,000",3 Jul 2025,20%
+Enterprise,Vietnam,Indomie,None, 637 ,"Rp 17,400","Rp 21,750","Rp 13,854,750","Rp 11,083,800","Rp 2,770,950",5 Jul 2025,20%
+Enterprise,Indonesia,Biskuat,None, 594 ,"Rp 12,000","Rp 15,000","Rp 8,910,000","Rp 7,128,000","Rp 1,782,000",10 Jul 2025,20%
+Enterprise,Philippines,Aqua,None, 497 ,"Rp 24,700","Rp 30,875","Rp 15,344,875","Rp 12,275,900","Rp 3,068,975",12 Jul 2025,20%
+Enterprise,Myanmar,Tango,None, 594 ,"Rp 18,900","Rp 23,625","Rp 14,033,250","Rp 11,226,600","Rp 2,806,650",12 Jul 2025,20%
+Enterprise,Malaysia,Chitato,None," 2,293 ","Rp 19,000","Rp 23,750","Rp 54,458,750","Rp 43,567,000","Rp 10,891,750",19 Jul 2025,20%
+Enterprise,Myanmar,Nugget Fiesta,None," 1,547 ","Rp 10,304","Rp 12,875","Rp 19,917,625","Rp 15,940,288","Rp 3,977,337",21 Jul 2025,20%
+Enterprise,Cambodia,Nugget Fiesta,None," 2,478 ","Rp 18,300","Rp 22,875","Rp 56,684,250","Rp 45,347,400","Rp 11,336,850",26 Jul 2025,20%
+Enterprise,Laos,Aqua,None, 923 ,"Rp 22,100","Rp 27,625","Rp 25,497,875","Rp 20,398,300","Rp 5,099,575",2 Aug 2025,20%
+Enterprise,Cambodia,Nugget Fiesta,None, 330 ,"Rp 17,200","Rp 21,500","Rp 7,095,000","Rp 5,676,000","Rp 1,419,000",4 Aug 2025,20%
+Enterprise,Indonesia,Aqua,None," 1,417 ","Rp 2,300","Rp 2,875","Rp 4,073,875","Rp 3,259,100","Rp 814,775",6 Aug 2025,20%
+Enterprise,Brunei,Aqua,None," 1,189 ","Rp 14,500","Rp 18,125","Rp 21,550,625","Rp 17,240,500","Rp 4,310,125",7 Aug 2025,20%
+Enterprise,Laos,Chitato,None," 1,806 ","Rp 22,200","Rp 27,750","Rp 50,116,500","Rp 40,093,200","Rp 10,023,300",8 Aug 2025,20%
+Enterprise,Malaysia,Biskuat,None," 1,378 ","Rp 19,300","Rp 24,125","Rp 33,244,250","Rp 26,595,400","Rp 6,648,850",9 Aug 2025,20%
+Enterprise,Vietnam,Teh Botol,None," 2,276 ","Rp 12,700","Rp 15,875","Rp 36,131,500","Rp 28,905,200","Rp 7,226,300",9 Aug 2025,20%
+Enterprise,Malaysia,Nugget Fiesta,None," 2,713 ","Rp 15,000","Rp 18,750","Rp 50,868,750","Rp 40,695,000","Rp 10,173,750",14 Aug 2025,20%
+Enterprise,Brunei,Ultra Milk,None," 2,586 ","Rp 4,300","Rp 5,375","Rp 13,899,750","Rp 11,119,800","Rp 2,779,950",15 Aug 2025,20%
+Enterprise,Indonesia,Teh Botol,None," 2,108 ","Rp 17,500","Rp 21,875","Rp 46,112,500","Rp 36,890,000","Rp 9,222,500",15 Aug 2025,20%
+Enterprise,Malaysia,Indomie,None," 2,302 ","Rp 16,000","Rp 20,000","Rp 46,040,000","Rp 36,832,000","Rp 9,208,000",16 Aug 2025,20%
+Enterprise,Laos,Ultra Milk,None, 752 ,"Rp 21,900","Rp 27,375","Rp 20,586,000","Rp 16,468,800","Rp 4,117,200",17 Aug 2025,20%
+Enterprise,Myanmar,Chitato,None," 2,485 ","Rp 4,100","Rp 5,125","Rp 12,735,625","Rp 10,188,500","Rp 2,547,125",18 Aug 2025,20%
+Enterprise,Malaysia,Sari Roti,None, 694 ,"Rp 23,900","Rp 29,875","Rp 20,733,250","Rp 16,586,600","Rp 4,146,650",20 Aug 2025,20%
+Enterprise,Vietnam,Teh Botol,None," 2,072 ","Rp 14,700","Rp 18,375","Rp 38,073,000","Rp 30,458,400","Rp 7,614,600",21 Aug 2025,20%
+Enterprise,Indonesia,Gula Gulaku,None," 2,813 ","Rp 19,500","Rp 24,375","Rp 68,566,875","Rp 54,853,500","Rp 13,713,375",24 Aug 2025,20%
+Enterprise,Thailand,Teh Botol,None," 1,887 ","Rp 5,300","Rp 6,625","Rp 12,501,375","Rp 10,001,100","Rp 2,500,275",24 Aug 2025,20%
+Enterprise,Thailand,Chitato,None," 1,968 ","Rp 24,000","Rp 30,000","Rp 59,040,000","Rp 47,232,000","Rp 11,808,000",25 Aug 2025,20%
+Enterprise,Cambodia,Aqua,None," 2,580 ","Rp 20,300","Rp 25,375","Rp 65,467,500","Rp 52,374,000","Rp 13,093,500",25 Aug 2025,20%
+Enterprise,Singapore,Nugget Fiesta,None," 2,513 ","Rp 2,900","Rp 3,625","Rp 9,109,625","Rp 7,287,700","Rp 1,821,925",25 Aug 2025,20%
+Enterprise,Indonesia,Biskuat,None," 2,546 ","Rp 10,000","Rp 12,500","Rp 31,825,000","Rp 25,460,000","Rp 6,365,000",27 Aug 2025,20%
+Enterprise,Brunei,Tango,None, 359 ,"Rp 4,500","Rp 5,625","Rp 2,019,375","Rp 1,615,500","Rp 403,875",28 Aug 2025,20%
+Enterprise,Myanmar,Chitato,None," 2,646 ","Rp 16,500","Rp 20,625","Rp 54,573,750","Rp 43,659,000","Rp 10,914,750",30 Aug 2025,20%
+Enterprise,Indonesia,Ultra Milk,None," 2,080 ","Rp 7,300","Rp 9,125","Rp 18,980,000","Rp 15,184,000","Rp 3,796,000",30 Aug 2025,20%
+Enterprise,Thailand,Ultra Milk,None," 1,333 ","Rp 7,000","Rp 8,750","Rp 11,663,750","Rp 9,331,000","Rp 2,332,750",31 Aug 2025,20%
+Enterprise,Thailand,Biskuat,None, 339 ,"Rp 9,800","Rp 12,250","Rp 4,152,750","Rp 3,322,200","Rp 830,550",31 Aug 2025,20%
+Enterprise,Malaysia,Biskuat,None, 989 ,"Rp 14,400","Rp 18,000","Rp 17,802,000","Rp 14,241,600","Rp 3,560,400",2 Sep 2025,20%
+Enterprise,Myanmar,Tango,None, 373 ,"Rp 12,100","Rp 15,125","Rp 5,641,625","Rp 4,513,300","Rp 1,128,325",2 Sep 2025,20%
+Enterprise,Singapore,Biskuat,None," 1,838 ","Rp 2,700","Rp 3,375","Rp 6,203,250","Rp 4,962,600","Rp 1,240,650",5 Sep 2025,20%
+Enterprise,Vietnam,Tango,None, 941 ,"Rp 6,800","Rp 8,500","Rp 7,998,500","Rp 6,398,800","Rp 1,599,700",5 Sep 2025,20%
+Enterprise,Malaysia,Sari Roti,None, 489 ,"Rp 14,500","Rp 18,125","Rp 8,863,125","Rp 7,090,500","Rp 1,772,625",6 Sep 2025,20%
+Enterprise,Indonesia,Nugget Fiesta,None, 134 ,"Rp 4,100","Rp 5,125","Rp 686,750","Rp 549,400","Rp 137,350",6 Sep 2025,20%
+Enterprise,Thailand,Aqua,None," 1,973 ","Rp 17,100","Rp 21,375","Rp 42,172,875","Rp 33,738,300","Rp 8,434,575",6 Sep 2025,20%
+Enterprise,Thailand,Sari Roti,None," 2,164 ","Rp 8,800","Rp 11,000","Rp 23,804,000","Rp 19,043,200","Rp 4,760,800",9 Sep 2025,20%
+Enterprise,Thailand,Ultra Milk,None," 1,313 ","Rp 12,500","Rp 15,625","Rp 20,515,625","Rp 16,412,500","Rp 4,103,125",12 Sep 2025,20%
+Enterprise,Laos,Sari Roti,None, 700 ,"Rp 19,300","Rp 24,125","Rp 16,887,500","Rp 13,510,000","Rp 3,377,500",13 Sep 2025,20%
+Enterprise,Brunei,Gula Gulaku,None," 1,707 ","Rp 10,800","Rp 13,500","Rp 23,044,500","Rp 18,435,600","Rp 4,608,900",13 Sep 2025,20%
+Enterprise,Malaysia,Aqua,None," 1,240 ","Rp 18,600","Rp 23,250","Rp 28,830,000","Rp 23,064,000","Rp 5,766,000",13 Sep 2025,20%
+Enterprise,Singapore,Biskuat,None," 1,131 ","Rp 17,500","Rp 21,875","Rp 24,740,625","Rp 19,792,500","Rp 4,948,125",16 Sep 2025,20%
+Enterprise,Cambodia,Aqua,None," 2,758 ","Rp 8,800","Rp 11,000","Rp 30,338,000","Rp 24,270,400","Rp 6,067,600",17 Sep 2025,20%
+Enterprise,Brunei,Biskuat,None, 702 ,"Rp 4,100","Rp 5,125","Rp 3,597,750","Rp 2,878,200","Rp 719,550",18 Sep 2025,20%
+Enterprise,Thailand,Ultra Milk,None, 353 ,"Rp 5,100","Rp 6,375","Rp 2,250,375","Rp 1,800,300","Rp 450,075",20 Sep 2025,20%
+Enterprise,Indonesia,Gula Gulaku,None, 196 ,"Rp 9,700","Rp 12,125","Rp 2,376,500","Rp 1,901,200","Rp 475,300",27 Sep 2025,20%
+Enterprise,Thailand,Chitato,None, 992 ,"Rp 10,900","Rp 13,625","Rp 13,516,000","Rp 10,812,800","Rp 2,703,200",27 Sep 2025,20%
+Enterprise,Singapore,Indomie,None, 178 ,"Rp 10,100","Rp 12,625","Rp 2,247,250","Rp 1,797,800","Rp 449,450",28 Sep 2025,20%
+Enterprise,Singapore,Indomie,None," 1,776 ","Rp 16,600","Rp 20,750","Rp 36,852,000","Rp 29,481,600","Rp 7,370,400",29 Sep 2025,20%
+Enterprise,Thailand,Tango,None," 2,935 ","Rp 17,300","Rp 21,625","Rp 63,469,375","Rp 50,775,500","Rp 12,693,875",29 Sep 2025,20%
+Enterprise,Indonesia,Chitato,None," 2,149 ","Rp 18,100","Rp 22,625","Rp 48,621,125","Rp 38,896,900","Rp 9,724,225",29 Sep 2025,20%
+Enterprise,Myanmar,Biskuat,None," 1,191 ","Rp 2,400","Rp 3,000","Rp 3,573,000","Rp 2,858,400","Rp 714,600",30 Sep 2025,20%
+Enterprise,Vietnam,Ultra Milk,None," 2,165 ","Rp 9,000","Rp 11,250","Rp 24,356,250","Rp 19,485,000","Rp 4,871,250",30 Sep 2025,20%
+Enterprise,Myanmar,Tango,None," 1,812 ","Rp 14,700","Rp 18,375","Rp 33,295,500","Rp 26,636,400","Rp 6,659,100",5 Oct 2025,20%
+Enterprise,Malaysia,Teh Botol,None, 997 ,"Rp 12,700","Rp 15,875","Rp 15,827,375","Rp 12,661,900","Rp 3,165,475",7 Oct 2025,20%
+Enterprise,Indonesia,Chitato,None, 507 ,"Rp 13,600","Rp 17,000","Rp 8,619,000","Rp 6,895,200","Rp 1,723,800",7 Oct 2025,20%
+Enterprise,Indonesia,Biskuat,None," 1,450 ","Rp 3,200","Rp 4,000","Rp 5,800,000","Rp 4,640,000","Rp 1,160,000",7 Oct 2025,20%
+Enterprise,Vietnam,Biskuat,None, 848 ,"Rp 17,700","Rp 22,125","Rp 18,762,000","Rp 15,009,600","Rp 3,752,400",10 Oct 2025,20%
+Enterprise,Philippines,Teh Botol,None," 2,484 ","Rp 22,134","Rp 27,625","Rp 68,620,500","Rp 54,980,856","Rp 13,639,644",10 Oct 2025,20%
+Enterprise,Philippines,Tango,None," 2,314 ","Rp 10,300","Rp 12,875","Rp 29,792,750","Rp 23,834,200","Rp 5,958,550",11 Oct 2025,20%
+Enterprise,Vietnam,Sari Roti,None," 2,031 ","Rp 19,200","Rp 24,000","Rp 48,744,000","Rp 38,995,200","Rp 9,748,800",12 Oct 2025,20%
+Enterprise,Vietnam,Aqua,None," 1,588 ","Rp 19,300","Rp 24,125","Rp 38,310,500","Rp 30,648,400","Rp 7,662,100",12 Oct 2025,20%
+Enterprise,Vietnam,Aqua,None," 2,454 ","Rp 1,700","Rp 2,125","Rp 5,214,750","Rp 4,171,800","Rp 1,042,950",12 Oct 2025,20%
+Enterprise,Laos,Indomie,None, 664 ,"Rp 21,400","Rp 26,750","Rp 17,762,000","Rp 14,209,600","Rp 3,552,400",13 Oct 2025,20%
+Enterprise,Cambodia,Teh Botol,None, 609 ,"Rp 22,900","Rp 28,625","Rp 17,432,625","Rp 13,946,100","Rp 3,486,525",13 Oct 2025,20%
+Enterprise,Vietnam,Biskuat,None, 413 ,"Rp 21,900","Rp 27,375","Rp 11,305,875","Rp 9,044,700","Rp 2,261,175",13 Oct 2025,20%
+Enterprise,Myanmar,Chitato,None," 1,056 ","Rp 4,500","Rp 5,625","Rp 5,940,000","Rp 4,752,000","Rp 1,188,000",15 Oct 2025,20%
+Enterprise,Brunei,Nugget Fiesta,None, 347 ,"Rp 10,000","Rp 12,500","Rp 4,337,500","Rp 3,470,000","Rp 867,500",15 Oct 2025,20%
+Enterprise,Cambodia,Indomie,None," 1,091 ","Rp 10,200","Rp 12,750","Rp 13,910,250","Rp 11,128,200","Rp 2,782,050",18 Oct 2025,20%
+Enterprise,Brunei,Tango,None," 2,530 ","Rp 23,600","Rp 29,500","Rp 74,635,000","Rp 59,708,000","Rp 14,927,000",20 Oct 2025,20%
+Enterprise,Myanmar,Gula Gulaku,None," 2,137 ","Rp 3,300","Rp 4,125","Rp 8,815,125","Rp 7,052,100","Rp 1,763,025",22 Oct 2025,20%
+Enterprise,Thailand,Teh Botol,None," 2,586 ","Rp 16,300","Rp 20,375","Rp 52,689,750","Rp 42,151,800","Rp 10,537,950",22 Oct 2025,20%
+Enterprise,Vietnam,Nugget Fiesta,None," 1,508 ","Rp 19,800","Rp 24,750","Rp 37,323,000","Rp 29,858,400","Rp 7,464,600",23 Oct 2025,20%
+Enterprise,Cambodia,Ultra Milk,None, 898 ,"Rp 7,700","Rp 9,625","Rp 8,643,250","Rp 6,914,600","Rp 1,728,650",23 Oct 2025,20%
+Enterprise,Singapore,Biskuat,None," 2,704 ","Rp 24,100","Rp 30,125","Rp 81,458,000","Rp 65,166,400","Rp 16,291,600",25 Oct 2025,20%
+Enterprise,Indonesia,Gula Gulaku,None," 1,175 ","Rp 3,100","Rp 3,875","Rp 4,553,125","Rp 3,642,500","Rp 910,625",26 Oct 2025,20%
+Enterprise,Singapore,Aqua,None," 1,855 ","Rp 3,700","Rp 4,625","Rp 8,579,375","Rp 6,863,500","Rp 1,715,875",28 Oct 2025,20%
+Enterprise,Laos,Sari Roti,None, 891 ,"Rp 11,500","Rp 14,375","Rp 12,808,125","Rp 10,246,500","Rp 2,561,625",29 Oct 2025,20%
+Enterprise,Philippines,Aqua,None," 2,511 ","Rp 6,800","Rp 8,500","Rp 21,343,500","Rp 17,074,800","Rp 4,268,700",29 Oct 2025,20%
+Enterprise,Cambodia,Sari Roti,None, 152 ,"Rp 11,700","Rp 14,625","Rp 2,223,000","Rp 1,778,400","Rp 444,600",31 Oct 2025,20%
+Enterprise,Singapore,Ultra Milk,None, 204 ,"Rp 18,000","Rp 22,500","Rp 4,590,000","Rp 3,672,000","Rp 918,000",1 Nov 2025,20%
+Enterprise,Myanmar,Biskuat,None, 517 ,"Rp 20,000","Rp 25,000","Rp 12,925,000","Rp 10,340,000","Rp 2,585,000",1 Nov 2025,20%
+Enterprise,Vietnam,Sari Roti,None, 244 ,"Rp 19,000","Rp 23,750","Rp 5,795,000","Rp 4,636,000","Rp 1,159,000",2 Nov 2025,20%
+Enterprise,Laos,Biskuat,None," 2,651 ","Rp 18,500","Rp 23,125","Rp 61,304,375","Rp 49,043,500","Rp 12,260,875",4 Nov 2025,20%
+Enterprise,Singapore,Gula Gulaku,None," 1,049 ","Rp 5,300","Rp 6,625","Rp 6,949,625","Rp 5,559,700","Rp 1,389,925",5 Nov 2025,20%
+Enterprise,Singapore,Gula Gulaku,None," 1,319 ","Rp 2,100","Rp 2,625","Rp 3,462,375","Rp 2,769,900","Rp 692,475",7 Nov 2025,20%
+Enterprise,Singapore,Chitato,None, 829 ,"Rp 7,700","Rp 9,625","Rp 7,979,125","Rp 6,383,300","Rp 1,595,825",7 Nov 2025,20%
+Enterprise,Indonesia,Biskuat,None," 1,138 ","Rp 20,900","Rp 26,125","Rp 29,730,250","Rp 23,784,200","Rp 5,946,050",8 Nov 2025,20%
+Enterprise,Philippines,Indomie,None," 2,836 ","Rp 13,800","Rp 17,250","Rp 48,921,000","Rp 39,136,800","Rp 9,784,200",9 Nov 2025,20%
+Enterprise,Thailand,Aqua,None," 1,130 ","Rp 12,500","Rp 15,625","Rp 17,656,250","Rp 14,125,000","Rp 3,531,250",9 Nov 2025,20%
+Enterprise,Cambodia,Gula Gulaku,None, 800 ,"Rp 15,100","Rp 18,875","Rp 15,100,000","Rp 12,080,000","Rp 3,020,000",10 Nov 2025,20%
+Enterprise,Cambodia,Chitato,None," 2,429 ","Rp 21,200","Rp 26,500","Rp 64,368,500","Rp 51,494,800","Rp 12,873,700",11 Nov 2025,20%
+Enterprise,Indonesia,Nugget Fiesta,None," 1,681 ","Rp 16,400","Rp 20,500","Rp 34,460,500","Rp 27,568,400","Rp 6,892,100",15 Nov 2025,20%
+Enterprise,Myanmar,Indomie,None, 360 ,"Rp 10,000","Rp 12,500","Rp 4,500,000","Rp 3,600,000","Rp 900,000",16 Nov 2025,20%
+Enterprise,Philippines,Indomie,None," 2,344 ","Rp 14,200","Rp 17,750","Rp 41,606,000","Rp 33,284,800","Rp 8,321,200",17 Nov 2025,20%
+Enterprise,Thailand,Sari Roti,None," 1,594 ","Rp 4,600","Rp 5,750","Rp 9,165,500","Rp 7,332,400","Rp 1,833,100",20 Nov 2025,20%
+Enterprise,Singapore,Biskuat,None, 769 ,"Rp 23,200","Rp 29,000","Rp 22,301,000","Rp 17,840,800","Rp 4,460,200",23 Nov 2025,20%
+Enterprise,Myanmar,Indomie,None, 760 ,"Rp 12,000","Rp 15,000","Rp 11,400,000","Rp 9,120,000","Rp 2,280,000",23 Nov 2025,20%
+Enterprise,Myanmar,Sari Roti,None," 1,460 ","Rp 18,700","Rp 23,375","Rp 34,127,500","Rp 27,302,000","Rp 6,825,500",25 Nov 2025,20%
+Enterprise,Malaysia,Sari Roti,None," 2,649 ","Rp 6,400","Rp 8,000","Rp 21,192,000","Rp 16,953,600","Rp 4,238,400",27 Nov 2025,20%
+Enterprise,Philippines,Tango,None, 979 ,"Rp 19,200","Rp 24,000","Rp 23,496,000","Rp 18,796,800","Rp 4,699,200",28 Nov 2025,20%
+Enterprise,Indonesia,Sari Roti,None," 2,770 ","Rp 4,700","Rp 5,875","Rp 16,273,750","Rp 13,019,000","Rp 3,254,750",29 Nov 2025,20%
+Enterprise,Vietnam,Tango,None, 973 ,"Rp 15,500","Rp 19,375","Rp 18,851,875","Rp 15,081,500","Rp 3,770,375",1 Dec 2025,20%
+Enterprise,Laos,Nugget Fiesta,None," 1,975 ","Rp 20,300","Rp 25,375","Rp 50,115,625","Rp 40,092,500","Rp 10,023,125",3 Dec 2025,20%
+Enterprise,Laos,Chitato,None," 1,001 ","Rp 10,100","Rp 12,625","Rp 12,637,625","Rp 10,110,100","Rp 2,527,525",14 Dec 2025,20%
+Enterprise,Laos,Ultra Milk,None," 1,790 ","Rp 19,100","Rp 23,875","Rp 42,736,250","Rp 34,189,000","Rp 8,547,250",15 Dec 2025,20%
+Enterprise,Philippines,Tango,None, 752 ,"Rp 2,800","Rp 3,500","Rp 2,632,000","Rp 2,105,600","Rp 526,400",17 Dec 2025,20%
+Enterprise,Myanmar,Sari Roti,None," 2,048 ","Rp 3,000","Rp 3,750","Rp 7,680,000","Rp 6,144,000","Rp 1,536,000",19 Dec 2025,20%
+Enterprise,Malaysia,Indomie,None," 1,637 ","Rp 20,400","Rp 25,500","Rp 41,743,500","Rp 33,394,800","Rp 8,348,700",19 Dec 2025,20%
+Enterprise,Laos,Indomie,None," 1,002 ","Rp 9,700","Rp 12,125","Rp 12,149,250","Rp 9,719,400","Rp 2,429,850",22 Dec 2025,20%
+Enterprise,Brunei,Indomie,None," 2,363 ","Rp 1,700","Rp 2,125","Rp 5,021,375","Rp 4,017,100","Rp 1,004,275",22 Dec 2025,20%
+Enterprise,Vietnam,Teh Botol,None, 449 ,"Rp 14,300","Rp 17,875","Rp 8,025,875","Rp 6,420,700","Rp 1,605,175",22 Dec 2025,20%
+Enterprise,Myanmar,Chitato,None, 800 ,"Rp 20,000","Rp 25,000","Rp 20,000,000","Rp 16,000,000","Rp 4,000,000",24 Dec 2025,20%
+Enterprise,Vietnam,Indomie,None, 830 ,"Rp 22,400","Rp 28,000","Rp 23,240,000","Rp 18,592,000","Rp 4,648,000",25 Dec 2025,20%
+Enterprise,Philippines,Ultra Milk,None," 2,697 ","Rp 10,300","Rp 12,875","Rp 34,723,875","Rp 27,779,100","Rp 6,944,775",27 Dec 2025,20%
+Enterprise,Myanmar,Sari Roti,None, 217 ,"Rp 7,700","Rp 9,625","Rp 2,088,625","Rp 1,670,900","Rp 417,725",28 Dec 2025,20%
+Enterprise,Singapore,Ultra Milk,None," 1,027 ","Rp 9,600","Rp 12,000","Rp 12,324,000","Rp 9,859,200","Rp 2,464,800",29 Dec 2025,20%
+Enterprise,Indonesia,Indomie,None," 1,468 ","Rp 3,600","Rp 4,500","Rp 6,606,000","Rp 5,284,800","Rp 1,321,200",30 Dec 2025,20%
+Enterprise,Indonesia,Tango,None," 2,493 ","Rp 6,500","Rp 8,125","Rp 20,255,625","Rp 16,204,500","Rp 4,051,125",31 Dec 2025,20%
+Government,Malaysia,Teh Botol,None, 173 ,"Rp 12,700","Rp 15,875","Rp 2,746,375","Rp 2,197,100","Rp 549,275",1 Jan 2025,20%
+Government,Vietnam,Ultra Milk,None," 2,068 ","Rp 21,300","Rp 26,625","Rp 55,060,500","Rp 44,048,400","Rp 11,012,100",3 Jan 2025,20%
+Government,Cambodia,Sari Roti,None, 171 ,"Rp 15,900","Rp 19,875","Rp 3,398,625","Rp 2,718,900","Rp 679,725",4 Jan 2025,20%
+Government,Malaysia,Teh Botol,None," 2,824 ","Rp 10,000","Rp 12,500","Rp 35,300,000","Rp 28,240,000","Rp 7,060,000",14 Jan 2025,20%
+Government,Indonesia,Ultra Milk,None," 1,411 ","Rp 13,700","Rp 17,125","Rp 24,163,375","Rp 19,330,700","Rp 4,832,675",16 Jan 2025,20%
+Government,Thailand,Tango,None, 453 ,"Rp 3,800","Rp 4,750","Rp 2,151,750","Rp 1,721,400","Rp 430,350",20 Jan 2025,20%
+Government,Singapore,Ultra Milk,None," 2,665 ","Rp 3,700","Rp 4,625","Rp 12,325,625","Rp 9,860,500","Rp 2,465,125",23 Jan 2025,20%
+Government,Laos,Biskuat,None," 2,162 ","Rp 24,500","Rp 30,625","Rp 66,211,250","Rp 52,969,000","Rp 13,242,250",26 Jan 2025,20%
+Government,Indonesia,Gula Gulaku,None," 2,413 ","Rp 6,400","Rp 8,000","Rp 19,304,000","Rp 15,443,200","Rp 3,860,800",28 Jan 2025,20%
+Government,Indonesia,Tango,None," 1,536 ","Rp 21,900","Rp 27,375","Rp 42,048,000","Rp 33,638,400","Rp 8,409,600",31 Jan 2025,20%
+Government,Cambodia,Aqua,None," 1,108 ","Rp 11,800","Rp 14,750","Rp 16,343,000","Rp 13,074,400","Rp 3,268,600",1 Feb 2025,20%
+Government,Thailand,Indomie,None, 562 ,"Rp 22,300","Rp 27,875","Rp 15,665,750","Rp 12,532,600","Rp 3,133,150",1 Feb 2025,20%
+Government,Cambodia,Tango,None," 1,568 ","Rp 13,600","Rp 17,000","Rp 26,656,000","Rp 21,324,800","Rp 5,331,200",1 Feb 2025,20%
+Government,Cambodia,Teh Botol,None," 1,248 ","Rp 18,800","Rp 23,500","Rp 29,328,000","Rp 23,462,400","Rp 5,865,600",3 Feb 2025,20%
+Government,Malaysia,Biskuat,None, 510 ,"Rp 4,200","Rp 5,250","Rp 2,677,500","Rp 2,142,000","Rp 535,500",4 Feb 2025,20%
+Government,Cambodia,Sari Roti,None, 523 ,"Rp 17,300","Rp 21,625","Rp 11,309,875","Rp 9,047,900","Rp 2,261,975",5 Feb 2025,20%
+Government,Brunei,Tango,None," 1,982 ","Rp 11,400","Rp 14,250","Rp 28,243,500","Rp 22,594,800","Rp 5,648,700",8 Feb 2025,20%
+Government,Cambodia,Tango,None," 1,437 ","Rp 14,100","Rp 17,625","Rp 25,327,125","Rp 20,261,700","Rp 5,065,425",8 Feb 2025,20%
+Government,Cambodia,Tango,None, 418 ,"Rp 13,200","Rp 16,500","Rp 6,897,000","Rp 5,517,600","Rp 1,379,400",9 Feb 2025,20%
+Government,Philippines,Aqua,None," 2,483 ","Rp 15,100","Rp 18,875","Rp 46,866,625","Rp 37,493,300","Rp 9,373,325",10 Feb 2025,20%
+Government,Malaysia,Gula Gulaku,None," 2,056 ","Rp 19,500","Rp 24,375","Rp 50,115,000","Rp 40,092,000","Rp 10,023,000",16 Feb 2025,20%
+Government,Vietnam,Ultra Milk,None," 1,688 ","Rp 3,300","Rp 4,125","Rp 6,963,000","Rp 5,570,400","Rp 1,392,600",17 Feb 2025,20%
+Government,Brunei,Teh Botol,None," 1,045 ","Rp 19,100","Rp 23,875","Rp 24,949,375","Rp 19,959,500","Rp 4,989,875",19 Feb 2025,20%
+Government,Singapore,Gula Gulaku,None," 2,147 ","Rp 14,500","Rp 18,125","Rp 38,914,375","Rp 31,131,500","Rp 7,782,875",20 Feb 2025,20%
+Government,Myanmar,Aqua,None," 2,144 ","Rp 4,500","Rp 5,625","Rp 12,060,000","Rp 9,648,000","Rp 2,412,000",21 Feb 2025,20%
+Government,Laos,Teh Botol,None," 1,567 ","Rp 24,600","Rp 30,750","Rp 48,185,250","Rp 38,548,200","Rp 9,637,050",22 Feb 2025,20%
+Government,Vietnam,Tango,None," 2,779 ","Rp 15,800","Rp 19,750","Rp 54,885,250","Rp 43,908,200","Rp 10,977,050",24 Feb 2025,20%
+Government,Vietnam,Chitato,None," 2,534 ","Rp 12,700","Rp 15,875","Rp 40,227,250","Rp 32,181,800","Rp 8,045,450",27 Feb 2025,20%
+Government,Brunei,Tango,None, 767 ,"Rp 13,000","Rp 16,250","Rp 12,463,750","Rp 9,971,000","Rp 2,492,750",27 Feb 2025,20%
+Government,Thailand,Biskuat,None," 1,869 ","Rp 22,500","Rp 28,125","Rp 52,565,625","Rp 42,052,500","Rp 10,513,125",28 Feb 2025,20%
+Government,Vietnam,Ultra Milk,None," 1,487 ","Rp 15,300","Rp 19,125","Rp 28,438,875","Rp 22,751,100","Rp 5,687,775",1 Mar 2025,20%
+Government,Brunei,Indomie,None," 2,951 ","Rp 21,100","Rp 26,375","Rp 77,832,625","Rp 62,266,100","Rp 15,566,525",2 Mar 2025,20%
+Government,Brunei,Ultra Milk,None," 2,014 ","Rp 24,000","Rp 30,000","Rp 60,420,000","Rp 48,336,000","Rp 12,084,000",3 Mar 2025,20%
+Government,Myanmar,Gula Gulaku,None, 345 ,"Rp 5,900","Rp 7,375","Rp 2,544,375","Rp 2,035,500","Rp 508,875",3 Mar 2025,20%
+Government,Cambodia,Sari Roti,None," 1,023 ","Rp 8,900","Rp 11,125","Rp 11,380,875","Rp 9,104,700","Rp 2,276,175",4 Mar 2025,20%
+Government,Malaysia,Indomie,None, 682 ,"Rp 12,000","Rp 15,000","Rp 10,230,000","Rp 8,184,000","Rp 2,046,000",6 Mar 2025,20%
+Government,Malaysia,Nugget Fiesta,None," 1,415 ","Rp 24,600","Rp 30,750","Rp 43,511,250","Rp 34,809,000","Rp 8,702,250",7 Mar 2025,20%
+Government,Brunei,Chitato,None," 2,580 ","Rp 14,900","Rp 18,625","Rp 48,052,500","Rp 38,442,000","Rp 9,610,500",7 Mar 2025,20%
+Government,Laos,Biskuat,None," 1,900 ","Rp 4,400","Rp 5,500","Rp 10,450,000","Rp 8,360,000","Rp 2,090,000",8 Mar 2025,20%
+Government,Indonesia,Aqua,None," 1,197 ","Rp 19,800","Rp 24,750","Rp 29,625,750","Rp 23,700,600","Rp 5,925,150",10 Mar 2025,20%
+Government,Singapore,Chitato,None, 428 ,"Rp 22,600","Rp 28,250","Rp 12,091,000","Rp 9,672,800","Rp 2,418,200",11 Mar 2025,20%
+Government,Vietnam,Sari Roti,None," 2,065 ","Rp 4,000","Rp 5,000","Rp 10,325,000","Rp 8,260,000","Rp 2,065,000",11 Mar 2025,20%
+Government,Thailand,Nugget Fiesta,None," 1,160 ","Rp 12,200","Rp 15,250","Rp 17,690,000","Rp 14,152,000","Rp 3,538,000",15 Mar 2025,20%
+Government,Malaysia,Aqua,None," 1,897 ","Rp 19,800","Rp 24,750","Rp 46,950,750","Rp 37,560,600","Rp 9,390,150",17 Mar 2025,20%
+Government,Singapore,Nugget Fiesta,None, 868 ,"Rp 17,700","Rp 22,125","Rp 19,204,500","Rp 15,363,600","Rp 3,840,900",20 Mar 2025,20%
+Government,Thailand,Teh Botol,None," 1,375 ","Rp 11,900","Rp 14,875","Rp 20,453,125","Rp 16,362,500","Rp 4,090,625",23 Mar 2025,20%
+Government,Laos,Indomie,None," 2,599 ","Rp 18,100","Rp 22,625","Rp 58,802,375","Rp 47,041,900","Rp 11,760,475",24 Mar 2025,20%
+Government,Brunei,Chitato,None," 2,442 ","Rp 13,900","Rp 17,375","Rp 42,429,750","Rp 33,943,800","Rp 8,485,950",29 Mar 2025,20%
+Government,Thailand,Chitato,None," 1,072 ","Rp 20,300","Rp 25,375","Rp 27,202,000","Rp 21,761,600","Rp 5,440,400",1 Apr 2025,20%
+Government,Cambodia,Aqua,None," 1,589 ","Rp 22,000","Rp 27,500","Rp 43,697,500","Rp 34,958,000","Rp 8,739,500",3 Apr 2025,20%
+Government,Vietnam,Chitato,None," 2,427 ","Rp 13,100","Rp 16,375","Rp 39,742,125","Rp 31,793,700","Rp 7,948,425",3 Apr 2025,20%
+Government,Philippines,Indomie,None," 1,453 ","Rp 23,600","Rp 29,500","Rp 42,863,500","Rp 34,290,800","Rp 8,572,700",3 Apr 2025,20%
+Government,Thailand,Nugget Fiesta,None," 1,724 ","Rp 7,400","Rp 9,250","Rp 15,947,000","Rp 12,757,600","Rp 3,189,400",3 Apr 2025,20%
+Government,Laos,Biskuat,None, 735 ,"Rp 15,200","Rp 19,000","Rp 13,965,000","Rp 11,172,000","Rp 2,793,000",12 Apr 2025,20%
+Government,Vietnam,Biskuat,None," 2,502 ","Rp 13,800","Rp 17,250","Rp 43,159,500","Rp 34,527,600","Rp 8,631,900",12 Apr 2025,20%
+Government,Brunei,Tango,None, 616 ,"Rp 22,900","Rp 28,625","Rp 17,633,000","Rp 14,106,400","Rp 3,526,600",17 Apr 2025,20%
+Government,Indonesia,Ultra Milk,None," 2,461 ","Rp 21,200","Rp 26,500","Rp 65,216,500","Rp 52,173,200","Rp 13,043,300",17 Apr 2025,20%
+Government,Brunei,Nugget Fiesta,None, 325 ,"Rp 11,500","Rp 14,375","Rp 4,671,875","Rp 3,737,500","Rp 934,375",18 Apr 2025,20%
+Government,Vietnam,Chitato,None, 750 ,"Rp 21,000","Rp 26,250","Rp 19,687,500","Rp 15,750,000","Rp 3,937,500",21 Apr 2025,20%
+Government,Brunei,Biskuat,None, 673 ,"Rp 6,100","Rp 7,625","Rp 5,131,625","Rp 4,105,300","Rp 1,026,325",23 Apr 2025,20%
+Government,Indonesia,Nugget Fiesta,None," 2,770 ","Rp 21,800","Rp 27,250","Rp 75,482,500","Rp 60,386,000","Rp 15,096,500",24 Apr 2025,20%
+Government,Philippines,Aqua,None," 1,562 ","Rp 12,100","Rp 15,125","Rp 23,625,250","Rp 18,900,200","Rp 4,725,050",27 Apr 2025,20%
+Government,Malaysia,Teh Botol,None," 2,484 ","Rp 13,000","Rp 16,250","Rp 40,365,000","Rp 32,292,000","Rp 8,073,000",27 Apr 2025,20%
+Government,Singapore,Chitato,None, 257 ,"Rp 16,600","Rp 20,750","Rp 5,332,750","Rp 4,266,200","Rp 1,066,550",30 Apr 2025,20%
+Government,Laos,Aqua,None," 1,395 ","Rp 17,000","Rp 21,250","Rp 29,643,750","Rp 23,715,000","Rp 5,928,750",4 May 2025,20%
+Government,Indonesia,Nugget Fiesta,None," 2,635 ","Rp 16,600","Rp 20,750","Rp 54,676,250","Rp 43,741,000","Rp 10,935,250",7 May 2025,20%
+Government,Myanmar,Biskuat,None, 155 ,"Rp 3,700","Rp 4,625","Rp 716,875","Rp 573,500","Rp 143,375",9 May 2025,20%
+Government,Cambodia,Tango,None," 1,552 ","Rp 14,500","Rp 18,125","Rp 28,130,000","Rp 22,504,000","Rp 5,626,000",9 May 2025,20%
+Government,Cambodia,Aqua,None, 189 ,"Rp 15,000","Rp 18,750","Rp 3,543,750","Rp 2,835,000","Rp 708,750",10 May 2025,20%
+Government,Cambodia,Aqua,None," 1,468 ","Rp 11,800","Rp 14,750","Rp 21,653,000","Rp 17,322,400","Rp 4,330,600",17 May 2025,20%
+Government,Philippines,Ultra Milk,None," 1,085 ","Rp 2,900","Rp 3,625","Rp 3,933,125","Rp 3,146,500","Rp 786,625",17 May 2025,20%
+Government,Malaysia,Gula Gulaku,None," 1,651 ","Rp 10,100","Rp 12,625","Rp 20,843,875","Rp 16,675,100","Rp 4,168,775",20 May 2025,20%
+Government,Malaysia,Nugget Fiesta,None," 2,984 ","Rp 20,300","Rp 25,375","Rp 75,719,000","Rp 60,575,200","Rp 15,143,800",20 May 2025,20%
+Government,Philippines,Gula Gulaku,None," 1,517 ","Rp 5,700","Rp 7,125","Rp 10,808,625","Rp 8,646,900","Rp 2,161,725",20 May 2025,20%
+Government,Indonesia,Indomie,None," 2,237 ","Rp 9,300","Rp 11,625","Rp 26,005,125","Rp 20,804,100","Rp 5,201,025",22 May 2025,20%
+Government,Myanmar,Chitato,None," 2,151 ","Rp 5,200","Rp 6,500","Rp 13,981,500","Rp 11,185,200","Rp 2,796,300",22 May 2025,20%
+Government,Myanmar,Biskuat,None," 1,522 ","Rp 6,600","Rp 8,250","Rp 12,556,500","Rp 10,045,200","Rp 2,511,300",22 May 2025,20%
+Government,Indonesia,Nugget Fiesta,None," 1,654 ","Rp 2,900","Rp 3,625","Rp 5,995,750","Rp 4,796,600","Rp 1,199,150",26 May 2025,20%
+Government,Vietnam,Nugget Fiesta,None, 489 ,"Rp 22,500","Rp 28,125","Rp 13,753,125","Rp 11,002,500","Rp 2,750,625",27 May 2025,20%
+Government,Cambodia,Aqua,None, 920 ,"Rp 22,800","Rp 28,500","Rp 26,220,000","Rp 20,976,000","Rp 5,244,000",27 May 2025,20%
+Government,Cambodia,Indomie,None, 718 ,"Rp 18,500","Rp 23,125","Rp 16,603,750","Rp 13,283,000","Rp 3,320,750",29 May 2025,20%
+Government,Brunei,Nugget Fiesta,None," 2,048 ","Rp 18,000","Rp 22,500","Rp 46,080,000","Rp 36,864,000","Rp 9,216,000",30 May 2025,20%
+Government,Singapore,Teh Botol,None," 2,046 ","Rp 12,600","Rp 15,750","Rp 32,224,500","Rp 25,779,600","Rp 6,444,900",30 May 2025,20%
+Government,Singapore,Tango,None, 112 ,"Rp 8,100","Rp 10,125","Rp 1,134,000","Rp 907,200","Rp 226,800",31 May 2025,20%
+Government,Laos,Teh Botol,None," 2,353 ","Rp 2,800","Rp 3,500","Rp 8,235,500","Rp 6,588,400","Rp 1,647,100",2 Jun 2025,20%
+Government,Cambodia,Teh Botol,None," 1,550 ","Rp 10,900","Rp 13,625","Rp 21,118,750","Rp 16,895,000","Rp 4,223,750",6 Jun 2025,20%
+Government,Laos,Indomie,None," 1,069 ","Rp 4,900","Rp 6,125","Rp 6,547,625","Rp 5,238,100","Rp 1,309,525",7 Jun 2025,20%
+Government,Indonesia,Gula Gulaku,None," 1,385 ","Rp 20,800","Rp 26,000","Rp 36,010,000","Rp 28,808,000","Rp 7,202,000",10 Jun 2025,20%
+Government,Philippines,Tango,None," 1,550 ","Rp 3,600","Rp 4,500","Rp 6,975,000","Rp 5,580,000","Rp 1,395,000",12 Jun 2025,20%
+Government,Indonesia,Aqua,None," 2,926 ","Rp 22,300","Rp 27,875","Rp 81,562,250","Rp 65,249,800","Rp 16,312,450",13 Jun 2025,20%
+Government,Myanmar,Nugget Fiesta,None," 2,348 ","Rp 13,200","Rp 16,500","Rp 38,742,000","Rp 30,993,600","Rp 7,748,400",13 Jun 2025,20%
+Government,Laos,Biskuat,None," 1,571 ","Rp 24,400","Rp 30,500","Rp 47,915,500","Rp 38,332,400","Rp 9,583,100",14 Jun 2025,20%
+Government,Cambodia,Ultra Milk,None," 1,018 ","Rp 10,400","Rp 13,000","Rp 13,234,000","Rp 10,587,200","Rp 2,646,800",17 Jun 2025,20%
+Government,Indonesia,Teh Botol,None," 1,987 ","Rp 7,200","Rp 9,000","Rp 17,883,000","Rp 14,306,400","Rp 3,576,600",19 Jun 2025,20%
+Government,Malaysia,Aqua,None," 1,584 ","Rp 21,800","Rp 27,250","Rp 43,164,000","Rp 34,531,200","Rp 8,632,800",20 Jun 2025,20%
+Government,Cambodia,Aqua,None," 2,819 ","Rp 11,100","Rp 13,875","Rp 39,113,625","Rp 31,290,900","Rp 7,822,725",21 Jun 2025,20%
+Government,Philippines,Sari Roti,None, 859 ,"Rp 17,500","Rp 21,875","Rp 18,790,625","Rp 15,032,500","Rp 3,758,125",24 Jun 2025,20%
+Government,Malaysia,Nugget Fiesta,None, 824 ,"Rp 16,300","Rp 20,375","Rp 16,789,000","Rp 13,431,200","Rp 3,357,800",25 Jun 2025,20%
+Government,Vietnam,Teh Botol,None," 2,411 ","Rp 6,800","Rp 8,500","Rp 20,493,500","Rp 16,394,800","Rp 4,098,700",26 Jun 2025,20%
+Government,Brunei,Ultra Milk,None, 334 ,"Rp 19,600","Rp 24,500","Rp 8,183,000","Rp 6,546,400","Rp 1,636,600",27 Jun 2025,20%
+Government,Philippines,Nugget Fiesta,None," 2,710 ","Rp 12,900","Rp 16,125","Rp 43,698,750","Rp 34,959,000","Rp 8,739,750",27 Jun 2025,20%
+Government,Brunei,Aqua,None," 2,525 ","Rp 19,100","Rp 23,875","Rp 60,284,375","Rp 48,227,500","Rp 12,056,875",28 Jun 2025,20%
+Government,Malaysia,Chitato,None," 1,660 ","Rp 16,200","Rp 20,250","Rp 33,615,000","Rp 26,892,000","Rp 6,723,000",29 Jun 2025,20%
+Government,Singapore,Sari Roti,None, 800 ,"Rp 21,600","Rp 27,000","Rp 21,600,000","Rp 17,280,000","Rp 4,320,000",29 Jun 2025,20%
+Government,Laos,Chitato,None," 2,366 ","Rp 12,900","Rp 16,125","Rp 38,151,750","Rp 30,521,400","Rp 7,630,350",30 Jun 2025,20%
+Government,Laos,Biskuat,None," 1,272 ","Rp 9,300","Rp 11,625","Rp 14,787,000","Rp 11,829,600","Rp 2,957,400",1 Jul 2025,20%
+Government,Thailand,Chitato,None, 217 ,"Rp 2,600","Rp 3,250","Rp 705,250","Rp 564,200","Rp 141,050",1 Jul 2025,20%
+Government,Indonesia,Chitato,None," 2,416 ","Rp 13,600","Rp 17,000","Rp 41,072,000","Rp 32,857,600","Rp 8,214,400",2 Jul 2025,20%
+Government,Myanmar,Gula Gulaku,None," 1,126 ","Rp 22,900","Rp 28,625","Rp 32,231,750","Rp 25,785,400","Rp 6,446,350",3 Jul 2025,20%
+Government,Malaysia,Tango,None," 2,458 ","Rp 19,800","Rp 24,750","Rp 60,835,500","Rp 48,668,400","Rp 12,167,100",4 Jul 2025,20%
+Government,Thailand,Ultra Milk,None," 2,366 ","Rp 15,700","Rp 19,625","Rp 46,432,750","Rp 37,146,200","Rp 9,286,550",4 Jul 2025,20%
+Government,Indonesia,Ultra Milk,None, 986 ,"Rp 11,400","Rp 14,250","Rp 14,050,500","Rp 11,240,400","Rp 2,810,100",5 Jul 2025,20%
+Government,Singapore,Ultra Milk,None," 1,751 ","Rp 17,400","Rp 21,750","Rp 38,084,250","Rp 30,467,400","Rp 7,616,850",11 Jul 2025,20%
+Government,Thailand,Sari Roti,None," 2,336 ","Rp 7,200","Rp 9,000","Rp 21,024,000","Rp 16,819,200","Rp 4,204,800",11 Jul 2025,20%
+Government,Singapore,Chitato,None," 2,061 ","Rp 13,700","Rp 17,125","Rp 35,294,625","Rp 28,235,700","Rp 7,058,925",13 Jul 2025,20%
+Government,Laos,Ultra Milk,None," 2,653 ","Rp 24,900","Rp 31,125","Rp 82,574,625","Rp 66,059,700","Rp 16,514,925",14 Jul 2025,20%
+Government,Indonesia,Biskuat,None," 2,101 ","Rp 2,500","Rp 3,125","Rp 6,565,625","Rp 5,252,500","Rp 1,313,125",16 Jul 2025,20%
+Government,Thailand,Sari Roti,None, 318 ,"Rp 9,000","Rp 11,250","Rp 3,577,500","Rp 2,862,000","Rp 715,500",16 Jul 2025,20%
+Government,Brunei,Indomie,None, 657 ,"Rp 16,100","Rp 20,125","Rp 13,222,125","Rp 10,577,700","Rp 2,644,425",17 Jul 2025,20%
+Government,Malaysia,Chitato,None, 337 ,"Rp 17,100","Rp 21,375","Rp 7,203,375","Rp 5,762,700","Rp 1,440,675",17 Jul 2025,20%
+Government,Laos,Nugget Fiesta,None," 1,543 ","Rp 9,300","Rp 11,625","Rp 17,937,375","Rp 14,349,900","Rp 3,587,475",18 Jul 2025,20%
+Government,Laos,Teh Botol,None," 1,739 ","Rp 3,200","Rp 4,000","Rp 6,956,000","Rp 5,564,800","Rp 1,391,200",21 Jul 2025,20%
+Government,Myanmar,Aqua,None, 495 ,"Rp 3,700","Rp 4,625","Rp 2,289,375","Rp 1,831,500","Rp 457,875",21 Jul 2025,20%
+Government,Malaysia,Aqua,None," 1,832 ","Rp 18,600","Rp 23,250","Rp 42,594,000","Rp 34,075,200","Rp 8,518,800",22 Jul 2025,20%
+Government,Thailand,Chitato,None," 2,414 ","Rp 22,400","Rp 28,000","Rp 67,592,000","Rp 54,073,600","Rp 13,518,400",23 Jul 2025,20%
+Government,Myanmar,Ultra Milk,None," 2,675 ","Rp 20,400","Rp 25,500","Rp 68,212,500","Rp 54,570,000","Rp 13,642,500",24 Jul 2025,20%
+Government,Cambodia,Sari Roti,None," 2,988 ","Rp 13,500","Rp 16,875","Rp 50,422,500","Rp 40,338,000","Rp 10,084,500",24 Jul 2025,20%
+Government,Malaysia,Sari Roti,None," 1,021 ","Rp 9,200","Rp 11,500","Rp 11,741,500","Rp 9,393,200","Rp 2,348,300",1 Aug 2025,20%
+Government,Laos,Sari Roti,None, 461 ,"Rp 17,600","Rp 22,000","Rp 10,142,000","Rp 8,113,600","Rp 2,028,400",4 Aug 2025,20%
+Government,Philippines,Indomie,None," 2,085 ","Rp 7,700","Rp 9,625","Rp 20,068,125","Rp 16,054,500","Rp 4,013,625",4 Aug 2025,20%
+Government,Brunei,Teh Botol,None, 169 ,"Rp 16,700","Rp 20,875","Rp 3,527,875","Rp 2,822,300","Rp 705,575",5 Aug 2025,20%
+Government,Cambodia,Indomie,None, 968 ,"Rp 17,400","Rp 21,750","Rp 21,054,000","Rp 16,843,200","Rp 4,210,800",6 Aug 2025,20%
+Government,Vietnam,Ultra Milk,None," 1,407 ","Rp 11,200","Rp 14,000","Rp 19,698,000","Rp 15,758,400","Rp 3,939,600",7 Aug 2025,20%
+Government,Malaysia,Teh Botol,None," 2,734 ","Rp 9,400","Rp 11,750","Rp 32,124,500","Rp 25,699,600","Rp 6,424,900",8 Aug 2025,20%
+Government,Brunei,Ultra Milk,None," 2,575 ","Rp 24,500","Rp 30,625","Rp 78,859,375","Rp 63,087,500","Rp 15,771,875",9 Aug 2025,20%
+Government,Myanmar,Indomie,None," 2,398 ","Rp 1,800","Rp 2,250","Rp 5,395,500","Rp 4,316,400","Rp 1,079,100",12 Aug 2025,20%
+Government,Thailand,Biskuat,None," 1,267 ","Rp 1,900","Rp 2,375","Rp 3,009,125","Rp 2,407,300","Rp 601,825",13 Aug 2025,20%
+Government,Myanmar,Tango,None, 354 ,"Rp 3,900","Rp 4,875","Rp 1,725,750","Rp 1,380,600","Rp 345,150",15 Aug 2025,20%
+Government,Brunei,Tango,None," 2,861 ","Rp 12,600","Rp 15,750","Rp 45,060,750","Rp 36,048,600","Rp 9,012,150",15 Aug 2025,20%
+Government,Malaysia,Gula Gulaku,None," 1,702 ","Rp 6,600","Rp 8,250","Rp 14,041,500","Rp 11,233,200","Rp 2,808,300",15 Aug 2025,20%
+Government,Indonesia,Gula Gulaku,None," 1,783 ","Rp 14,300","Rp 17,875","Rp 31,871,125","Rp 25,496,900","Rp 6,374,225",15 Aug 2025,20%
+Government,Myanmar,Nugget Fiesta,None," 1,066 ","Rp 7,200","Rp 9,000","Rp 9,594,000","Rp 7,675,200","Rp 1,918,800",18 Aug 2025,20%
+Government,Singapore,Gula Gulaku,None, 744 ,"Rp 11,300","Rp 14,125","Rp 10,509,000","Rp 8,407,200","Rp 2,101,800",20 Aug 2025,20%
+Government,Indonesia,Chitato,None," 1,719 ","Rp 7,200","Rp 9,000","Rp 15,471,000","Rp 12,376,800","Rp 3,094,200",25 Aug 2025,20%
+Government,Malaysia,Gula Gulaku,None," 1,755 ","Rp 18,200","Rp 22,750","Rp 39,926,250","Rp 31,941,000","Rp 7,985,250",27 Aug 2025,20%
+Government,Thailand,Nugget Fiesta,None," 2,593 ","Rp 10,700","Rp 13,375","Rp 34,681,375","Rp 27,745,100","Rp 6,936,275",27 Aug 2025,20%
+Government,Myanmar,Biskuat,None," 2,322 ","Rp 14,900","Rp 18,625","Rp 43,247,250","Rp 34,597,800","Rp 8,649,450",27 Aug 2025,20%
+Government,Laos,Teh Botol,None, 350 ,"Rp 23,100","Rp 28,875","Rp 10,106,250","Rp 8,085,000","Rp 2,021,250",30 Aug 2025,20%
+Government,Thailand,Gula Gulaku,None, 849 ,"Rp 3,300","Rp 4,125","Rp 3,502,125","Rp 2,801,700","Rp 700,425",2 Sep 2025,20%
+Government,Laos,Biskuat,None," 2,091 ","Rp 23,300","Rp 29,125","Rp 60,900,375","Rp 48,720,300","Rp 12,180,075",3 Sep 2025,20%
+Government,Philippines,Gula Gulaku,None," 1,284 ","Rp 24,600","Rp 30,750","Rp 39,483,000","Rp 31,586,400","Rp 7,896,600",4 Sep 2025,20%
+Government,Indonesia,Teh Botol,None," 2,707 ","Rp 18,300","Rp 22,875","Rp 61,922,625","Rp 49,538,100","Rp 12,384,525",6 Sep 2025,20%
+Government,Philippines,Gula Gulaku,None," 1,550 ","Rp 9,100","Rp 11,375","Rp 17,631,250","Rp 14,105,000","Rp 3,526,250",8 Sep 2025,20%
+Government,Vietnam,Biskuat,None," 1,911 ","Rp 6,500","Rp 8,125","Rp 15,526,875","Rp 12,421,500","Rp 3,105,375",12 Sep 2025,20%
+Government,Myanmar,Teh Botol,None," 1,187 ","Rp 7,200","Rp 9,000","Rp 10,683,000","Rp 8,546,400","Rp 2,136,600",12 Sep 2025,20%
+Government,Cambodia,Ultra Milk,None, 557 ,"Rp 15,100","Rp 18,875","Rp 10,513,375","Rp 8,410,700","Rp 2,102,675",13 Sep 2025,20%
+Government,Brunei,Biskuat,None, 268 ,"Rp 4,200","Rp 5,250","Rp 1,407,000","Rp 1,125,600","Rp 281,400",14 Sep 2025,20%
+Government,Malaysia,Tango,None," 2,787 ","Rp 3,500","Rp 4,375","Rp 12,193,125","Rp 9,754,500","Rp 2,438,625",18 Sep 2025,20%
+Government,Vietnam,Sari Roti,None," 2,765 ","Rp 8,100","Rp 10,125","Rp 27,995,625","Rp 22,396,500","Rp 5,599,125",19 Sep 2025,20%
+Government,Laos,Nugget Fiesta,None," 1,297 ","Rp 10,100","Rp 12,625","Rp 16,374,625","Rp 13,099,700","Rp 3,274,925",19 Sep 2025,20%
+Government,Brunei,Aqua,None, 812 ,"Rp 22,600","Rp 28,250","Rp 22,939,000","Rp 18,351,200","Rp 4,587,800",20 Sep 2025,20%
+Government,Cambodia,Teh Botol,None," 1,633 ","Rp 22,400","Rp 28,000","Rp 45,724,000","Rp 36,579,200","Rp 9,144,800",22 Sep 2025,20%
+Government,Laos,Tango,None," 2,919 ","Rp 14,100","Rp 17,625","Rp 51,447,375","Rp 41,157,900","Rp 10,289,475",24 Sep 2025,20%
+Government,Vietnam,Tango,None, 374 ,"Rp 10,000","Rp 12,500","Rp 4,675,000","Rp 3,740,000","Rp 935,000",24 Sep 2025,20%
+Government,Laos,Tango,None," 2,913 ","Rp 13,500","Rp 16,875","Rp 49,156,875","Rp 39,325,500","Rp 9,831,375",26 Sep 2025,20%
+Government,Laos,Sari Roti,None," 1,663 ","Rp 1,700","Rp 2,125","Rp 3,533,875","Rp 2,827,100","Rp 706,775",27 Sep 2025,20%
+Government,Laos,Aqua,None," 1,275 ","Rp 17,000","Rp 21,250","Rp 27,093,750","Rp 21,675,000","Rp 5,418,750",28 Sep 2025,20%
+Government,Laos,Chitato,None, 265 ,"Rp 15,900","Rp 19,875","Rp 5,266,875","Rp 4,213,500","Rp 1,053,375",29 Sep 2025,20%
+Government,Myanmar,Chitato,None," 2,602 ","Rp 4,000","Rp 5,000","Rp 13,010,000","Rp 10,408,000","Rp 2,602,000",2 Oct 2025,20%
+Government,Indonesia,Indomie,None," 1,942 ","Rp 17,200","Rp 21,500","Rp 41,753,000","Rp 33,402,400","Rp 8,350,600",5 Oct 2025,20%
+Government,Malaysia,Gula Gulaku,None," 1,498 ","Rp 9,900","Rp 12,375","Rp 18,537,750","Rp 14,830,200","Rp 3,707,550",8 Oct 2025,20%
+Government,Thailand,Indomie,None," 2,548 ","Rp 12,600","Rp 15,750","Rp 40,131,000","Rp 32,104,800","Rp 8,026,200",11 Oct 2025,20%
+Government,Malaysia,Ultra Milk,None," 1,618 ","Rp 3,100","Rp 3,875","Rp 6,269,750","Rp 5,015,800","Rp 1,253,950",12 Oct 2025,20%
+Government,Indonesia,Ultra Milk,None," 1,771 ","Rp 18,600","Rp 23,250","Rp 41,175,750","Rp 32,940,600","Rp 8,235,150",13 Oct 2025,20%
+Government,Thailand,Chitato,None, 619 ,"Rp 7,600","Rp 9,500","Rp 5,880,500","Rp 4,704,400","Rp 1,176,100",16 Oct 2025,20%
+Government,Philippines,Chitato,None," 1,186 ","Rp 10,500","Rp 13,125","Rp 15,566,250","Rp 12,453,000","Rp 3,113,250",17 Oct 2025,20%
+Government,Philippines,Ultra Milk,None," 2,161 ","Rp 4,000","Rp 5,000","Rp 10,805,000","Rp 8,644,000","Rp 2,161,000",17 Oct 2025,20%
+Government,Indonesia,Sari Roti,None," 1,331 ","Rp 4,200","Rp 5,250","Rp 6,987,750","Rp 5,590,200","Rp 1,397,550",18 Oct 2025,20%
+Government,Laos,Indomie,None, 259 ,"Rp 24,100","Rp 30,125","Rp 7,802,375","Rp 6,241,900","Rp 1,560,475",20 Oct 2025,20%
+Government,Malaysia,Chitato,None," 1,163 ","Rp 24,500","Rp 30,625","Rp 35,616,875","Rp 28,493,500","Rp 7,123,375",22 Oct 2025,20%
+Government,Vietnam,Ultra Milk,None," 1,322 ","Rp 12,300","Rp 15,375","Rp 20,325,750","Rp 16,260,600","Rp 4,065,150",24 Oct 2025,20%
+Government,Myanmar,Gula Gulaku,None, 435 ,"Rp 8,000","Rp 10,000","Rp 4,350,000","Rp 3,480,000","Rp 870,000",28 Oct 2025,20%
+Government,Thailand,Ultra Milk,None," 1,089 ","Rp 23,700","Rp 29,625","Rp 32,261,625","Rp 25,809,300","Rp 6,452,325",29 Oct 2025,20%
+Government,Cambodia,Aqua,None," 2,162 ","Rp 3,600","Rp 4,500","Rp 9,729,000","Rp 7,783,200","Rp 1,945,800",31 Oct 2025,20%
+Government,Cambodia,Gula Gulaku,None," 2,656 ","Rp 24,100","Rp 30,125","Rp 80,012,000","Rp 64,009,600","Rp 16,002,400",1 Nov 2025,20%
+Government,Vietnam,Gula Gulaku,None, 917 ,"Rp 6,500","Rp 8,125","Rp 7,450,625","Rp 5,960,500","Rp 1,490,125",2 Nov 2025,20%
+Government,Myanmar,Tango,None, 629 ,"Rp 9,800","Rp 12,250","Rp 7,705,250","Rp 6,164,200","Rp 1,541,050",4 Nov 2025,20%
+Government,Laos,Ultra Milk,None," 1,034 ","Rp 12,500","Rp 15,625","Rp 16,156,250","Rp 12,925,000","Rp 3,231,250",6 Nov 2025,20%
+Government,Malaysia,Tango,None, 765 ,"Rp 7,100","Rp 8,875","Rp 6,789,375","Rp 5,431,500","Rp 1,357,875",8 Nov 2025,20%
+Government,Singapore,Ultra Milk,None, 925 ,"Rp 22,800","Rp 28,500","Rp 26,362,500","Rp 21,090,000","Rp 5,272,500",9 Nov 2025,20%
+Government,Cambodia,Aqua,None," 2,949 ","Rp 6,700","Rp 8,375","Rp 24,697,875","Rp 19,758,300","Rp 4,939,575",9 Nov 2025,20%
+Government,Indonesia,Indomie,None," 2,341 ","Rp 22,900","Rp 28,625","Rp 67,011,125","Rp 53,608,900","Rp 13,402,225",13 Nov 2025,20%
+Government,Philippines,Indomie,None, 202 ,"Rp 6,500","Rp 8,125","Rp 1,641,250","Rp 1,313,000","Rp 328,250",13 Nov 2025,20%
+Government,Singapore,Biskuat,None, 785 ,"Rp 7,500","Rp 9,375","Rp 7,359,375","Rp 5,887,500","Rp 1,471,875",13 Nov 2025,20%
+Government,Malaysia,Ultra Milk,None," 1,214 ","Rp 13,900","Rp 17,375","Rp 21,093,250","Rp 16,874,600","Rp 4,218,650",13 Nov 2025,20%
+Government,Indonesia,Gula Gulaku,None," 1,396 ","Rp 11,900","Rp 14,875","Rp 20,765,500","Rp 16,612,400","Rp 4,153,100",14 Nov 2025,20%
+Government,Malaysia,Chitato,None," 1,159 ","Rp 15,400","Rp 19,250","Rp 22,310,750","Rp 17,848,600","Rp 4,462,150",14 Nov 2025,20%
+Government,Brunei,Gula Gulaku,None," 2,629 ","Rp 8,700","Rp 10,875","Rp 28,590,375","Rp 22,872,300","Rp 5,718,075",16 Nov 2025,20%
+Government,Thailand,Gula Gulaku,None," 1,896 ","Rp 9,900","Rp 12,375","Rp 23,463,000","Rp 18,770,400","Rp 4,692,600",19 Nov 2025,20%
+Government,Thailand,Nugget Fiesta,None," 1,006 ","Rp 11,200","Rp 14,000","Rp 14,084,000","Rp 11,267,200","Rp 2,816,800",22 Nov 2025,20%
+Government,Brunei,Chitato,None, 524 ,"Rp 3,200","Rp 4,000","Rp 2,096,000","Rp 1,676,800","Rp 419,200",24 Nov 2025,20%
+Government,Myanmar,Ultra Milk,None, 972 ,"Rp 15,100","Rp 18,875","Rp 18,346,500","Rp 14,677,200","Rp 3,669,300",25 Nov 2025,20%
+Government,Philippines,Chitato,None, 360 ,"Rp 16,100","Rp 20,125","Rp 7,245,000","Rp 5,796,000","Rp 1,449,000",25 Nov 2025,20%
+Government,Brunei,Nugget Fiesta,None," 2,464 ","Rp 21,300","Rp 26,625","Rp 65,604,000","Rp 52,483,200","Rp 13,120,800",25 Nov 2025,20%
+Government,Singapore,Indomie,None," 2,509 ","Rp 23,700","Rp 29,625","Rp 74,329,125","Rp 59,463,300","Rp 14,865,825",27 Nov 2025,20%
+Government,Myanmar,Sari Roti,None, 512 ,"Rp 8,900","Rp 11,125","Rp 5,696,000","Rp 4,556,800","Rp 1,139,200",28 Nov 2025,20%
+Government,Philippines,Indomie,None," 2,354 ","Rp 23,800","Rp 29,750","Rp 70,031,500","Rp 56,025,200","Rp 14,006,300",28 Nov 2025,20%
+Government,Philippines,Gula Gulaku,None," 2,909 ","Rp 17,700","Rp 22,125","Rp 64,361,625","Rp 51,489,300","Rp 12,872,325",29 Nov 2025,20%
+Government,Malaysia,Tango,None," 2,507 ","Rp 21,400","Rp 26,750","Rp 67,062,250","Rp 53,649,800","Rp 13,412,450",1 Dec 2025,20%
+Government,Myanmar,Nugget Fiesta,None, 183 ,"Rp 23,800","Rp 29,750","Rp 5,444,250","Rp 4,355,400","Rp 1,088,850",5 Dec 2025,20%
+Government,Indonesia,Ultra Milk,None," 2,300 ","Rp 6,100","Rp 7,625","Rp 17,537,500","Rp 14,030,000","Rp 3,507,500",7 Dec 2025,20%
+Government,Thailand,Indomie,None," 1,332 ","Rp 22,700","Rp 28,375","Rp 37,795,500","Rp 30,236,400","Rp 7,559,100",8 Dec 2025,20%
+Government,Cambodia,Tango,None," 1,107 ","Rp 3,800","Rp 4,750","Rp 5,258,250","Rp 4,206,600","Rp 1,051,650",9 Dec 2025,20%
+Government,Laos,Gula Gulaku,None," 2,723 ","Rp 20,700","Rp 25,875","Rp 70,457,625","Rp 56,366,100","Rp 14,091,525",9 Dec 2025,20%
+Government,Indonesia,Biskuat,None," 2,836 ","Rp 12,800","Rp 16,000","Rp 45,376,000","Rp 36,300,800","Rp 9,075,200",11 Dec 2025,20%
+Government,Vietnam,Nugget Fiesta,None," 2,757 ","Rp 21,900","Rp 27,375","Rp 75,472,875","Rp 60,378,300","Rp 15,094,575",11 Dec 2025,20%
+Government,Myanmar,Biskuat,None, 486 ,"Rp 2,100","Rp 2,625","Rp 1,275,750","Rp 1,020,600","Rp 255,150",12 Dec 2025,20%
+Government,Thailand,Biskuat,None," 1,990 ","Rp 13,400","Rp 16,750","Rp 33,332,500","Rp 26,666,000","Rp 6,666,500",14 Dec 2025,20%
+Government,Thailand,Biskuat,None," 2,300 ","Rp 16,600","Rp 20,750","Rp 47,725,000","Rp 38,180,000","Rp 9,545,000",16 Dec 2025,20%
+Government,Laos,Tango,None, 839 ,"Rp 5,400","Rp 6,750","Rp 5,663,250","Rp 4,530,600","Rp 1,132,650",20 Dec 2025,20%
+Government,Myanmar,Tango,None," 2,097 ","Rp 8,300","Rp 10,375","Rp 21,756,375","Rp 17,405,100","Rp 4,351,275",22 Dec 2025,20%
+Government,Malaysia,Aqua,None," 2,908 ","Rp 23,400","Rp 29,250","Rp 85,059,000","Rp 68,047,200","Rp 17,011,800",26 Dec 2025,20%
+Government,Indonesia,Teh Botol,None," 2,424 ","Rp 21,900","Rp 27,375","Rp 66,357,000","Rp 53,085,600","Rp 13,271,400",28 Dec 2025,20%
+Government,Singapore,Tango,None," 1,780 ","Rp 17,900","Rp 22,375","Rp 39,827,500","Rp 31,862,000","Rp 7,965,500",31 Dec 2025,20%
+Government,Thailand,Teh Botol,None, 696 ,"Rp 20,100","Rp 25,125","Rp 17,487,000","Rp 13,989,600","Rp 3,497,400",31 Dec 2025,20%
+Midmarket,Cambodia,Chitato,None," 2,736 ","Rp 22,500","Rp 28,125","Rp 76,950,000","Rp 61,560,000","Rp 15,390,000",1 Jan 2025,20%
+Midmarket,Thailand,Teh Botol,None," 2,810 ","Rp 14,700","Rp 18,375","Rp 51,633,750","Rp 41,307,000","Rp 10,326,750",1 Jan 2025,20%
+Midmarket,Myanmar,Teh Botol,None, 847 ,"Rp 22,700","Rp 28,375","Rp 24,033,625","Rp 19,226,900","Rp 4,806,725",1 Jan 2025,20%
+Midmarket,Singapore,Gula Gulaku,None," 1,181 ","Rp 12,300","Rp 15,375","Rp 18,157,875","Rp 14,526,300","Rp 3,631,575",3 Jan 2025,20%
+Midmarket,Brunei,Chitato,None, 587 ,"Rp 2,600","Rp 3,250","Rp 1,907,750","Rp 1,526,200","Rp 381,550",4 Jan 2025,20%
+Midmarket,Cambodia,Sari Roti,None," 2,902 ","Rp 3,900","Rp 4,875","Rp 14,147,250","Rp 11,317,800","Rp 2,829,450",5 Jan 2025,20%
+Midmarket,Philippines,Biskuat,None, 462 ,"Rp 24,700","Rp 30,875","Rp 14,264,250","Rp 11,411,400","Rp 2,852,850",6 Jan 2025,20%
+Midmarket,Laos,Aqua,None," 2,863 ","Rp 22,100","Rp 27,625","Rp 79,090,375","Rp 63,272,300","Rp 15,818,075",8 Jan 2025,20%
+Midmarket,Thailand,Chitato,None," 1,456 ","Rp 22,100","Rp 27,625","Rp 40,222,000","Rp 32,177,600","Rp 8,044,400",8 Jan 2025,20%
+Midmarket,Malaysia,Chitato,None," 1,910 ","Rp 1,500","Rp 1,875","Rp 3,581,250","Rp 2,865,000","Rp 716,250",9 Jan 2025,20%
+Midmarket,Vietnam,Nugget Fiesta,None, 281 ,"Rp 17,500","Rp 21,875","Rp 6,146,875","Rp 4,917,500","Rp 1,229,375",11 Jan 2025,20%
+Midmarket,Brunei,Ultra Milk,None," 1,146 ","Rp 12,400","Rp 15,500","Rp 17,763,000","Rp 14,210,400","Rp 3,552,600",14 Jan 2025,20%
+Midmarket,Laos,Ultra Milk,None," 2,501 ","Rp 6,400","Rp 8,000","Rp 20,008,000","Rp 16,006,400","Rp 4,001,600",15 Jan 2025,20%
+Midmarket,Cambodia,Teh Botol,None," 1,197 ","Rp 9,900","Rp 12,375","Rp 14,812,875","Rp 11,850,300","Rp 2,962,575",17 Jan 2025,20%
+Midmarket,Singapore,Chitato,None," 2,952 ","Rp 2,200","Rp 2,750","Rp 8,118,000","Rp 6,494,400","Rp 1,623,600",17 Jan 2025,20%
+Midmarket,Thailand,Tango,None, 861 ,"Rp 21,300","Rp 26,625","Rp 22,924,125","Rp 18,339,300","Rp 4,584,825",17 Jan 2025,20%
+Midmarket,Brunei,Aqua,None, 542 ,"Rp 3,300","Rp 4,125","Rp 2,235,750","Rp 1,788,600","Rp 447,150",19 Jan 2025,20%
+Midmarket,Myanmar,Gula Gulaku,None, 235 ,"Rp 19,300","Rp 24,125","Rp 5,669,375","Rp 4,535,500","Rp 1,133,875",19 Jan 2025,20%
+Midmarket,Myanmar,Ultra Milk,None, 764 ,"Rp 15,000","Rp 18,750","Rp 14,325,000","Rp 11,460,000","Rp 2,865,000",20 Jan 2025,20%
+Midmarket,Vietnam,Nugget Fiesta,None," 2,944 ","Rp 12,700","Rp 15,875","Rp 46,736,000","Rp 37,388,800","Rp 9,347,200",21 Jan 2025,20%
+Midmarket,Laos,Teh Botol,None," 1,205 ","Rp 19,500","Rp 24,375","Rp 29,371,875","Rp 23,497,500","Rp 5,874,375",23 Jan 2025,20%
+Midmarket,Vietnam,Nugget Fiesta,None," 2,998 ","Rp 23,200","Rp 29,000","Rp 86,942,000","Rp 69,553,600","Rp 17,388,400",24 Jan 2025,20%
+Midmarket,Laos,Ultra Milk,None, 276 ,"Rp 3,600","Rp 4,500","Rp 1,242,000","Rp 993,600","Rp 248,400",26 Jan 2025,20%
+Midmarket,Vietnam,Sari Roti,None," 1,203 ","Rp 14,100","Rp 17,625","Rp 21,202,875","Rp 16,962,300","Rp 4,240,575",27 Jan 2025,20%
+Midmarket,Philippines,Gula Gulaku,None," 1,170 ","Rp 8,600","Rp 10,750","Rp 12,577,500","Rp 10,062,000","Rp 2,515,500",27 Jan 2025,20%
+Midmarket,Myanmar,Indomie,None," 2,830 ","Rp 6,800","Rp 8,500","Rp 24,055,000","Rp 19,244,000","Rp 4,811,000",29 Jan 2025,20%
+Midmarket,Malaysia,Teh Botol,None," 1,155 ","Rp 11,800","Rp 14,750","Rp 17,036,250","Rp 13,629,000","Rp 3,407,250",31 Jan 2025,20%
+Midmarket,Myanmar,Indomie,None, 315 ,"Rp 21,417","Rp 26,750","Rp 8,426,250","Rp 6,746,355","Rp 1,679,895",31 Jan 2025,20%
+Midmarket,Myanmar,Indomie,None, 765 ,"Rp 13,000","Rp 16,250","Rp 12,431,250","Rp 9,945,000","Rp 2,486,250",1 Feb 2025,20%
+Midmarket,Vietnam,Gula Gulaku,None," 2,489 ","Rp 1,500","Rp 1,875","Rp 4,666,875","Rp 3,733,500","Rp 933,375",2 Feb 2025,20%
+Midmarket,Philippines,Biskuat,None," 2,248 ","Rp 13,700","Rp 17,125","Rp 38,497,000","Rp 30,797,600","Rp 7,699,400",3 Feb 2025,20%
+Midmarket,Laos,Biskuat,None," 2,938 ","Rp 9,000","Rp 11,250","Rp 33,052,500","Rp 26,442,000","Rp 6,610,500",3 Feb 2025,20%
+Midmarket,Brunei,Indomie,None," 2,951 ","Rp 21,800","Rp 27,250","Rp 80,414,750","Rp 64,331,800","Rp 16,082,950",5 Feb 2025,20%
+Midmarket,Cambodia,Chitato,None," 2,140 ","Rp 2,200","Rp 2,750","Rp 5,885,000","Rp 4,708,000","Rp 1,177,000",12 Feb 2025,20%
+Midmarket,Malaysia,Nugget Fiesta,None," 1,224 ","Rp 1,700","Rp 2,125","Rp 2,601,000","Rp 2,080,800","Rp 520,200",14 Feb 2025,20%
+Midmarket,Malaysia,Indomie,None, 681 ,"Rp 15,300","Rp 19,125","Rp 13,024,125","Rp 10,419,300","Rp 2,604,825",14 Feb 2025,20%
+Midmarket,Laos,Tango,None," 1,286 ","Rp 10,800","Rp 13,500","Rp 17,361,000","Rp 13,888,800","Rp 3,472,200",15 Feb 2025,20%
+Midmarket,Thailand,Tango,None, 869 ,"Rp 13,700","Rp 17,125","Rp 14,881,625","Rp 11,905,300","Rp 2,976,325",15 Feb 2025,20%
+Midmarket,Brunei,Aqua,None," 2,035 ","Rp 5,200","Rp 6,500","Rp 13,227,500","Rp 10,582,000","Rp 2,645,500",15 Feb 2025,20%
+Midmarket,Thailand,Chitato,None," 2,269 ","Rp 6,300","Rp 7,875","Rp 17,868,375","Rp 14,294,700","Rp 3,573,675",17 Feb 2025,20%
+Midmarket,Singapore,Sari Roti,None," 1,087 ","Rp 15,500","Rp 19,375","Rp 21,060,625","Rp 16,848,500","Rp 4,212,125",23 Feb 2025,20%
+Midmarket,Brunei,Teh Botol,None, 871 ,"Rp 8,100","Rp 10,125","Rp 8,818,875","Rp 7,055,100","Rp 1,763,775",23 Feb 2025,20%
+Midmarket,Vietnam,Sari Roti,None," 1,168 ","Rp 21,100","Rp 26,375","Rp 30,806,000","Rp 24,644,800","Rp 6,161,200",24 Feb 2025,20%
+Midmarket,Thailand,Ultra Milk,None," 2,630 ","Rp 18,600","Rp 23,250","Rp 61,147,500","Rp 48,918,000","Rp 12,229,500",3 Mar 2025,20%
+Midmarket,Malaysia,Nugget Fiesta,None, 300 ,"Rp 1,500","Rp 1,875","Rp 562,500","Rp 450,000","Rp 112,500",4 Mar 2025,20%
+Midmarket,Thailand,Ultra Milk,None," 1,393 ","Rp 7,900","Rp 9,875","Rp 13,755,875","Rp 11,004,700","Rp 2,751,175",4 Mar 2025,20%
+Midmarket,Philippines,Chitato,None," 1,087 ","Rp 10,300","Rp 12,875","Rp 13,995,125","Rp 11,196,100","Rp 2,799,025",5 Mar 2025,20%
+Midmarket,Thailand,Tango,None," 1,225 ","Rp 2,000","Rp 2,500","Rp 3,062,500","Rp 2,450,000","Rp 612,500",5 Mar 2025,20%
+Midmarket,Philippines,Teh Botol,None," 1,869 ","Rp 15,800","Rp 19,750","Rp 36,912,750","Rp 29,530,200","Rp 7,382,550",8 Mar 2025,20%
+Midmarket,Singapore,Tango,None, 298 ,"Rp 19,700","Rp 24,625","Rp 7,338,250","Rp 5,870,600","Rp 1,467,650",10 Mar 2025,20%
+Midmarket,Thailand,Ultra Milk,None, 303 ,"Rp 3,400","Rp 4,250","Rp 1,287,750","Rp 1,030,200","Rp 257,550",14 Mar 2025,20%
+Midmarket,Indonesia,Gula Gulaku,None," 2,364 ","Rp 21,900","Rp 27,375","Rp 64,714,500","Rp 51,771,600","Rp 12,942,900",14 Mar 2025,20%
+Midmarket,Laos,Indomie,None, 199 ,"Rp 4,900","Rp 6,125","Rp 1,218,875","Rp 975,100","Rp 243,775",14 Mar 2025,20%
+Midmarket,Brunei,Tango,None," 1,662 ","Rp 11,700","Rp 14,625","Rp 24,306,750","Rp 19,445,400","Rp 4,861,350",17 Mar 2025,20%
+Midmarket,Vietnam,Biskuat,None, 793 ,"Rp 9,800","Rp 12,250","Rp 9,714,250","Rp 7,771,400","Rp 1,942,850",19 Mar 2025,20%
+Midmarket,Philippines,Chitato,None," 1,386 ","Rp 18,900","Rp 23,625","Rp 32,744,250","Rp 26,195,400","Rp 6,548,850",19 Mar 2025,20%
+Midmarket,Philippines,Tango,None, 919 ,"Rp 16,000","Rp 20,000","Rp 18,380,000","Rp 14,704,000","Rp 3,676,000",23 Mar 2025,20%
+Midmarket,Laos,Indomie,None, 740 ,"Rp 13,700","Rp 17,125","Rp 12,672,500","Rp 10,138,000","Rp 2,534,500",23 Mar 2025,20%
+Midmarket,Indonesia,Teh Botol,None," 1,010 ","Rp 10,200","Rp 12,750","Rp 12,877,500","Rp 10,302,000","Rp 2,575,500",26 Mar 2025,20%
+Midmarket,Indonesia,Nugget Fiesta,None," 2,392 ","Rp 11,000","Rp 13,750","Rp 32,890,000","Rp 26,312,000","Rp 6,578,000",26 Mar 2025,20%
+Midmarket,Malaysia,Chitato,None," 1,678 ","Rp 23,500","Rp 29,375","Rp 49,291,250","Rp 39,433,000","Rp 9,858,250",27 Mar 2025,20%
+Midmarket,Malaysia,Tango,None, 878 ,"Rp 12,700","Rp 15,875","Rp 13,938,250","Rp 11,150,600","Rp 2,787,650",27 Mar 2025,20%
+Midmarket,Thailand,Gula Gulaku,None, 391 ,"Rp 1,600","Rp 2,000","Rp 782,000","Rp 625,600","Rp 156,400",29 Mar 2025,20%
+Midmarket,Brunei,Aqua,None, 179 ,"Rp 6,200","Rp 7,750","Rp 1,387,250","Rp 1,109,800","Rp 277,450",29 Mar 2025,20%
+Midmarket,Thailand,Indomie,None," 1,188 ","Rp 9,500","Rp 11,875","Rp 14,107,500","Rp 11,286,000","Rp 2,821,500",30 Mar 2025,20%
+Midmarket,Vietnam,Teh Botol,None, 417 ,"Rp 3,900","Rp 4,875","Rp 2,032,875","Rp 1,626,300","Rp 406,575",31 Mar 2025,20%
+Midmarket,Brunei,Gula Gulaku,None, 602 ,"Rp 8,600","Rp 10,750","Rp 6,471,500","Rp 5,177,200","Rp 1,294,300",2 Apr 2025,20%
+Midmarket,Laos,Teh Botol,None, 213 ,"Rp 23,700","Rp 29,625","Rp 6,310,125","Rp 5,048,100","Rp 1,262,025",2 Apr 2025,20%
+Midmarket,Vietnam,Chitato,None," 1,739 ","Rp 4,100","Rp 5,125","Rp 8,912,375","Rp 7,129,900","Rp 1,782,475",2 Apr 2025,20%
+Midmarket,Brunei,Sari Roti,None," 1,321 ","Rp 4,800","Rp 6,000","Rp 7,926,000","Rp 6,340,800","Rp 1,585,200",5 Apr 2025,20%
+Midmarket,Philippines,Gula Gulaku,None," 2,206 ","Rp 22,000","Rp 27,500","Rp 60,665,000","Rp 48,532,000","Rp 12,133,000",5 Apr 2025,20%
+Midmarket,Vietnam,Nugget Fiesta,None," 2,167 ","Rp 6,800","Rp 8,500","Rp 18,419,500","Rp 14,735,600","Rp 3,683,900",8 Apr 2025,20%
+Midmarket,Laos,Indomie,None," 1,582 ","Rp 2,100","Rp 2,625","Rp 4,152,750","Rp 3,322,200","Rp 830,550",9 Apr 2025,20%
+Midmarket,Brunei,Biskuat,None," 2,961 ","Rp 16,300","Rp 20,375","Rp 60,330,375","Rp 48,264,300","Rp 12,066,075",10 Apr 2025,20%
+Midmarket,Philippines,Chitato,None, 805 ,"Rp 12,200","Rp 15,250","Rp 12,276,250","Rp 9,821,000","Rp 2,455,250",11 Apr 2025,20%
+Midmarket,Malaysia,Nugget Fiesta,None," 2,620 ","Rp 4,500","Rp 5,625","Rp 14,737,500","Rp 11,790,000","Rp 2,947,500",12 Apr 2025,20%
+Midmarket,Vietnam,Indomie,None," 1,949 ","Rp 4,900","Rp 6,125","Rp 11,937,625","Rp 9,550,100","Rp 2,387,525",12 Apr 2025,20%
+Midmarket,Indonesia,Aqua,None," 2,882 ","Rp 2,900","Rp 3,625","Rp 10,447,250","Rp 8,357,800","Rp 2,089,450",13 Apr 2025,20%
+Midmarket,Vietnam,Sari Roti,None," 1,867 ","Rp 22,300","Rp 27,875","Rp 52,042,625","Rp 41,634,100","Rp 10,408,525",14 Apr 2025,20%
+Midmarket,Indonesia,Sari Roti,None," 1,967 ","Rp 9,400","Rp 11,750","Rp 23,112,250","Rp 18,489,800","Rp 4,622,450",15 Apr 2025,20%
+Midmarket,Laos,Nugget Fiesta,None," 1,957 ","Rp 17,000","Rp 21,250","Rp 41,586,250","Rp 33,269,000","Rp 8,317,250",15 Apr 2025,20%
+Midmarket,Singapore,Nugget Fiesta,None," 2,226 ","Rp 11,700","Rp 14,625","Rp 32,555,250","Rp 26,044,200","Rp 6,511,050",19 Apr 2025,20%
+Midmarket,Myanmar,Chitato,None, 343 ,"Rp 10,500","Rp 13,125","Rp 4,501,875","Rp 3,601,500","Rp 900,375",21 Apr 2025,20%
+Midmarket,Indonesia,Tango,None," 1,681 ","Rp 7,800","Rp 9,750","Rp 16,389,750","Rp 13,111,800","Rp 3,277,950",24 Apr 2025,20%
+Midmarket,Singapore,Ultra Milk,None," 1,637 ","Rp 20,600","Rp 25,750","Rp 42,152,750","Rp 33,722,200","Rp 8,430,550",26 Apr 2025,20%
+Midmarket,Philippines,Nugget Fiesta,None," 1,613 ","Rp 22,300","Rp 27,875","Rp 44,962,375","Rp 35,969,900","Rp 8,992,475",26 Apr 2025,20%
+Midmarket,Laos,Aqua,None," 1,967 ","Rp 19,200","Rp 24,000","Rp 47,208,000","Rp 37,766,400","Rp 9,441,600",26 Apr 2025,20%
+Midmarket,Myanmar,Tango,None, 721 ,"Rp 20,700","Rp 25,875","Rp 18,655,875","Rp 14,924,700","Rp 3,731,175",28 Apr 2025,20%
+Midmarket,Cambodia,Chitato,None," 1,570 ","Rp 19,300","Rp 24,125","Rp 37,876,250","Rp 30,301,000","Rp 7,575,250",28 Apr 2025,20%
+Midmarket,Thailand,Sari Roti,None," 1,135 ","Rp 20,200","Rp 25,250","Rp 28,658,750","Rp 22,927,000","Rp 5,731,750",28 Apr 2025,20%
+Midmarket,Brunei,Biskuat,None," 1,388 ","Rp 5,800","Rp 7,250","Rp 10,063,000","Rp 8,050,400","Rp 2,012,600",28 Apr 2025,20%
+Midmarket,Malaysia,Chitato,None," 1,743 ","Rp 16,000","Rp 20,000","Rp 34,860,000","Rp 27,888,000","Rp 6,972,000",29 Apr 2025,20%
+Midmarket,Singapore,Ultra Milk,None, 754 ,"Rp 12,000","Rp 15,000","Rp 11,310,000","Rp 9,048,000","Rp 2,262,000",1 May 2025,20%
+Midmarket,Malaysia,Nugget Fiesta,None, 624 ,"Rp 11,500","Rp 14,375","Rp 8,970,000","Rp 7,176,000","Rp 1,794,000",3 May 2025,20%
+Midmarket,Laos,Biskuat,None," 1,642 ","Rp 22,700","Rp 28,375","Rp 46,591,750","Rp 37,273,400","Rp 9,318,350",4 May 2025,20%
+Midmarket,Cambodia,Sari Roti,None," 1,479 ","Rp 5,800","Rp 7,250","Rp 10,722,750","Rp 8,578,200","Rp 2,144,550",7 May 2025,20%
+Midmarket,Brunei,Chitato,None, 400 ,"Rp 13,800","Rp 17,250","Rp 6,900,000","Rp 5,520,000","Rp 1,380,000",12 May 2025,20%
+Midmarket,Brunei,Chitato,None," 1,577 ","Rp 21,500","Rp 26,875","Rp 42,381,875","Rp 33,905,500","Rp 8,476,375",13 May 2025,20%
+Midmarket,Laos,Biskuat,None, 910 ,"Rp 9,500","Rp 11,875","Rp 10,806,250","Rp 8,645,000","Rp 2,161,250",15 May 2025,20%
+Midmarket,Indonesia,Indomie,None," 1,933 ","Rp 22,600","Rp 28,250","Rp 54,607,250","Rp 43,685,800","Rp 10,921,450",15 May 2025,20%
+Midmarket,Myanmar,Tango,None," 1,963 ","Rp 8,500","Rp 10,625","Rp 20,856,875","Rp 16,685,500","Rp 4,171,375",16 May 2025,20%
+Midmarket,Thailand,Nugget Fiesta,None," 2,481 ","Rp 6,100","Rp 7,625","Rp 18,917,625","Rp 15,134,100","Rp 3,783,525",17 May 2025,20%
+Midmarket,Indonesia,Gula Gulaku,None, 720 ,"Rp 20,700","Rp 25,875","Rp 18,630,000","Rp 14,904,000","Rp 3,726,000",18 May 2025,20%
+Midmarket,Vietnam,Nugget Fiesta,None," 1,032 ","Rp 19,000","Rp 23,750","Rp 24,510,000","Rp 19,608,000","Rp 4,902,000",20 May 2025,20%
+Midmarket,Brunei,Teh Botol,None," 1,505 ","Rp 18,700","Rp 23,375","Rp 35,179,375","Rp 28,143,500","Rp 7,035,875",20 May 2025,20%
+Midmarket,Singapore,Nugget Fiesta,None, 962 ,"Rp 7,200","Rp 9,000","Rp 8,658,000","Rp 6,926,400","Rp 1,731,600",24 May 2025,20%
+Midmarket,Thailand,Ultra Milk,None," 1,472 ","Rp 20,400","Rp 25,500","Rp 37,536,000","Rp 30,028,800","Rp 7,507,200",24 May 2025,20%
+Midmarket,Myanmar,Biskuat,None," 1,578 ","Rp 5,600","Rp 7,000","Rp 11,046,000","Rp 8,836,800","Rp 2,209,200",24 May 2025,20%
+Midmarket,Thailand,Indomie,None," 1,341 ","Rp 13,400","Rp 16,750","Rp 22,461,750","Rp 17,969,400","Rp 4,492,350",27 May 2025,20%
+Midmarket,Cambodia,Teh Botol,None," 1,410 ","Rp 17,400","Rp 21,750","Rp 30,667,500","Rp 24,534,000","Rp 6,133,500",29 May 2025,20%
+Midmarket,Indonesia,Nugget Fiesta,None," 1,854 ","Rp 6,300","Rp 7,875","Rp 14,600,250","Rp 11,680,200","Rp 2,920,050",30 May 2025,20%
+Midmarket,Vietnam,Chitato,None, 420 ,"Rp 20,800","Rp 26,000","Rp 10,920,000","Rp 8,736,000","Rp 2,184,000",31 May 2025,20%
+Midmarket,Singapore,Aqua,None," 2,777 ","Rp 2,700","Rp 3,375","Rp 9,372,375","Rp 7,497,900","Rp 1,874,475",1 Jun 2025,20%
+Midmarket,Cambodia,Nugget Fiesta,None, 610 ,"Rp 4,700","Rp 5,875","Rp 3,583,750","Rp 2,867,000","Rp 716,750",5 Jun 2025,20%
+Midmarket,Philippines,Indomie,None," 2,367 ","Rp 5,200","Rp 6,500","Rp 15,385,500","Rp 12,308,400","Rp 3,077,100",7 Jun 2025,20%
+Midmarket,Singapore,Indomie,None," 2,049 ","Rp 9,100","Rp 11,375","Rp 23,307,375","Rp 18,645,900","Rp 4,661,475",9 Jun 2025,20%
+Midmarket,Malaysia,Sari Roti,None, 790 ,"Rp 20,200","Rp 25,250","Rp 19,947,500","Rp 15,958,000","Rp 3,989,500",10 Jun 2025,20%
+Midmarket,Indonesia,Tango,None," 1,857 ","Rp 20,088","Rp 25,000","Rp 46,425,000","Rp 37,303,416","Rp 9,121,584",12 Jun 2025,20%
+Midmarket,Indonesia,Teh Botol,None, 269 ,"Rp 14,500","Rp 18,125","Rp 4,875,625","Rp 3,900,500","Rp 975,125",13 Jun 2025,20%
+Midmarket,Cambodia,Tango,None," 2,302 ","Rp 13,600","Rp 17,000","Rp 39,134,000","Rp 31,307,200","Rp 7,826,800",13 Jun 2025,20%
+Midmarket,Cambodia,Sari Roti,None, 516 ,"Rp 19,800","Rp 24,750","Rp 12,771,000","Rp 10,216,800","Rp 2,554,200",16 Jun 2025,20%
+Midmarket,Thailand,Sari Roti,None, 534 ,"Rp 24,900","Rp 31,125","Rp 16,620,750","Rp 13,296,600","Rp 3,324,150",17 Jun 2025,20%
+Midmarket,Indonesia,Ultra Milk,None," 2,990 ","Rp 9,900","Rp 12,375","Rp 37,001,250","Rp 29,601,000","Rp 7,400,250",21 Jun 2025,20%
+Midmarket,Brunei,Chitato,None," 1,138 ","Rp 14,000","Rp 17,500","Rp 19,915,000","Rp 15,932,000","Rp 3,983,000",22 Jun 2025,20%
+Midmarket,Indonesia,Chitato,None," 1,376 ","Rp 23,100","Rp 28,875","Rp 39,732,000","Rp 31,785,600","Rp 7,946,400",23 Jun 2025,20%
+Midmarket,Brunei,Tango,None," 1,970 ","Rp 3,400","Rp 4,250","Rp 8,372,500","Rp 6,698,000","Rp 1,674,500",24 Jun 2025,20%
+Midmarket,Myanmar,Chitato,None," 2,043 ","Rp 18,900","Rp 23,625","Rp 48,265,875","Rp 38,612,700","Rp 9,653,175",26 Jun 2025,20%
+Midmarket,Malaysia,Sari Roti,None," 2,210 ","Rp 2,300","Rp 2,875","Rp 6,353,750","Rp 5,083,000","Rp 1,270,750",26 Jun 2025,20%
+Midmarket,Thailand,Gula Gulaku,None," 2,664 ","Rp 23,500","Rp 29,375","Rp 78,255,000","Rp 62,604,000","Rp 15,651,000",26 Jun 2025,20%
+Midmarket,Indonesia,Aqua,None," 2,540 ","Rp 3,000","Rp 3,750","Rp 9,525,000","Rp 7,620,000","Rp 1,905,000",27 Jun 2025,20%
+Midmarket,Laos,Chitato,None," 1,847 ","Rp 5,600","Rp 7,000","Rp 12,929,000","Rp 10,343,200","Rp 2,585,800",27 Jun 2025,20%
+Midmarket,Myanmar,Indomie,None," 2,722 ","Rp 24,000","Rp 30,000","Rp 81,660,000","Rp 65,328,000","Rp 16,332,000",28 Jun 2025,20%
+Midmarket,Brunei,Biskuat,None," 2,991 ","Rp 21,800","Rp 27,250","Rp 81,504,750","Rp 65,203,800","Rp 16,300,950",29 Jun 2025,20%
+Midmarket,Brunei,Aqua,None," 2,526 ","Rp 22,800","Rp 28,500","Rp 71,991,000","Rp 57,592,800","Rp 14,398,200",30 Jun 2025,20%
+Midmarket,Philippines,Sari Roti,None," 2,612 ","Rp 17,400","Rp 21,750","Rp 56,811,000","Rp 45,448,800","Rp 11,362,200",2 Jul 2025,20%
+Midmarket,Cambodia,Chitato,None, 360 ,"Rp 7,900","Rp 9,875","Rp 3,555,000","Rp 2,844,000","Rp 711,000",3 Jul 2025,20%
+Midmarket,Thailand,Sari Roti,None, 597 ,"Rp 13,300","Rp 16,625","Rp 9,925,125","Rp 7,940,100","Rp 1,985,025",3 Jul 2025,20%
+Midmarket,Laos,Ultra Milk,None, 224 ,"Rp 22,800","Rp 28,500","Rp 6,384,000","Rp 5,107,200","Rp 1,276,800",3 Jul 2025,20%
+Midmarket,Philippines,Tango,None, 396 ,"Rp 21,500","Rp 26,875","Rp 10,642,500","Rp 8,514,000","Rp 2,128,500",6 Jul 2025,20%
+Midmarket,Thailand,Gula Gulaku,None," 1,514 ","Rp 13,200","Rp 16,500","Rp 24,981,000","Rp 19,984,800","Rp 4,996,200",8 Jul 2025,20%
+Midmarket,Philippines,Ultra Milk,None," 2,468 ","Rp 10,700","Rp 13,375","Rp 33,009,500","Rp 26,407,600","Rp 6,601,900",11 Jul 2025,20%
+Midmarket,Cambodia,Chitato,None," 2,269 ","Rp 2,000","Rp 2,500","Rp 5,672,500","Rp 4,538,000","Rp 1,134,500",14 Jul 2025,20%
+Midmarket,Indonesia,Biskuat,None," 1,571 ","Rp 12,400","Rp 15,500","Rp 24,350,500","Rp 19,480,400","Rp 4,870,100",15 Jul 2025,20%
+Midmarket,Brunei,Aqua,None," 1,344 ","Rp 17,700","Rp 22,125","Rp 29,736,000","Rp 23,788,800","Rp 5,947,200",15 Jul 2025,20%
+Midmarket,Myanmar,Biskuat,None, 659 ,"Rp 11,400","Rp 14,250","Rp 9,390,750","Rp 7,512,600","Rp 1,878,150",15 Jul 2025,20%
+Midmarket,Myanmar,Ultra Milk,None," 2,648 ","Rp 22,300","Rp 27,875","Rp 73,813,000","Rp 59,050,400","Rp 14,762,600",15 Jul 2025,20%
+Midmarket,Philippines,Nugget Fiesta,None," 2,740 ","Rp 9,200","Rp 11,500","Rp 31,510,000","Rp 25,208,000","Rp 6,302,000",16 Jul 2025,20%
+Midmarket,Laos,Teh Botol,None, 423 ,"Rp 5,200","Rp 6,500","Rp 2,749,500","Rp 2,199,600","Rp 549,900",16 Jul 2025,20%
+Midmarket,Malaysia,Gula Gulaku,None," 2,866 ","Rp 19,400","Rp 24,250","Rp 69,500,500","Rp 55,600,400","Rp 13,900,100",16 Jul 2025,20%
+Midmarket,Indonesia,Gula Gulaku,None," 2,522 ","Rp 11,300","Rp 14,125","Rp 35,623,250","Rp 28,498,600","Rp 7,124,650",18 Jul 2025,20%
+Midmarket,Myanmar,Teh Botol,None," 2,635 ","Rp 24,500","Rp 30,625","Rp 80,696,875","Rp 64,557,500","Rp 16,139,375",18 Jul 2025,20%
+Midmarket,Malaysia,Aqua,None," 1,707 ","Rp 10,500","Rp 13,125","Rp 22,404,375","Rp 17,923,500","Rp 4,480,875",21 Jul 2025,20%
+Midmarket,Malaysia,Tango,None, 428 ,"Rp 7,600","Rp 9,500","Rp 4,066,000","Rp 3,252,800","Rp 813,200",22 Jul 2025,20%
+Midmarket,Philippines,Chitato,None," 1,056 ","Rp 20,100","Rp 25,125","Rp 26,532,000","Rp 21,225,600","Rp 5,306,400",22 Jul 2025,20%
+Midmarket,Singapore,Chitato,None," 2,991 ","Rp 6,600","Rp 8,250","Rp 24,675,750","Rp 19,740,600","Rp 4,935,150",23 Jul 2025,20%
+Midmarket,Vietnam,Tango,None," 2,441 ","Rp 12,200","Rp 15,250","Rp 37,225,250","Rp 29,780,200","Rp 7,445,050",24 Jul 2025,20%
+Midmarket,Cambodia,Sari Roti,None," 1,825 ","Rp 8,300","Rp 10,375","Rp 18,934,375","Rp 15,147,500","Rp 3,786,875",24 Jul 2025,20%
+Midmarket,Vietnam,Gula Gulaku,None," 1,535 ","Rp 3,300","Rp 4,125","Rp 6,331,875","Rp 5,065,500","Rp 1,266,375",24 Jul 2025,20%
+Midmarket,Philippines,Gula Gulaku,None, 383 ,"Rp 1,900","Rp 2,375","Rp 909,625","Rp 727,700","Rp 181,925",26 Jul 2025,20%
+Midmarket,Myanmar,Ultra Milk,None," 1,702 ","Rp 17,800","Rp 22,250","Rp 37,869,500","Rp 30,295,600","Rp 7,573,900",28 Jul 2025,20%
+Midmarket,Myanmar,Chitato,None, 915 ,"Rp 11,500","Rp 14,375","Rp 13,153,125","Rp 10,522,500","Rp 2,630,625",29 Jul 2025,20%
+Midmarket,Cambodia,Biskuat,None, 888 ,"Rp 7,100","Rp 8,875","Rp 7,881,000","Rp 6,304,800","Rp 1,576,200",30 Jul 2025,20%
+Midmarket,Malaysia,Sari Roti,None," 1,385 ","Rp 6,500","Rp 8,125","Rp 11,253,125","Rp 9,002,500","Rp 2,250,625",4 Aug 2025,20%
+Midmarket,Laos,Ultra Milk,None, 936 ,"Rp 19,700","Rp 24,625","Rp 23,049,000","Rp 18,439,200","Rp 4,609,800",4 Aug 2025,20%
+Midmarket,Singapore,Nugget Fiesta,None," 2,340 ","Rp 5,500","Rp 6,875","Rp 16,087,500","Rp 12,870,000","Rp 3,217,500",6 Aug 2025,20%
+Midmarket,Thailand,Teh Botol,None, 717 ,"Rp 11,272","Rp 14,000","Rp 10,038,000","Rp 8,082,024","Rp 1,955,976",9 Aug 2025,19%
+Midmarket,Thailand,Ultra Milk,None, 190 ,"Rp 22,900","Rp 28,625","Rp 5,438,750","Rp 4,351,000","Rp 1,087,750",10 Aug 2025,20%
+Midmarket,Thailand,Biskuat,None," 1,733 ","Rp 15,600","Rp 19,500","Rp 33,793,500","Rp 27,034,800","Rp 6,758,700",10 Aug 2025,20%
+Midmarket,Laos,Gula Gulaku,None, 534 ,"Rp 23,100","Rp 28,875","Rp 15,419,250","Rp 12,335,400","Rp 3,083,850",13 Aug 2025,20%
+Midmarket,Laos,Tango,None, 712 ,"Rp 8,900","Rp 11,125","Rp 7,921,000","Rp 6,336,800","Rp 1,584,200",14 Aug 2025,20%
+Midmarket,Vietnam,Sari Roti,None," 1,146 ","Rp 24,600","Rp 30,750","Rp 35,239,500","Rp 28,191,600","Rp 7,047,900",16 Aug 2025,20%
+Midmarket,Cambodia,Aqua,None," 2,588 ","Rp 2,700","Rp 3,375","Rp 8,734,500","Rp 6,987,600","Rp 1,746,900",17 Aug 2025,20%
+Midmarket,Philippines,Biskuat,None," 1,341 ","Rp 11,800","Rp 14,750","Rp 19,779,750","Rp 15,823,800","Rp 3,955,950",18 Aug 2025,20%
+Midmarket,Philippines,Sari Roti,None, 674 ,"Rp 10,500","Rp 13,125","Rp 8,846,250","Rp 7,077,000","Rp 1,769,250",21 Aug 2025,20%
+Midmarket,Cambodia,Chitato,None," 1,421 ","Rp 15,900","Rp 19,875","Rp 28,242,375","Rp 22,593,900","Rp 5,648,475",22 Aug 2025,20%
+Midmarket,Thailand,Sari Roti,None, 796 ,"Rp 2,300","Rp 2,875","Rp 2,288,500","Rp 1,830,800","Rp 457,700",22 Aug 2025,20%
+Midmarket,Cambodia,Teh Botol,None," 2,378 ","Rp 18,400","Rp 23,000","Rp 54,694,000","Rp 43,755,200","Rp 10,938,800",24 Aug 2025,20%
+Midmarket,Brunei,Tango,None, 994 ,"Rp 3,900","Rp 4,875","Rp 4,845,750","Rp 3,876,600","Rp 969,150",24 Aug 2025,20%
+Midmarket,Singapore,Tango,None," 2,230 ","Rp 15,800","Rp 19,750","Rp 44,042,500","Rp 35,234,000","Rp 8,808,500",27 Aug 2025,20%
+Midmarket,Philippines,Aqua,None," 2,320 ","Rp 18,300","Rp 22,875","Rp 53,070,000","Rp 42,456,000","Rp 10,614,000",29 Aug 2025,20%
+Midmarket,Thailand,Gula Gulaku,None," 1,994 ","Rp 5,700","Rp 7,125","Rp 14,207,250","Rp 11,365,800","Rp 2,841,450",31 Aug 2025,20%
+Midmarket,Malaysia,Gula Gulaku,None," 2,486 ","Rp 22,600","Rp 28,250","Rp 70,229,500","Rp 56,183,600","Rp 14,045,900",31 Aug 2025,20%
+Midmarket,Thailand,Nugget Fiesta,None," 1,113 ","Rp 15,800","Rp 19,750","Rp 21,981,750","Rp 17,585,400","Rp 4,396,350",2 Sep 2025,20%
+Midmarket,Laos,Chitato,None," 2,237 ","Rp 18,800","Rp 23,500","Rp 52,569,500","Rp 42,055,600","Rp 10,513,900",2 Sep 2025,20%
+Midmarket,Malaysia,Biskuat,None, 805 ,"Rp 24,900","Rp 31,125","Rp 25,055,625","Rp 20,044,500","Rp 5,011,125",2 Sep 2025,20%
+Midmarket,Vietnam,Gula Gulaku,None," 1,109 ","Rp 15,400","Rp 19,250","Rp 21,348,250","Rp 17,078,600","Rp 4,269,650",4 Sep 2025,20%
+Midmarket,Indonesia,Tango,None, 546 ,"Rp 16,800","Rp 21,000","Rp 11,466,000","Rp 9,172,800","Rp 2,293,200",6 Sep 2025,20%
+Midmarket,Indonesia,Nugget Fiesta,None, 970 ,"Rp 16,778","Rp 20,875","Rp 20,248,750","Rp 16,274,660","Rp 3,974,090",7 Sep 2025,20%
+Midmarket,Brunei,Aqua,None," 2,325 ","Rp 13,900","Rp 17,375","Rp 40,396,875","Rp 32,317,500","Rp 8,079,375",9 Sep 2025,20%
+Midmarket,Cambodia,Chitato,None," 2,466 ","Rp 9,400","Rp 11,750","Rp 28,975,500","Rp 23,180,400","Rp 5,795,100",10 Sep 2025,20%
+Midmarket,Brunei,Ultra Milk,None, 421 ,"Rp 9,600","Rp 12,000","Rp 5,052,000","Rp 4,041,600","Rp 1,010,400",12 Sep 2025,20%
+Midmarket,Vietnam,Ultra Milk,None, 553 ,"Rp 21,100","Rp 26,375","Rp 14,585,375","Rp 11,668,300","Rp 2,917,075",14 Sep 2025,20%
+Midmarket,Vietnam,Tango,None, 240 ,"Rp 15,400","Rp 19,250","Rp 4,620,000","Rp 3,696,000","Rp 924,000",15 Sep 2025,20%
+Midmarket,Philippines,Chitato,None," 2,749 ","Rp 4,500","Rp 5,625","Rp 15,463,125","Rp 12,370,500","Rp 3,092,625",17 Sep 2025,20%
+Midmarket,Malaysia,Teh Botol,None," 2,963 ","Rp 7,400","Rp 9,250","Rp 27,407,750","Rp 21,926,200","Rp 5,481,550",18 Sep 2025,20%
+Midmarket,Malaysia,Biskuat,None," 2,587 ","Rp 17,900","Rp 22,375","Rp 57,884,125","Rp 46,307,300","Rp 11,576,825",18 Sep 2025,20%
+Midmarket,Cambodia,Tango,None," 1,103 ","Rp 1,900","Rp 2,375","Rp 2,619,625","Rp 2,095,700","Rp 523,925",19 Sep 2025,20%
+Midmarket,Vietnam,Tango,None, 231 ,"Rp 17,300","Rp 21,625","Rp 4,995,375","Rp 3,996,300","Rp 999,075",19 Sep 2025,20%
+Midmarket,Brunei,Chitato,None," 2,801 ","Rp 21,700","Rp 27,125","Rp 75,977,125","Rp 60,781,700","Rp 15,195,425",19 Sep 2025,20%
+Midmarket,Malaysia,Tango,None," 2,253 ","Rp 14,400","Rp 18,000","Rp 40,554,000","Rp 32,443,200","Rp 8,110,800",21 Sep 2025,20%
+Midmarket,Myanmar,Gula Gulaku,None," 2,309 ","Rp 17,900","Rp 22,375","Rp 51,663,875","Rp 41,331,100","Rp 10,332,775",22 Sep 2025,20%
+Midmarket,Myanmar,Tango,None," 1,984 ","Rp 8,300","Rp 10,375","Rp 20,584,000","Rp 16,467,200","Rp 4,116,800",26 Sep 2025,20%
+Midmarket,Philippines,Indomie,None," 1,159 ","Rp 10,600","Rp 13,250","Rp 15,356,750","Rp 12,285,400","Rp 3,071,350",27 Sep 2025,20%
+Midmarket,Thailand,Biskuat,None," 2,276 ","Rp 12,800","Rp 16,000","Rp 36,416,000","Rp 29,132,800","Rp 7,283,200",27 Sep 2025,20%
+Midmarket,Brunei,Gula Gulaku,None, 526 ,"Rp 17,300","Rp 21,625","Rp 11,374,750","Rp 9,099,800","Rp 2,274,950",28 Sep 2025,20%
+Midmarket,Philippines,Chitato,None," 1,001 ","Rp 15,200","Rp 19,000","Rp 19,019,000","Rp 15,215,200","Rp 3,803,800",28 Sep 2025,20%
+Midmarket,Brunei,Teh Botol,None, 503 ,"Rp 3,100","Rp 3,875","Rp 1,949,125","Rp 1,559,300","Rp 389,825",1 Oct 2025,20%
+Midmarket,Cambodia,Gula Gulaku,None, 708 ,"Rp 13,400","Rp 16,750","Rp 11,859,000","Rp 9,487,200","Rp 2,371,800",1 Oct 2025,20%
+Midmarket,Thailand,Biskuat,None," 2,819 ","Rp 13,600","Rp 17,000","Rp 47,923,000","Rp 38,338,400","Rp 9,584,600",1 Oct 2025,20%
+Midmarket,Singapore,Tango,None," 1,038 ","Rp 19,000","Rp 23,750","Rp 24,652,500","Rp 19,722,000","Rp 4,930,500",4 Oct 2025,20%
+Midmarket,Cambodia,Biskuat,None, 274 ,"Rp 6,500","Rp 8,125","Rp 2,226,250","Rp 1,781,000","Rp 445,250",5 Oct 2025,20%
+Midmarket,Brunei,Biskuat,None, 799 ,"Rp 23,300","Rp 29,125","Rp 23,270,875","Rp 18,616,700","Rp 4,654,175",8 Oct 2025,20%
+Midmarket,Singapore,Tango,None," 1,996 ","Rp 8,900","Rp 11,125","Rp 22,205,500","Rp 17,764,400","Rp 4,441,100",9 Oct 2025,20%
+Midmarket,Cambodia,Teh Botol,None, 933 ,"Rp 19,200","Rp 24,000","Rp 22,392,000","Rp 17,913,600","Rp 4,478,400",10 Oct 2025,20%
+Midmarket,Laos,Nugget Fiesta,None," 2,800 ","Rp 10,800","Rp 13,500","Rp 37,800,000","Rp 30,240,000","Rp 7,560,000",11 Oct 2025,20%
+Midmarket,Cambodia,Nugget Fiesta,None," 2,088 ","Rp 3,200","Rp 4,000","Rp 8,352,000","Rp 6,681,600","Rp 1,670,400",12 Oct 2025,20%
+Midmarket,Indonesia,Indomie,None, 329 ,"Rp 11,200","Rp 14,000","Rp 4,606,000","Rp 3,684,800","Rp 921,200",12 Oct 2025,20%
+Midmarket,Indonesia,Sari Roti,None, 179 ,"Rp 13,400","Rp 16,750","Rp 2,998,250","Rp 2,398,600","Rp 599,650",13 Oct 2025,20%
+Midmarket,Vietnam,Teh Botol,None, 738 ,"Rp 3,500","Rp 4,375","Rp 3,228,750","Rp 2,583,000","Rp 645,750",16 Oct 2025,20%
+Midmarket,Vietnam,Nugget Fiesta,None," 2,666 ","Rp 8,300","Rp 10,375","Rp 27,659,750","Rp 22,127,800","Rp 5,531,950",18 Oct 2025,20%
+Midmarket,Malaysia,Sari Roti,None," 1,944 ","Rp 19,800","Rp 24,750","Rp 48,114,000","Rp 38,491,200","Rp 9,622,800",19 Oct 2025,20%
+Midmarket,Vietnam,Indomie,None," 2,194 ","Rp 2,900","Rp 3,625","Rp 7,953,250","Rp 6,362,600","Rp 1,590,650",21 Oct 2025,20%
+Midmarket,Vietnam,Chitato,None," 1,657 ","Rp 4,800","Rp 6,000","Rp 9,942,000","Rp 7,953,600","Rp 1,988,400",21 Oct 2025,20%
+Midmarket,Myanmar,Gula Gulaku,None, 925 ,"Rp 15,300","Rp 19,125","Rp 17,690,625","Rp 14,152,500","Rp 3,538,125",24 Oct 2025,20%
+Midmarket,Vietnam,Tango,None," 1,644 ","Rp 5,100","Rp 6,375","Rp 10,480,500","Rp 8,384,400","Rp 2,096,100",25 Oct 2025,20%
+Midmarket,Singapore,Biskuat,None," 1,057 ","Rp 8,900","Rp 11,125","Rp 11,759,125","Rp 9,407,300","Rp 2,351,825",26 Oct 2025,20%
+Midmarket,Philippines,Tango,None," 2,716 ","Rp 14,800","Rp 18,500","Rp 50,246,000","Rp 40,196,800","Rp 10,049,200",26 Oct 2025,20%
+Midmarket,Vietnam,Tango,None," 1,869 ","Rp 10,100","Rp 12,625","Rp 23,596,125","Rp 18,876,900","Rp 4,719,225",29 Oct 2025,20%
+Midmarket,Singapore,Chitato,None," 1,957 ","Rp 22,900","Rp 28,625","Rp 56,019,125","Rp 44,815,300","Rp 11,203,825",31 Oct 2025,20%
+Midmarket,Malaysia,Teh Botol,None," 1,569 ","Rp 20,400","Rp 25,500","Rp 40,009,500","Rp 32,007,600","Rp 8,001,900",31 Oct 2025,20%
+Midmarket,Philippines,Biskuat,None, 184 ,"Rp 7,000","Rp 8,750","Rp 1,610,000","Rp 1,288,000","Rp 322,000",2 Nov 2025,20%
+Midmarket,Malaysia,Gula Gulaku,None," 2,835 ","Rp 14,500","Rp 18,125","Rp 51,384,375","Rp 41,107,500","Rp 10,276,875",6 Nov 2025,20%
+Midmarket,Philippines,Biskuat,None," 2,612 ","Rp 14,400","Rp 18,000","Rp 47,016,000","Rp 37,612,800","Rp 9,403,200",7 Nov 2025,20%
+Midmarket,Myanmar,Aqua,None, 795 ,"Rp 12,300","Rp 15,375","Rp 12,223,125","Rp 9,778,500","Rp 2,444,625",8 Nov 2025,20%
+Midmarket,Malaysia,Aqua,None," 2,417 ","Rp 2,600","Rp 3,250","Rp 7,855,250","Rp 6,284,200","Rp 1,571,050",9 Nov 2025,20%
+Midmarket,Thailand,Teh Botol,None, 600 ,"Rp 5,500","Rp 6,875","Rp 4,125,000","Rp 3,300,000","Rp 825,000",11 Nov 2025,20%
+Midmarket,Thailand,Aqua,None," 1,173 ","Rp 19,300","Rp 24,125","Rp 28,298,625","Rp 22,638,900","Rp 5,659,725",11 Nov 2025,20%
+Midmarket,Philippines,Gula Gulaku,None," 2,087 ","Rp 17,800","Rp 22,250","Rp 46,435,750","Rp 37,148,600","Rp 9,287,150",12 Nov 2025,20%
+Midmarket,Thailand,Ultra Milk,None," 1,195 ","Rp 23,800","Rp 29,750","Rp 35,551,250","Rp 28,441,000","Rp 7,110,250",13 Nov 2025,20%
+Midmarket,Myanmar,Teh Botol,None," 2,432 ","Rp 13,300","Rp 16,625","Rp 40,432,000","Rp 32,345,600","Rp 8,086,400",16 Nov 2025,20%
+Midmarket,Thailand,Ultra Milk,None," 1,603 ","Rp 10,100","Rp 12,625","Rp 20,237,875","Rp 16,190,300","Rp 4,047,575",17 Nov 2025,20%
+Midmarket,Vietnam,Biskuat,None," 2,334 ","Rp 5,700","Rp 7,125","Rp 16,629,750","Rp 13,303,800","Rp 3,325,950",19 Nov 2025,20%
+Midmarket,Indonesia,Indomie,None," 1,784 ","Rp 21,500","Rp 26,875","Rp 47,945,000","Rp 38,356,000","Rp 9,589,000",19 Nov 2025,20%
+Midmarket,Singapore,Teh Botol,None," 1,520 ","Rp 23,200","Rp 29,000","Rp 44,080,000","Rp 35,264,000","Rp 8,816,000",20 Nov 2025,20%
+Midmarket,Brunei,Ultra Milk,None, 499 ,"Rp 13,500","Rp 16,875","Rp 8,420,625","Rp 6,736,500","Rp 1,684,125",28 Nov 2025,20%
+Midmarket,Brunei,Teh Botol,None, 327 ,"Rp 4,200","Rp 5,250","Rp 1,716,750","Rp 1,373,400","Rp 343,350",30 Nov 2025,20%
+Midmarket,Vietnam,Ultra Milk,None," 2,609 ","Rp 19,000","Rp 23,750","Rp 61,963,750","Rp 49,571,000","Rp 12,392,750",7 Dec 2025,20%
+Midmarket,Indonesia,Sari Roti,None," 2,983 ","Rp 22,700","Rp 28,375","Rp 84,642,625","Rp 67,714,100","Rp 16,928,525",10 Dec 2025,20%
+Midmarket,Brunei,Indomie,None," 1,218 ","Rp 9,800","Rp 12,250","Rp 14,920,500","Rp 11,936,400","Rp 2,984,100",11 Dec 2025,20%
+Midmarket,Laos,Indomie,None," 2,407 ","Rp 12,500","Rp 15,625","Rp 37,609,375","Rp 30,087,500","Rp 7,521,875",12 Dec 2025,20%
+Midmarket,Brunei,Gula Gulaku,None, 269 ,"Rp 2,900","Rp 3,625","Rp 975,125","Rp 780,100","Rp 195,025",12 Dec 2025,20%
+Midmarket,Malaysia,Teh Botol,None," 2,542 ","Rp 23,100","Rp 28,875","Rp 73,400,250","Rp 58,720,200","Rp 14,680,050",13 Dec 2025,20%
+Midmarket,Singapore,Gula Gulaku,None, 697 ,"Rp 2,700","Rp 3,375","Rp 2,352,375","Rp 1,881,900","Rp 470,475",13 Dec 2025,20%
+Midmarket,Malaysia,Teh Botol,None," 1,882 ","Rp 16,600","Rp 20,750","Rp 39,051,500","Rp 31,241,200","Rp 7,810,300",17 Dec 2025,20%
+Midmarket,Cambodia,Chitato,None," 2,756 ","Rp 6,400","Rp 8,000","Rp 22,048,000","Rp 17,638,400","Rp 4,409,600",18 Dec 2025,20%
+Midmarket,Vietnam,Nugget Fiesta,None," 2,307 ","Rp 17,500","Rp 21,875","Rp 50,465,625","Rp 40,372,500","Rp 10,093,125",19 Dec 2025,20%
+Midmarket,Malaysia,Aqua,None," 2,430 ","Rp 17,200","Rp 21,500","Rp 52,245,000","Rp 41,796,000","Rp 10,449,000",20 Dec 2025,20%
+Midmarket,Laos,Ultra Milk,None, 592 ,"Rp 18,900","Rp 23,625","Rp 13,986,000","Rp 11,188,800","Rp 2,797,200",20 Dec 2025,20%
+Midmarket,Brunei,Nugget Fiesta,None, 309 ,"Rp 3,900","Rp 4,875","Rp 1,506,375","Rp 1,205,100","Rp 301,275",21 Dec 2025,20%
+Midmarket,Cambodia,Aqua,None," 2,352 ","Rp 9,000","Rp 11,250","Rp 26,460,000","Rp 21,168,000","Rp 5,292,000",22 Dec 2025,20%
+Midmarket,Thailand,Nugget Fiesta,None," 2,300 ","Rp 20,400","Rp 25,500","Rp 58,650,000","Rp 46,920,000","Rp 11,730,000",22 Dec 2025,20%
+Midmarket,Laos,Biskuat,None," 2,792 ","Rp 20,100","Rp 25,125","Rp 70,149,000","Rp 56,119,200","Rp 14,029,800",23 Dec 2025,20%
+Midmarket,Brunei,Aqua,None," 1,367 ","Rp 13,000","Rp 16,250","Rp 22,213,750","Rp 17,771,000","Rp 4,442,750",23 Dec 2025,20%
+Midmarket,Vietnam,Biskuat,None, 723 ,"Rp 16,800","Rp 21,000","Rp 15,183,000","Rp 12,146,400","Rp 3,036,600",23 Dec 2025,20%
+Midmarket,Thailand,Ultra Milk,None," 2,704 ","Rp 10,900","Rp 13,625","Rp 36,842,000","Rp 29,473,600","Rp 7,368,400",24 Dec 2025,20%
+Midmarket,Laos,Indomie,None," 1,700 ","Rp 18,900","Rp 23,625","Rp 40,162,500","Rp 32,130,000","Rp 8,032,500",24 Dec 2025,20%
+Midmarket,Cambodia,Biskuat,None, 816 ,"Rp 21,100","Rp 26,375","Rp 21,522,000","Rp 17,217,600","Rp 4,304,400",26 Dec 2025,20%
+Midmarket,Philippines,Nugget Fiesta,None," 1,716 ","Rp 14,000","Rp 17,500","Rp 30,030,000","Rp 24,024,000","Rp 6,006,000",27 Dec 2025,20%
+Midmarket,Vietnam,Biskuat,None," 2,735 ","Rp 13,500","Rp 16,875","Rp 46,153,125","Rp 36,922,500","Rp 9,230,625",28 Dec 2025,20%
+Midmarket,Indonesia,Sari Roti,None," 2,952 ","Rp 24,600","Rp 30,750","Rp 90,774,000","Rp 72,619,200","Rp 18,154,800",28 Dec 2025,20%
+Midmarket,Thailand,Biskuat,None, 944 ,"Rp 15,300","Rp 19,125","Rp 18,054,000","Rp 14,443,200","Rp 3,610,800",28 Dec 2025,20%
+Midmarket,Myanmar,Chitato,None," 1,621 ","Rp 21,700","Rp 27,125","Rp 43,969,625","Rp 35,175,700","Rp 8,793,925",28 Dec 2025,20%
+Midmarket,Thailand,Teh Botol,None, 747 ,"Rp 24,900","Rp 31,125","Rp 23,250,375","Rp 18,600,300","Rp 4,650,075",29 Dec 2025,20%
+Midmarket,Singapore,Ultra Milk,None," 2,846 ","Rp 24,200","Rp 30,250","Rp 86,091,500","Rp 68,873,200","Rp 17,218,300",31 Dec 2025,20%
