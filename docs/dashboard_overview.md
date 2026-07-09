@@ -45,3 +45,4 @@ mengedit PivotTable secara manual — cukup klik kategori yang diinginkan.
 
 ## 6. Screenshot
 > ![Dashboard Overview](https://github.com/alvinaryapangestu/Sales-Performance-Dashboard---Minimarket-/blob/dabb48308391bfb078de712b44935ff996b3cca7/docs/screenshots/dashboard1.png)
+> ![Dashboard Overview](https://github.com/alvinaryapangestu/Sales-Performance-Dashboard---Minimarket-/blob/0503f5ed21d93b118d9bd6c7a47026354b03c905/docs/screenshots/dashboard%202.png)
